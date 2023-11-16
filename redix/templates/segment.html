@@ -1,0 +1,131 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ReDiX</title>
+    <link rel="stylesheet" href="{% static 'mystyle.css' %}">
+    <script src="https://verovio-script.humdrum.org/scripts/verovio-toolkit.js"></script>
+    <script>
+    function get_humdrum_snippet(url, point_id) {
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange=function() {
+        if (this.readyState == 4 && this.status == 200) {
+          snippet = this.responseText;
+          show_humdrum_snippet(point_id, snippet);
+        }
+      };
+      xhttp.open("GET", url, true);
+      xhttp.send();
+    }
+    </script>
+    <script>
+    function get_point_list(url, stat_id) {
+      var xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange=function() {
+        if (this.readyState == 4 && this.status == 200) {
+          template = this.responseText;
+          change_display(stat_id)
+          document.getElementById(stat_id).innerHTML = template;
+        }
+      };
+      xhttp.open("GET", url, true);
+      xhttp.send();
+    }
+    </script>
+    <script>
+    function show_humdrum_snippet(point_id, snippet) {
+        var tk = new verovio.toolkit();
+        let div = document.getElementById(point_id);
+        if (div.style.display == "none") {
+            var options = {
+                landscape: true,
+                footer: "none",
+                header: "none",
+                from: "humdrum",
+                scale:  40,
+                font: "Leipzig",
+                adjustPageHeight: true,
+                pageWidth: 4000
+            };
+            div.style.display = "block";
+            var svg = tk.renderData(snippet, options);
+            div.innerHTML = svg;
+        }
+        else {
+            div.style.display = "none";
+            div.innerHTML = "";
+        }
+    }
+    </script>
+    <script>
+    function change_display(id) {
+        if (document.getElementById(id).style.display == "none") {
+            document.getElementById(id).style.display = "block";
+        }
+        else { document.getElementById(id).style.display = "none"; }
+        event.preventDefault();
+    }
+    document.addEventListener('click', function handleClickOutsideBox(event) {
+      const list = document.getElementById('dropdown-list');
+      const button = document.getElementById('dropdown-btn');
+
+      if (!list.contains(event.target) & !button.contains(event.target)) {
+        list.style.display = 'none';
+      }
+    });
+    </script>
+</head>
+<body>
+
+</body>
+</html>
+<body>
+    <h3>ReDiX - Renaissance Digital eXplorer</h3>
+    <form action="#" method="get" style="position: relative;">
+        <button id="dropdown-btn" class="light-btn dropdown-select-btn" href="" onclick="change_display('dropdown-list')">
+            Select Composers</button></br>
+        <div id="dropdown-list" class="dropdown-check-list" style="display: none; position: absolute;">
+                {% for composer in all_composers %}
+                <input type="checkbox" id="{{composer.name}}" name="{{composer.name}}" value="1"/>
+                <label for="{{composer.name}}">{{composer}}</label><br/>
+                {% endfor %}
+              </ul>
+        </div>
+        <label for="fb_no_reduce">Do not reduce to the octave the following intervals</label>
+        <input type="text" class="text-input" placeholder="e.g. 9 11" name="fb_no_reduce" id="fb_no_reduce" size="40"/>
+        <label for="fb_contains">The figured bass contains</label>
+        <input type="text" class="text-input" placeholder="e.g. 3 5" name="fb_contains" id="fb_contains" size="40"/>
+        <label for="fb_does_not_contain">The figured bass does not contain</label>
+        <input type="text" class="text-input" placeholder="e.g. 4 7" name="fb_does_not_contain" id="fb_does_not_contain" size="40"/>
+        <label for="fb_quarters">Only this quarters should be considered in a semibreve (default: all)</label>
+        <input type="text" class="text-input" placeholder="e.g. 0 2" name="fb_quarters" id="fb_quarters" size="10"/>
+        <input type="submit" class="search-btn" value="Search" name="search_btn"/>
+    </form>
+
+    {% if total_points %}
+    <p>Collected {{selected_points}}/{{total_points}} points ({{point_ratio}} %) from the following composer(s): {{f_selected_composers}}</p>
+    <div>
+        <table><tr>
+            <th class="n-data">Signature</th>
+            <th class="n-data"># points</th>
+            <th class="n-data">Ratio</th>
+        </table></tr>
+    </div>
+
+    {% for stat in stats %}
+    <div>
+        <table><tr>
+            <td class="n-data"><button class="key-btn light-btn" onclick='get_point_list("{% url 'get_point_list' stat.html_id %}", "{{stat.html_id}}")'>{{ stat.signature }}</button></td>
+            <td class="n-data">{{ stat.n }}</td>
+            <td class="n-data">{{ stat.ratio }} %</td>
+        </table></tr>
+    </div>
+    <div id="{{ stat.html_id }}" style="display: none;">
+    </div>
+    {% endfor %}
+    {% endif %}
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ReDiX</title>
+    <link rel="stylesheet" href="{% static 'mystyle.css' %}">
+    <script src="{% static 'multiselect-dropdown.js' %}"></script>
+    <script src="https://www.verovio.org/javascript/latest/verovio-toolkit-wasm.js" defer></script>
+</head>
+<body>
+    <h3>ReDiX - Renaissance Digital eXplorer</h3>
+<!--    <div class="dropdown">-->
+<!--      <button onclick="myFunction()" class="dropbtn">Select composer(s)</button>-->
+<!--      <div id="myDropdown" class="dropdown-content">-->
+<!--        <p><input type="checkbox" /> Apple</p>-->
+<!--        <p><input type="checkbox" /> Apple</p>-->
+<!--        <p><input type="checkbox" /> Apple</p>-->
+<!--      </div>-->
+<!--    </div>-->
+
+    <p>List of all composers in the database:</p>
+    <table>
+        {% for item in composers %}
+        <tr><td>{{ item }}</td></tr>
+        {% endfor %}
+    </table>
+<div id="notation"></div>
+
+
+</body>
+</html>

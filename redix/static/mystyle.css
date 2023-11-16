@@ -1,0 +1,83 @@
+.light-btn {
+  text-size: 30px;
+  cursor: pointer;
+  background-color: #a4223650;
+  padding: 2px 2px;
+  border: none;
+  border-radius: 4px;
+}
+
+.light-btn:focus {
+  background-color: #a42236;
+}
+
+.dropdown-select-btn {
+  width: 400px;
+  height: 60px;
+  margin: 10px 10px;
+  padding: 10px 10px;
+  text-align: left;
+}
+
+.dropdown-check-list {
+  height: 280px;
+  margin: 10px 10px;
+  padding: 10px 10px;
+  overflow: auto;
+  background-color: white;
+}
+
+.text-input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.search-btn {
+  width: 100%;
+  display: inline-block;
+  background-color: #a42236;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.key-btn {
+  width: 100%;
+  height: 30px;
+}
+
+.n-data {
+  width: 120px;
+  text-align: center;
+}
+
+.point-table {
+    position: relative;
+}
+
+.point-data {
+    padding: 0px 10px;
+    margin: 0px 10px;
+    text-align: centre;
+}
+
+.humdrum-notation {
+    width: 100%;
+    position: absolute;
+    background-color: white;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+.show {display: block;}
+
+.hide {display: none;}

@@ -1,0 +1,371 @@
+!!!CDT:
+!!!PTL: Il secondo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Heirs of G. Scotto
+!!!PDT: 1599
+!!!PUB-format:
+!!!RISM: 1599-16
+!!!rime: 560
+!!!AGN: Madrigal
+!!!SCT: Trm0560l
+!!!SCA: Trm0560l
+!!!original-voices: 5
+!!!extant-voices: 1
+!!!complete: N
+!!!final: G?
+!!!COM: Nanino, Giovanni Bernardino
+!!!OTL: Tarquinia, se rimiri
+**kern	**text
+*part1	*part1
+*staff1	*staff1
+*I"Tenore	*
+*I'T	*
+*oclefC3	*
+*clefGv2	*
+*k[]	*
+*omet(C)	*
+*M4/2	*
+=1	=1
+1r	.
+2d	Men-
+4e	-tre,
+4g	mia
+=2	=2
+4g	stel-
+4f	-la,
+2e	mi-
+2d	-ri
+4r	.
+4g	I
+=3	=3
+4.f#X	bei
+8e	ce-
+4f#X	-le-
+4g	-sti
+1c	gi-
+=4	=4
+1d	-ri,
+2r	.
+2G	Men-
+=5	=5
+4A	-tre,
+4c	mia
+4c	stel-
+4B	-la
+2A	mi-
+2G	-ri
+=6	=6
+4r	.
+4c	I
+4.B	bei
+8A	ce-
+4B	-le-
+4c	-sti
+2G	gi-
+=7	=7
+4G	-ri,
+4c	I
+4.B	bei
+8c	ce-
+4d	-le-
+4d	-sti
+2A	gi-
+=8	=8
+1d	-ri,
+2r	.
+2G	Il
+=9	=9
+1g	Ciel
+2f	es-
+4f	-ser
+4f	vor-
+=10	=10
+8eL	-re-
+8d	.
+8c	.
+8dJ	.
+8eL	.
+8f	.
+8g	.
+8eJ	.
+4f#X	.
+2g	.
+4f#X	.
+=11	=11
+2g	-i,
+2G	Il
+1g	Ciel
+=12	=12
+2c	es-
+4c	-ser
+4A	vor-
+1G	-re-
+=13	=13
+1g	-i;
+1r	.
+=14	=14
+1r	.
+4r	.
+4e	Per-
+[2e	-ché
+=15	=15
+1e]	.
+2d	ne
+4c	gli oc-
+4c	-chi
+=16	=16
+2B	mie-
+2A	-i
+1d	Fis-
+=17	=17
+4A	-so
+4d	tu
+2.d	ri-
+4G	-vol-
+2c	-ges-
+=18	=18
+1c	-si
+1r	.
+=19	=19
+2r	.
+1a	Le
+2g	tue
+=20	=20
+1f#X	dol-
+2g	-ci
+2e	fa-
+=21	=21
+2d	-vil-
+4d	-le,
+4G	Io
+4c	va-
+4c	-gheg-
+8GL	-giar-
+8A	.
+8B	.
+8cJ	.
+=22	=22
+8dL	.
+8e	.
+8f	.
+8dJ	.
+4e	.
+4e	-po-
+2d	-tes-
+2d	-si,
+=23	=23
+4r	.
+4d	Io
+4f	va-
+4f	-gheg-
+8eL	-giar
+8d	.
+8e	.
+8fJ	.
+4g	.
+4f	po-
+=24	=24
+1a	-tes-
+2a	-si
+4g	Mil-
+8g	-le
+8g	bel-
+=25	=25
+4g	-lez-
+4f#X	-ze
+4g	tue
+4d	con
+4e	lu-
+4e	-ci
+2d	mil-
+=26	=26
+2G	-le,
+4g	Mil-
+8g	-le
+8g	bel-
+4g	-le-
+4f#X	-ze
+2g	tue,
+=27	=27
+2r	.
+4d	Mil-
+8d	-le
+8d	bel-
+4d	-lez-
+4c#X	-ze
+4d	tue
+4A	con
+=28	=28
+4B	lu-
+4G	-ci
+2A	mil-
+4G	-le,
+4B	con
+4.c	lu-
+8B	-ci
+=29	=29
+1A	mil-
+2G	-le,
+4r	.
+4G	Io
+=30	=30
+4c	va-
+4c	-gheg-
+8GL	-giar
+8A	.
+8B	.
+8cJ	.
+8dL	.
+8e	.
+8f	.
+8dJ	.
+4e	.
+4e	po-
+=31	=31
+2d	-tes-
+2d	-si,
+4r	.
+4d	Io
+4f	va-
+4f	-gheg-
+=32	=32
+8eL	-giar
+8d	.
+8e	.
+8fJ	.
+4g	.
+4f	po-
+1a	-tes-
+=33	=33
+2a	-si
+4g	Mil-
+8g	-le
+8g	bel-
+4g	-lez-
+4f#X	-ze
+4g	tue
+4d	con
+=34	=34
+4e	lu-
+4e	-ci
+2d	mil-
+2G	-le,
+4g	Mil-
+8g	-le
+8g	bel-
+=35	=35
+4g	-lez-
+4f#X	-ze
+2g	tue,
+2r	.
+4d	Mil-
+8d	-le
+8d	bel-
+=36	=36
+4d	-lez-
+4c#X	-ze
+4d	tue
+4A	con
+4B	lu-
+4G	-ci
+2A	mil-
+=37	=37
+2G	-le,
+2B	con
+2.c	lu-
+4B	-ci
+=38	=38
+1A	mil-
+1Gl	-le.
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2018
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2018/09/18
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/18 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	560
+!!@CATALOGNUM:	Trm0560
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Tarquinia, se rimiri
+!!@GENRE:		madrigale
+!!@MANUSRC:	A<sub>3</sub>, C, E<sub>1</sub>, E<sub>7</sub>, F<sub>2</sub>, V<sub>8</sub>, V<sub>9</sub>, V<sub>13/E1</sub>
+!!@PRINTSRC:	8, 9, 11, 12, 13, 15, 20, 24, 33, 67, 141, 145, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	A la signora Tarquinia Molza la quale studiando la sfera andava la sera a contemplar le stelle.
+!!@ABOUTEN:	To lady Tarquinia Molza who, studying the globe, went to contemplate the stars at night.
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	3
+!!@EDITION_PAGE:  79
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Tarquinia, se rimiri
+!!	I bei celesti giri,
+!!	Il cielo esser vorrei;
+!!	Perché ne gli occhi miei
+!!	Fisso tu rivolgessi
+!!	Le tue dolci faville,
+!!	Io vagheggiar potessi
+!!	Mille bellezze tue con luci mille.
+!!@TVERSE:
+!!	Tarquinia, if I look upon
+!!	The beautiful blue spheres,
+!!	The sky I wish to be;
+!!	So that to my eyes
+!!	Raptly you may turn
+!!	Your sweet sparks,
+!!	And I may long for
+!!	Your thousand beauties with a thousand 	lights.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   Torquato Tasso, <i>Rime d’amore (secondo il codice
+!!		Chigiano L VIII 302)</i>, eds. Franco Gavazzeni and
+!!		Vercingetorige Martignone, vol. 4 of <i>Edizione
+!!		Nazionale delle opere di Torquato Tasso</i>
+!!		(Alessandria: Edizioni Dell’Orso, 2004), 171.
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		Among other authoritative sources (see Literary
+!!		Sources), this poem appears in the autograph Chigiano
+!!		L.VIII.302 (Biblioteca Vaticana, Rome), compiled
+!!		around 1584&ndash;85.
+!!@DATING:	In or before 1571
+!!		<br>
+!!		The earliest datable appearance of this poem is in a musical setting by Ferrarese composer Luzzasco Luzzaschi published in 1571 (see Musical Settings). In this setting, the text is subtantially different than in later musical and literary sources (see Literary Variants).
+!!@DEDICATEE:	Molza, Tarquinia Molza
+!!@DEDICATEE_INFO:	(1542-1617)
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0560l
+!!@RIMETITLE:	Tarquinia, se rimiri
+!!@SETTINGTITLE:	Mentre, mia stella, miri
+!!@SOLERTI:	560
+!!@COMPOSER:	Nanino, Giovanni Bernardino
+!!@PRINCEPSTITLE:	Il secondo libro de madrigali a cinque voci
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Heirs of G. Scotto
+!!@NORMPUBSHORT:	Scotto
+!!@PRINCEPSPUB:	Heredi di Scotto
+!!@PRINCEPSYEAR:	1599
+!!@PRINCEPSRISM:	1599-16
+!!@REPRINTS:	
+!!@OVOICES:	5
+!!@EXTANTVOICES:	1
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C3
+!!@OMENSURATION:	C
+!!@OKEYSIG:	-
+!!@FINAL:	G?
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@NOTE:		
+!!@@END:		SETTING

@@ -1,0 +1,273 @@
+!!!COM: Lambardi, Francesco
+!!!CDT:
+!!!PTL: Il secondo libro delle villanelle a tre, quattro et a cinque
+!!!PPP: Naples
+!!!PPR: Giovanni Giacomo Carlino
+!!!PDT: 1614
+!!!PUB-format:
+!!!RISM: L 361
+!!!rime: 361
+!!!OTL: Io son la Primavera
+!!!AGN: Madrigal
+!!!SCT: Trm0361a
+!!!SCA: Trm0361a
+!!!original-voices: 3
+!!!extant-voices: 3
+!!!complete: Y
+!!!final: F
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Alto	*	*I"Canto	*
+*I'B	*	*I'A	*	*I'C	*
+*oclefF4	*	*oclefC1	*	*oclefC1	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*omet(C.3/2)	*	*omet(C.3/2)	*	*omet(C.3/2)	*
+*M3/2	*	*M3/2	*	*M3/2	*
+=1	=1	=1	=1	=1	=1
+2r	.	2r	.	2r	.
+*col	*	*col	*	*col	*
+1F	Io	1a	Io	1cc	Io
+*Xcol	*	*Xcol	*	*Xcol	*
+=2	=2	=2	=2	=2	=2
+1.F	son	1.a	son	1.cc	son
+=3	=3	=3	=3	=3	=3
+2F	la	2a	la	2cc	la
+2.D	Pri-	2.b-y	Pri-	2.dd	Pri-
+4C	-ma-	4cc	-ma-	4ee	-ma-
+=4	=4	=4	=4	=4	=4
+1BB-y	-ve-	1dd	-ve-	1ff	-ve-
+2BB-y	-ra,	2dd	-ra,	2ff	-ra,
+=5	=5	=5	=5	=5	=5
+2r	.	2r	.	2r	.
+2r	.	2r	.	2r	.
+2BB-y	Che	2b-y	Che	2dd	Che
+=6	=6	=6	=6	=6	=6
+1F	lie-	1a	lie-	1cc	lie-
+2C	-t'o	2cc	-t'o	2ee-X	-t'o
+=7	=7	=7	=7	=7	=7
+1G	va-	1cc	va-	1dd	va-
+2G	-ghe	2bnX	-ghe	2dd	-ghe
+=8	=8	=8	=8	=8	=8
+*	*	*col	*	*col	*
+1.C	don-	2cc	don-	[1.cc	don-
+.	.	2g	-n'a	.	.
+.	.	[2a	voi,	.	.
+=9	=9	=9	=9	=9	=9
+*col	*	*	*	*	*
+2C	-n'a	1a]	.	1cc]	.
+1D	voi	.	.	.	.
+*Xcol	*	*	*	*	*
+.	.	2f	a	2a	-n'a
+*	*	*	*	*Xcol	*
+=10	=10	=10	=10	=10	=10
+1.AA	ri-	2a	voi	1cc	voi
+*	*	*	*	*	*
+.	.	1f	ri-	.	.
+*	*	*Xcol	*	*	*
+.	.	.	.	2a	ri-
+=11	=11	=11	=11	=11	=11
+1.C	-tor-	1f	-tor-	1.g	-tor-
+.	.	2e	.	.	.
+=12	=12	=12	=12	=12	=12
+[1.FF	-no	[1.f	-no	[1.f	-no
+=13	=13	=13	=13	=13	=13
+1.FF]	.	1.f]	.	1.f]	.
+=14:|!|:	=14:|!|:	=14:|!|:	=14:|!|:	=14:|!|:	=14:|!|:
+1E-X	Col	1g	Col	1b-y	Col
+2E-i	mio	2g	mio	2b-y	mio
+=15	=15	=15	=15	=15	=15
+2D	bel	2b-y	bel	2dd	bel
+2.F	man-	2b-y	man-	2.cc	man-
+.	.	2a	-t'a-	.	.
+4F	-t'a-	.	.	4cc	-t'a-
+=16	=16	=16	=16	=16	=16
+1BB-y	-dor-	1b-y	-dor-	1b-y	-dor-
+2BB-y	-no	2b-y	-no	2b-y	-no
+=17	=17	=17	=17	=17	=17
+2r	.	2r	.	2r	.
+2F	Per	2a	Per	2cc	Per
+2D	ve-	2a	ve-	2dd	ve-
+=18	=18	=18	=18	=18	=18
+2G	-stir	2g	-stir	2b-y	-stir
+2A	le	2g	le	2cc	le
+2B-y	cam-	2g	cam-	2dd	cam-
+=19	=19	=19	=19	=19	=19
+1.A	-pa-	1.a	-pa-	1dd	-pa-
+.	.	.	.	2cc#X	.
+=20	=20	=20	=20	=20	=20
+2D	-gne	2a	-gne	2dd	-gne
+2B-y	d'her-	2f	d'her-	2dd	d'her-
+2A	-be, e	2f	-be, e	2cc	-be, e
+=21	=21	=21	=21	=21	=21
+1.G	fio-	1f	fio-	1.b-y	fio-
+.	.	2e	.	.	.
+=22	=22	=22	=22	=22	=22
+2F	-ri,	1.f	-ri,	2a	-ri,
+2F	E	.	.	2a	E
+2F	sve-	.	.	2a	sve-
+=23	=23	=23	=23	=23	=23
+2E	-gliar-	2r	.	2g	-gliar-
+2E	-ve	2cc	E	2g	-ve
+2E	nel	2cc	sve-	2g	nel
+=24	=24	=24	=24	=24	=24
+2D	cor,	2b-y	-gliar-	2f	cor,
+2d	E	2.a	-ve	2ff	E
+2d	sve-	.	.	2ff	sve-
+.	.	4b-y	nel	.	.
+=25	=25	=25	=25	=25	=25
+2c	-gliar-	2cc	cor	2ee	-gliar-
+2c	-ve	2.g	.	2ee	-ve
+2c	nel	.	.	2ee	nel
+.	.	4a	.	.	.
+=26	=26	=26	=26	=26	=26
+*col	*	*col	*	*col	*
+1B-y	cor	1b-y	.	1dd	cor
+[2F	no-	[2a	no-	[2cc	no-
+=27	=27	=27	=27	=27	=27
+2F]	.	2a]	.	2cc]	.
+2F	-vel-	2a	-vel-	2cc	-vel-
+2E	-li a-	2cc	-li a-	2cc	-li a-
+*Xcol	*	*Xcol	*	*Xcol	*
+=28	=28	=28	=28	=28	=28
+1.G	-mo-	1cc	-mo-	1.dd	-mo-
+.	.	2bnX	.	.	.
+=29	=29	=29	=29	=29	=29
+2C	-ri,	1.cc	-ri,	1.cc	-ri,
+2c	E	.	.	.	.
+2c	sve-	.	.	.	.
+=30	=30	=30	=30	=30	=30
+2B-y	-glar-	2r	.	1.r	.
+2B-y	-ve	2g	E	.	.
+2B-y	nel	2g	sve-	.	.
+=31	=31	=31	=31	=31	=31
+2A	cor,	2f	-gliar-	2r	.
+2A	E	2.e	-ve	2cc	E
+2A	sve-	.	.	2cc	sve-
+.	.	4f	nel	.	.
+=32	=32	=32	=32	=32	=32
+2G	-gliar-	2g	cor	2b-y	-gliar-
+2G	-ve	2.d	.	2b-y	-ve
+2G	nel	.	.	2b-y	nel
+.	.	4e	.	.	.
+=33	=33	=33	=33	=33	=33
+*col	*	*col	*	*col	*
+1F	cor	1f	.	2.a	cor
+.	.	.	.	4b-y	.
+[2E-X	no-	[2g	.	[2cc	.
+=34	=34	=34	=34	=34	=34
+2E-]	.	2g]	.	2cc]	.
+2D	-vel-	2d	no-	2f	no-
+2AA	-li a-	2f	-vel-	2f	-vel-
+*Xcol	*	*Xcol	*	*	*
+=35	=35	=35	=35	=35	=35
+1.C	-mo-	2f	-li a-	2g	-li a-
+.	.	2f	-mo-	[2g	-mo-
+.	.	2e	.	2g]	.
+*	*	*	*	*Xcol	*
+=36	=36	=36	=36	=36	=36
+1.FFl	-ri.	1.fl	-ri.	1.fl	-ri.
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/02/06
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/02/06 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	361
+!!@CATALOGNUM:	Trm0361
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Io son la Primavera
+!!@GENRE:		canzonetta
+!!@MANUSRC:	Flc<sub>2</sub>
+!!@PRINTSRC:	none
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  396
+!!@TRANSLATOR:	Maria Pastore Passaro; adapted by Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Io son la Primavera,
+!!	Che lieta, o vaghe donne, a voi ritorno
+!!	Col mio bel manto adorno
+!!	Per vestir le campagne d'erbe e fiori
+!!	E svegliarvi nel cor novelli amori.
+!!@VERSE:
+!!	A me Zeffiro spira,
+!!	A me ride la terra e 'l ciel sereno;
+!!	Volan di seno in seno
+!!	Gli Amoretti vezzosi a mille mille,
+!!	Chi armato di stral, chi di faville.
+!!@VERSE:
+!!	E voi ancor gioite,
+!!	Godete al mio venir tra risi e canti;
+!!	Amate i vostri amanti
+!!	Or che 'l bel viso amato april v'infiora:
+!!	Primavera per voi non torna ognora.
+!!@TVERSE:
+!!	I am Spring,
+!!	Who happy, o lovely ladies, returns to you
+!!	With my beautiful mantle adorned
+!!	To dress the countryside with grasses and flowers
+!!	And to waken in your hearts young loves.
+!!@TVERSE:
+!!	Towards me Zephyr blows,
+!!	Towards me smiles the earth and the clear sky;
+!!	They fly from breast to breast,
+!!	The charming Cupids by thousands and thousands,
+!!	Some armed with arrows, some with sparks.
+!!@TVERSE:
+!!	And you still rejoice,
+!!	Enjoy my coming amidst smiles and songs;
+!!	Love your lovers
+!!	Now that beloved April makes your beautiful face bloom:
+!!	Spring for you will not return forever.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   None
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		This poem appears in the partly autograph manuscript Tassiana N.6.5, Civica Biblioteca Angelo Mai, Bergamo. According to [Massimo Castellozzi] {footnote: Massimo Castellozzi, "Aspetti della tradizione delle <i>Rime disperse</i> di Torquato Tasso," <i>L'ellisse. Studi storici di letteratura italian</i> VIII, vol. 2 (2013): 78}, the folios 164r-172v, which include <i>Rime</i> 353, 354, 356, 358, 359, 361, and NSM1, are in Tasso's hand.
+!!@DATING:	Early 1590s
+!!		<br>
+!!		Before being incorporated into the manscript Tassiana N.6.5, Civica Biblioteca Angelo Mai, Bergamo, this poem used to belong to the Torella codex (MA 462, Pierpont Morgan Library, New York City, NY), a manuscript assembled in Naples and containing for the most part poems and letters that Tasso wrote during his stay in the city in the early 1590s.
+!!@DEDICATEE:
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0361a
+!!@RIMETITLE:	Io son la Primavera
+!!@SOLERTI:	361
+!!@COMPOSER:	Lambardi, Francesco
+!!@PRINCEPSTITLE:	Il secondo libro delle villanelle a tre, quattro et a cinque
+!!@PRINCEPSLOC:	Napoli
+!!@NORMLOC:	Naples
+!!@NORMPUB:	Giovanni Giacomo Carlino
+!!@NORMPUBSHORT:	Carlino
+!!@PRINCEPSPUB:	Carlino
+!!@PRINCEPSYEAR:	1614
+!!@PRINCEPSRISM:	L 361
+!!@REPRINTS:	
+!!@OVOICES:	3
+!!@EXTANTVOICES:	3
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C1,C1,F4
+!!@OMENSURATION:	C-dot 3/2
+!!@OKEYSIG:	b-
+!!@FINAL:	F
+!!@TIMPEDITOR:	Schleuse, Paul
+!!@NOTE:		
+!!@@END:		SETTING

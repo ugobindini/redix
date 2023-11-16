@@ -1,0 +1,262 @@
+!!!COM: Montella, Giovan Domenico
+!!!CDT:
+!!!PTL: Il terzo libro de madrigali a cinque voci
+!!!PPP: Naples
+!!!PPR: Giovanni Giacomo Carlino
+!!!PDT: 1602
+!!!PUB-format:
+!!!RISM: M 3418
+!!!rime: 305
+!!!OTL:	Ne i vostri dolci baci
+!!!AGN: Madrigal
+!!!SCT: Trm0305j
+!!!SCA: Trm0305j
+!!!original-voices: 5
+!!!extant-voices: 4
+!!!complete: N
+!!!final: C
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Canto	*
+*I'B	*	*I'V	*	*I'T	*	*I'C	*
+*oclefF3	*	*oclefC3	*	*oclefC3	*	*oclefG2	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1
+1r	.	1r	.	2r	.	0r	.
+.	.	.	.	4c	Nei	.	.
+.	.	.	.	4.c	vo-	.	.
+2r	.	2r	.	.	.	.	.
+.	.	.	.	8e	-stri	.	.
+.	.	.	.	8c	dol-	.	.
+.	.	.	.	8B	-ci	.	.
+4r	.	4e	Nei	2A	ba-	.	.
+4C	De	[4e	vo-	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4E	l'A-	8e]	.	2G	-ci	1r	.
+.	.	8g	-stri	.	.	.	.
+4E	-pi è il	8e	dol-	.	.	.	.
+.	.	8d	-ci	.	.	.	.
+8F	dol-	2c	ba-	2r	.	.	.
+8G	-ce	.	.	.	.	.	.
+4A	me-	.	.	.	.	.	.
+2G	-le,	2B	-ci,	2r	.	2r	.
+2r	.	2r	.	4r	.	4ee	Nei
+.	.	.	.	4A	De	[4ee	vo-
+=3	=3	=3	=3	=3	=3	=3	=3
+4A	Nei	4r	.	4c	l'A-	8ee]	.
+.	.	.	.	.	.	8ff	-stri
+4.A	vo-	4c	Nei	4A	-pi è il	8ee	dol-
+.	.	.	.	.	.	8dd	-ci
+.	.	8c	vo-	8.c	dol-	2.cc	ba-
+8c	-stri	8e	-stri	.	.	.	.
+.	.	.	.	16d	-ce	.	.
+8A	dol-	8c	dol-	2e	me-	.	.
+8G	-ci	8B	-ci	.	.	.	.
+2F	ba-	4A	ba-	.	.	.	.
+.	.	8A	-ci	4d	-le,	4a	-ci
+.	.	8A	De	.	.	.	.
+2E	-ci	4c	l'A-	2r	.	2r	.
+.	.	4B	-pi è il	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+2r	.	8d	dol-	2r	.	4r	.
+.	.	8e	-ce	.	.	.	.
+.	.	2f	me-	.	.	4a	De
+4F	De	.	.	4r	.	2cc	l'A-
+4A	l'A-	4e	-le	4c	De	.	.
+4A	-pi è il	1r	.	4e	l'A-	4cc	-pi è il
+8B	dol-	.	.	4e	-pi	8dd	dol-
+8c	-ce	.	.	.	.	8ee	-ce
+2d	me-	.	.	8r	.	[2ff	me-
+.	.	.	.	8d	è il	.	.
+.	.	.	.	8f	dol-	.	.
+.	.	.	.	8g	-ce	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+2c	-le	1r	.	4a	me-	4ff]	.
+.	.	.	.	4g	-le	4ee	-le
+4F	E	.	.	2r	.	2r	.
+4G	vi è il	.	.	.	.	.	.
+4A	mor-	4c	E	4e	E	1r	.
+8G	-so	4d	vi è il	4f	vi è il	.	.
+8F	de	.	.	.	.	.	.
+4E	l'A-	4e	mor-	4g	mor-	.	.
+[4F	-pi an-	8d	-so	8f	-so	.	.
+.	.	8c	de	8e	de	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+4F]	.	4B	l'A-	4d	l'A-	1r	.
+8E	-co	4c	-pi	4e	-pi	.	.
+8E	cru-	.	.	.	.	.	.
+2E	-de-	4r	.	4r	.	.	.
+.	.	2c	an-	2A	an-	.	.
+[1D	-le,	.	.	.	.	2r	.
+.	.	8B	-co	8G	-co	.	.
+.	.	8B	cru-	8G	cru-	.	.
+.	.	2B	-del-	2G	-de-	4b	E
+.	.	.	.	.	.	4cc#X	vi è il
+=7	=7	=7	=7	=7	=7	=7	=7
+2D]	.	2A	-le,	2F#X	-le.	4dd	mor-
+.	.	.	.	.	.	8cc#X	-so
+.	.	.	.	.	.	8b	de
+2r	.	4r	.	2r	.	4a	l'A-
+.	.	2e	an-	.	.	2ccnXi	-pi an-
+2.F	an-	.	.	1r	.	.	.
+.	.	8d	-co	.	.	8b	-co
+.	.	8d	cru-	.	.	8b	cru-
+.	.	4d	-de-	.	.	[2b	-de-
+8E	-co	8e	-le,	.	.	.	.
+8E	cru-	8B	cru-	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2E	-de-	2e	-de-	1r	.	2b]	.
+2AA	-le.	2e	-le.	.	.	2a	-le.
+1r	.	2r	.	2r	.	2r	.
+.	.	[2g	Dun-	[2G	Dun-	[2dd	Dun-
+=9	=9	=9	=9	=9	=9	=9	=9
+0r	.	4g]	.	4G]	.	4dd]	.
+.	.	8d	-que ad-	8G	-que ad-	8b	-que ad-
+.	.	8d#X	-dol-	8B	-dol-	8b	-dol-
+.	.	4e	-ci-	2.E	-ci-	2.b	-ci-
+.	.	4g	-to e	.	.	.	.
+.	.	2e	pun-	.	.	.	.
+.	.	.	.	4c	-to e	4ee	-to e
+.	.	[2f#X	-to	2A	pun-	2cc	pun-
+=10	=10	=10	=10	=10	=10	=10	=10
+4r	.	2f#]	.	2B	-to	2b	-to
+4BB	Da	.	.	.	.	.	.
+2E	voi	2r	.	4r	.	4r	.
+.	.	.	.	4G	Da	4b	Da
+8r	.	8r	.	2c	voi	2ee	voi
+8c	par-	8e	par-	.	.	.	.
+8B	-to in	8e	-to in	.	.	.	.
+8A	un	8f#X	un	.	.	.	.
+[2G	pun-	[2g	pun-	8r	.	8r	.
+.	.	.	.	8B	par-	8gg	par-
+.	.	.	.	8B	-to in	8ff	-to in
+.	.	.	.	8c	un	8ee	un
+=11	=11	=11	=11	=11	=11	=11	=11
+4G]	.	4g]	.	4d	pun-	4dd	pun-
+4G	-to,	4g	-to,	4d	-to,	4dd	-to,
+2r	.	2r	.	2r	.	2r	.
+2.C	Dun-	2r	.	2r	.	2.ee	Dun-
+.	.	4r	.	[2c	Dun-	.	.
+8C	-que ad-	4g	e	.	.	8ee	-que ad-
+8E	-dol-	.	.	.	.	8gg	-dol-
+=12	=12	=12	=12	=12	=12	=12	=12
+2.AA	-ci-	2e	pun-	4c]	.	4cc	-ci-
+.	.	.	.	8c	-que ad-	4ee	-to e
+.	.	.	.	8e	-dol-	.	.
+.	.	4f	-to,	4A	-ci-	2cc	pun-
+4F	-to e	4a	<e	4A	-to	.	.
+2D	pun-	2f#X	pun-	4r	.	2dd	-to
+.	.	.	.	4d	e	.	.
+2E	-to	2g	-to>	4B	pun-	4r	.
+.	.	.	.	8B	-to	4b	Da
+.	.	.	.	8G	Da	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+4r	.	2r	.	2c	voi	2ee	voi
+4C	Da	.	.	.	.	.	.
+2F	voi	4r	.	8r	.	8r	.
+.	.	.	.	8F	par-	8a	par-
+.	.	4A	Da	8F	-to in	8a	-to in
+.	.	.	.	8G	un	8b	un
+8r	.	8e	voi	2A	pun-	4cc	pun-
+8AA	par-	8f	par-	.	.	.	.
+8AA	-to in	8e	-to in	.	.	4cc	-to,
+8BB	un	8d	un	.	.	.	.
+[2C	pun-	[2c	pun-	8G	-to,	8r	.
+.	.	.	.	8c	par-	8aa	par-
+.	.	.	.	8B	-to in	8gg	-to in
+.	.	.	.	8A	un	8ff	un
+=14	=14	=14	=14	=14	=14	=14	=14
+4C]	.	4c]	.	4G	pun-	4ee	pun-
+4Cl	-to.	4cl	-to.	4Gl	-to.	4eel	-to.
+2r	.	2r	.	2r	.	2r	.
+2r	.	1r	.	1r	.	1r	.
+2r	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2017/11
+!!!EED: Deutsch, Catherine
+!!!EEV: 2018/07/09
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/09 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	305
+!!@CATALOGNUM:	Trm0305
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Ne i vostri dolci baci
+!!@GENRE:		madrigale
+!!@MANUSRC:	Amz, Brn, C, Ts<sub>1</sub>, V<sub>8</sub>, V<sub>13/TS1</sub>
+!!@PRINTSRC:	8, 9, 11, 12, 13, 15, 20, 24, 29, 33, 67, 145, 141, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	Sovra i baci di una bella giovane
+!!@ABOUTEN:	On the kisses of a beautiful young lady
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  366
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Ne i vostri dolci baci
+!!	De l'Api è il dolce mele,
+!!	E v'è l'ago de l'api aspro crudele.
+!!	Dunque addolcito e punto
+!!	Da voi parto in un punto.
+!!@TVERSE:
+!!	In your sweet kisses
+!!	Is the sweet honey of the bees
+!!	And there [too] is the stinger of the bees, biting and cruel.
+!!	Thus sweetened and stung
+!!	From you I depart at once.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   Torquato Tasso, <i>Rime d’amore (secondo il codice
+!!		Chigiano L VIII 302)</i>, eds. Franco Gavazzeni and
+!!		Vercingetorige Martignone, vol. 4 of <i>Edizione
+!!		Nazionale delle opere di Torquato Tasso</i>
+!!		(Alessandria: Edizioni Dell’Orso, 2004), 172.
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		Among other authoritative sources (see Literary
+!!		Sources), this poem appears in the autograph Chigiano
+!!		L.VIII.302 (Biblioteca Vaticana, Rome), compiled
+!!		around 1584&ndash;85.
+!!@DATING:	In or before 1581
+!!	<br>
+!!	The earliest datable appearance of this poem is in Manuzio's 1581 print of the <i>Rime</i> (see Literary Sources).
+!!@DEDICATEE:
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0305j
+!!@RIMETITLE:	Ne i vostri dolci baci
+!!@SOLERTI:	305
+!!@COMPOSER:	Montella, Giovan Domenico
+!!@PRINCEPSTITLE:	Il terzo libro de madrigali a cinque voci
+!!@PRINCEPSLOC:	Napoli
+!!@NORMLOC:	Naples
+!!@NORMPUB:	Giovanni Giacomo Carlino
+!!@NORMPUBSHORT:	Carlino
+!!@PRINCEPSPUB:	Jacomo Carlino
+!!@PRINCEPSYEAR:	1602
+!!@PRINCEPSRISM:	M 3418
+!!@REPRINTS:	
+!!@OVOICES:	5
+!!@EXTANTVOICES:	4
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	G2,C3,C3,F3
+!!@OMENSURATION:	C
+!!@OKEYSIG:	-
+!!@FINAL:	C
+!!@TIMPEDITOR:	Deutsch, Catherine
+!!@NOTE:		
+!!@@END:		SETTING

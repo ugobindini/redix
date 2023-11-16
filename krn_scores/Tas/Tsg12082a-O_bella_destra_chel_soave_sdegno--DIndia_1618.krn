@@ -1,0 +1,242 @@
+!!!CDT:
+!!!PTL: Le Musiche del Sig.r Sigismondo d'India. Libro Terzo a una e due voci
+!!!PPP: Milan
+!!!PPR: Filippo Lomazzo
+!!!PDT: 1618
+!!!RISM: I 31
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg12082a
+!!!SCA: Tsg12082a
+!!!voices:
+!!!COM: D'India, Sigismondo
+!!!OTL: O bella destra che 'l soave pegno
+**kern	**kern	**text
+*part2	*part1	*part1
+*staff2	*staff1	*staff1
+*I"[Basso continuo]	*I"[Canto]	*
+*I'Bc	*I'C	*
+*oclefF4	*oclefC1	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*C:	*C:	*
+*omet(C)	*omet(C)	*
+*M4/4	*M4/4	*
+=1	=	=
+2E	2.ee	O
+[2G#X	.	.
+.	8b	bel-
+.	8b	-la
+=2	=2	=2
+1G#X]	2b	de-
+.	2b	-stra,
+=3	=3	=3
+1A	4r	.
+.	8cc	che'l
+.	8cc	so-
+.	4.cc	-a-
+.	8g	-ve
+=4	=4	=4
+1AA	2a	pe-
+.	2a	-gno
+=5	=5	=5
+1AA	4cc	D'a-
+.	4cc	-mi-
+.	4cc	-ci-
+.	8cc	-tia e
+.	8cc	di
+=6	=6	=6
+1AA	4cc	pa-
+.	4b	-ce a
+.	4.b	me
+.	8a	por-
+=7	=7	=7
+1E	2b	-ge-
+.	2b	-sti;
+=8	=8	=8
+1BB	4r	.
+.	8r	.
+.	8b	Qua-
+.	4b	-l'hor,
+.	[4dd	las-
+=9	=9	=9
+1E	4dd]	.
+.	8g#X	-so,
+.	8g#X	vi
+.	4.g#X	tro-
+.	8ee	-vo? e
+=10	=10	=10
+[1E	4.ee	qual
+.	8b	ne
+.	2b	ve-
+=11	=11	=11
+1E]	1b	-gno?
+=12	=12	=12
+1F#X	4r	.
+.	4dd	E
+.	8dd	voi,
+.	8dd	leg-
+.	8dd	-gia-
+.	8dd	-dre
+=13	=13	=13
+1G#X	4dd	mem-
+.	2ee	-bra, hor
+.	8cc#X	non
+.	8b	son
+=14	=14	=14
+1A	4cc#X	que-
+.	4cc#i	-ste
+.	4r	.
+.	4dd	Del
+=15	=15	=15
+1AA	4dd	mio
+.	4dd	fe-
+.	[2dd	-ri-
+=16	=16	=16
+1AA	8dd]	.
+.	8cc	-no e
+.	8cc	sce-
+.	8b	-le-
+.	8b	-ra-
+.	8a	-to
+.	8a	sde-
+.	[8g	-gno
+=17	=17	=17
+[1AA	4g]	.
+.	4g	Ve-
+.	8g	-sti-
+.	8g	-gi
+.	8g	mi-
+.	8g	-se-
+=18	=18	=18
+2AA]	4.g	-ra-
+.	8f#X	-bi-
+2BB	4.f#X	-li e
+.	8e	fu-
+=19	=19	=19
+1E	2g#X	-ne-
+.	2g#X	-sti?
+=20	=20	=20
+[1G	1r	.
+=21	=21	=21
+1G]	2.dd	O,
+.	4b	di
+=22	=22	=22
+[1G	4b	par
+.	8b	con
+.	8b	la
+.	4b	man,
+.	[4ee	lu-
+=23	=23	=23
+2G]	4ee]	.
+.	8dd	-ci
+.	8cc	spie-
+2G	2dd	-ta-
+=24	=24	=24
+2G	4dd	-te!
+.	2.ee	Es-
+[2D	.	.
+=25	=25	=25
+1D_	8a	-sa
+.	8a	le
+.	8a	pia-
+.	8a	-ghe
+.	4a	fè,
+.	[4ff	voi
+=26	=26	=26
+2D]	4ff]	.
+.	8b	le
+.	8b	mi-
+2E	2b	-ra-
+=27	=27	=27
+1AAl	1al	-te.
+==	==	==
+*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/01/19
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/01/19
+!!@@BEGIN:	VERSEDATA
+!!@CATALOGNUM:	Tsg12082
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		O bella destra che 'l soave pegno
+!!@CANTO:		XII
+!!@OTTAVA:	82
+!!@MANUSRC:	G-Al, G-Am, G-Au, G-Br<sub>1</sub>, G-Br<sub>2</sub>, G-Cv, G-Es<sub>1</sub>, G-Es<sub>2</sub>, G-Es<sub>3</sub>, G-F, G-Fr, G-Fr<sub>1</sub>, G-Fr<sub>2</sub>, G-Mc, G-Mc<sub>1</sub>, G-Mg, G-Mr, G-Mt, G-N, G-Ol
+!!@PRINTSRC:	G-1580CM, G-1581B, G-1581CV, G-1581R, G-1581MR, G-1581P, G-1581V, G-1581V<sub>bis</sub>, G-1582C, G-1582M, G-1582MC, G-1582P, G-1582SC, G-1582SC<sub>bis</sub>, G-1583S, G-1584O, G-1584S, G-1585C, G-1585S, G-1588S, G-1589S, G-1590B, G-1590S, G-1592S, G-1593S, G-1594C, G-1595C, G-1597C, G-1598C, G-1599C, G-1600C, G-1600S, G-1601C, G-1601R, G-1602C, G-1604C, G-1604Cl, G-1604F, G-1604P, G-1606B, G-1606B<sub>bis</sub>, G-1606L, G-1607ZR, G-1608DP, G-1609GC, G-1610M, G-1611S, G-1611V, G-1612P, G-1613M, G-1613P, G-1613V, G-1615P, G-1616M, G-1617P, G-1619B, G-1619V, G-1620M, G-1620S, G-1621R, G-1624I, G-1624MT, G-1625C, G-1625S, G-1625SS, G-1626C, G-1626Co, G-1627M, G-1628T, G-1628Tu, G-1630L, G-1630T, G-1632FT, G-1639CF, G-1642M, G-1643I, G-1644P, G-1644S
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Angelo Solerti
+!!@EDITION_TITLE: Gerusalemme liberata. Poema eroico di Torquato Tasso. Edizione critica sui manoscritti e le prime stampe.
+!!@EDITION_LOC:	Florence
+!!@EDITION_PUB:	G. Barbera
+!!@EDITION_DATE:  1895
+!!@EDITION_VOL:
+!!@EDITION_PAGE:
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	O bella destra, che ’l soave pegno
+!!	D’amicizia e di pace a me porgesti;
+!!	Quali or, lasso, vi trovo? e qual ne vegno?
+!!	E voi leggiadre membra, or non son questi
+!!	Del mio ferino e scellerato sdegno
+!!	Vestigi miserabili e funesti?
+!!	O, di par con la man, luci spietate!
+!!	Essa le piaghe fè, voi le mirate.
+!!@MVERSE_DATE: 20230824
+!!@MVERSE:
+!!	O bel||la de||stra, che_’l so|a||ve pe||gno			=a
+!!	D’a|mi|ci||zia_e di pa||ce_a me por|ge||sti;			=b
+!!	Qua||li_or, las||so, vi tro||vo?_e qual ne ve||gno?		=a
+!!	E voi leg|gia||dre mem||bra,_or non son que||sti		=b
+!!	Del mio fe|ri||no_e scel|le|ra||to sde||gno			=a*
+!!	Ve|sti||gi mi|se|ra||bi|li_e fu|ne||sti?			=b
+!!	O, di par con la man, lu||ci spie|ta||te!			=c
+!!	Es||sa le pia||ghe fè, voi le mi|ra||te.			=c
+!!@TVERSE:
+!!	O beautiful right [hand], which the pleasing token
+!!	Of friendship and of peace to me you extended;
+!!	Which ones now, unhappy man, do I find there? And to what do I come?
+!!	And you, graceful limbs, now are these not
+!!	Of my bestial and foul scorn
+!!	The wretched and tragic vestiges?
+!!	O, as with the hand, eyes despised!
+!!	[The hand] the wounds made, you witness them.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:  Torquato Tasso, <i>Gerusalemme liberata</i>, ed. Lanfranco Caretti, 2 vols. (Bari: Laterza, 1967).
+!!@ATTRIBUTION_ABOUT:
+!!@DATING:	mid-1560s through 1570s
+!!@DEDICATEE:	Duke Alfonso II d'Este
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN: SETTING
+!!@CATALOGNUM:	Tsg12082a
+!!@CANTO:		XII
+!!@OTTAVA:	82
+!!@TITLE:	O bella destra che 'l soave pegno
+!!@COMPOSER:	D'India, Sigismondo
+!!@PARTS:		1 of 1
+!!@PRINCEPSTITLE:	Le Musiche del Sig.r Sigismondo d'India. Libro Terzo a una e due voci
+!!@PRINCEPSLOC:	Milan
+!!@NORMLOC:	Milan
+!!@NORMPUB:	Filippo Lomazzo
+!!@NORMPUBSHORT:	Lomazzo
+!!@PRINCEPSPUB:	Filippo Lomazzo
+!!@PRINCEPSYEAR:	1618
+!!@PRINCEPSRISM:	I 31
+!!@OVOICES:	1+bc
+!!@EXTANTVOICES:	1+bc
+!!@OMENSURATION:	C
+!!@OCLEFS:	C1,F4
+!!@OTIME:		
+!!@OKEYSIG:	-
+!!@FINAL:		A
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@REPRINTS:	
+!!@@END: SETTING

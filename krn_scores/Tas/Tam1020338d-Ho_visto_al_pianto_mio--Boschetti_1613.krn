@@ -1,0 +1,359 @@
+!!!COM: Boschetti, Giovanni Boschetto
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a cinque voci 
+!!!PPP: Rome
+!!!PPR: Giovanni Battista Robletti
+!!!PDT: 1613
+!!!PUB-format:
+!!!RISM: B 3785
+!!!OTL: Ho visto al pianto mio
+!!!AGN: Madrigal
+!!!SCT: Tam1020338d
+!!!SCA: Tam1020338d
+!!!original-voices: 5
+!!!extant-voices: 5
+!!!complete: Y
+!!!final: D
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
+*I'B	*	*I'T	*	*I'A	*	*I'V	*	*I'C	*
+*oclefF4	*	*oclefC4	*	*oclefC3	*	*oclefC1	*	*oclefC1	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4r	.	4r	.	4r	.	4r	.	4r	.
+4A	Ho	4c	Ho	4e	Ho	4a	Ho	4ee	Ho
+4.A	vi-	4.c	vi-	4.e	vi-	4.a	vi-	4.ee	vi-
+8A	-sto al	8c	-sto al	8e	-sto al	8a	-sto al	8ee	-sto al
+4A	pian-	4c	pian-	4e	pian-	4a	pian-	4ee	pian-
+4G#X	-to	4B	-to	4e	-to	4b	-to	4ee	-to
+2A	mi-	2c	mi-	2e	mi-	2a	mi-	2cc	mi-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2A	-o	2c	-o	2e	-o	2a	-o	2cc	-o
+4r	.	4r	.	4r	.	4r	.	4r	.
+4A	Ri-	4c	Ri-	4a	Ri-	4cc	Ri-	4ee	Ri-
+4.A	-spon-	4.e	-spon-	4.e	-spon-	4a	-spon-	4.cc	-spon-
+.	.	.	.	.	.	4e	-der	.	.
+8G	-der	8B	-der	8e	-der	.	.	8b	-der
+4.G	per	4.B	per	4.e	per	4.g	per	4.b	per
+8F	pie-	8c	pie-	8f	pie-	8a	pie-	8a	pie-
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2.F	-ta-	2c	-ta-	2.f	-ta-	8aL	-ta-	2.a	-ta-
+.	.	.	.	.	.	8bJ	.	.	.
+.	.	.	.	.	.	2cc	.	.	.
+.	.	2A	-te i	.	.	.	.	.	.
+4F	-te i	.	.	4f	-te i	4a	-te i	4dd	-te i
+2F	sas-	2d	sas-	2f	sas-	2a	sas-	2.dd	sas-
+2E	-si e	2e	-si e	2g	-si e	2cc	-si e	.	.
+.	.	.	.	.	.	.	.	4cc	-si e
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+1G	l'on-	1d	l'on-	1g	l'on-	2cc	l'on-	1dd	l'on-
+.	.	.	.	.	.	2b	.	.	.
+2C	-de,	1c	-de,	8g	-de,	1cc	-de,	1ee	-de,
+.	.	.	.	8e	E	.	.	.	.
+.	.	.	.	8e	so-	.	.	.	.
+.	.	.	.	8f	-spi-	.	.	.	.
+8r	.	.	.	[2g	-rar	.	.	.	.
+8E	E	.	.	.	.	.	.	.	.
+8E	so-	.	.	.	.	.	.	.	.
+8F	-spi-	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2G	-rar,	1r	.	2g]	.	8r	.	8r	.
+.	.	.	.	.	.	8g	E	8b	E
+.	.	.	.	.	.	8g	so-	8b	so-
+.	.	.	.	.	.	8a	-spi-	8cc	-spi-
+8r	.	.	.	2r	.	2b	-rar,	2dd	-rar,
+8BB	E	.	.	.	.	.	.	.	.
+8BB	so-	.	.	.	.	.	.	.	.
+8C	-spi-	.	.	.	.	.	.	.	.
+2D	-rar	2r	.	2r	.	8r	.	8r	.
+.	.	.	.	.	.	8a	E	8f#X	E
+.	.	.	.	.	.	8b	so-	8g	so-
+.	.	.	.	.	.	8cc	-spi-	8a	-spi-
+2BB	le	8r	.	2d	le	2dd	-rar	[2b	-rar
+.	.	8G	E	.	.	.	.	.	.
+.	.	8G	so-	.	.	.	.	.	.
+.	.	8A	-spi-	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+1D	fron-	4.B	-rar	1d	fron-	4f#X	le	4b]	.
+.	.	.	.	.	.	2g	fron-	4a	le
+.	.	8c	le	.	.	.	.	.	.
+.	.	2d	fron-	.	.	.	.	2a	fron-
+.	.	.	.	.	.	4f#X	.	.	.
+2GG	-de,	2B	-de,	2d	-de,	2g	-de,	2g	-de,
+4r	.	4r	.	4r	.	4r	.	4r	.
+4G	Ho	4d	Ho	4d	Ho	4g	Ho	4b	Ho
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4.G	vi-	4.d	vi-	4.g	vi-	4.b	vi-	4.dd	vi-
+8G	-sto al	8d	-sto al	8g	-sto al	8b	-sto al	8dd	-sto al
+4G	pian-	4d	pian-	4g	pian-	4b	pian-	4dd	pian-
+4F#X	-to	4d	-to	4a	-to	4a	-to	4dd	-to
+2G	mi-	2B	mi-	2g	mi-	2b	mi-	2dd	mi-
+2G	-o,	2B	-o,	2g	-o,	2b	-o,	2dd	-o,
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4r	.	4r	.	4r	.	4r	.	4r	.
+2A	Ma	2c	Ma	2e	Ma	2a	Ma	2cc	Ma
+8F	non	8c	non	8f	non	8a	non	8cc	non
+8F	ho	8c	ho	8f	ho	8a	ho	8cc	ho
+4F	vi-	4c	vi-	4f	vi-	4a	vi-	4cc	vi-
+4D	-sto	4B	-sto	4f	-sto	4b	-sto	4dd	-sto
+2E	ma-	2B	ma-	2e	ma-	2g#X	ma-	2b	ma-
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4E	-i,	4B	-i,	4e	-i,	4g#i	-i,	4b	-i,
+4E	Né	4B	Né	4e	Né	4g#i	Né	4b	Né
+4.E	spe-	4.B	spe-	4.e	spe-	4.g#i	spe-	4.b	spe-
+8E	-ro	8B	-ro	8e	-ro	8g#i	-ro	8b	-ro
+4E	di	4B	di	4e	di	4g#i	di	4b	di
+4A	ve-	4A	ve-	4e	ve-	4a	ve-	4cc	ve-
+2G	-de-	2d	-de-	2g	-de-	2b	-de-	2dd	-de-
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2.G	-re,	4B	-re,	2.g	-re,	2.b	-re,	4dd	-re,
+.	.	4B	com-	.	.	.	.	4dd	com-
+.	.	4.B	-pas-	.	.	.	.	[1ee	-pas-
+4G	com-	.	.	4g	com-	4b	com-	.	.
+.	.	8A	.	.	.	.	.	.	.
+2G	-pas-	2G	.	8gL	-pas-	2b	-pas-	.	.
+.	.	.	.	8fJ	.	.	.	.	.
+.	.	.	.	2e	.	.	.	.	.
+2F	-si-	2A	-si-	.	.	2a	-si-	4ee]	.
+.	.	.	.	4A	-si-	.	.	4dd	-si-
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+2E	-on	2B	-on	4e	-on,	4g#X	-on,	2b	-on,
+.	.	.	.	4e	com-	4g#i	com-	.	.
+2r	.	2r	.	1g	-pas-	1b	-pas-	4r	.
+.	.	.	.	.	.	.	.	4b	com-
+1r	.	1r	.	.	.	.	.	2.ee	-pas-
+.	.	.	.	2f	-si-	2a	-si-	.	.
+.	.	.	.	.	.	.	.	4a	-si-
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4r	.	4r	.	4e	-on	4g#X	-on	4b	-on
+4C	nel-	4c	nel-	4g	nel-	4cc	nel-	4ee	nel-
+4C	-la	4c	-la	4g	-la	4cc	-la	4ee	-la
+4C	cru-	4c	cru-	4e	cru-	4gnXi	cru-	4ee	cru-
+2C#X	-de-	2.A	-de-	2e	-de-	2a	-de-	2ee	-de-
+2C#i	-le e	.	.	2e	-le e	2a	-le e	2ee	-le e
+.	.	4G	-le e	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1D	bel-	4.F	bel-	1f	bel-	1a	bel-	1dd	bel-
+.	.	8G	.	.	.	.	.	.	.
+.	.	2A	.	.	.	.	.	.	.
+[1AA	-la,	1A	-la,	[1e	-la,	2a	-la,	4cc#X	-la,
+.	.	.	.	.	.	.	.	8ee	Che
+.	.	.	.	.	.	.	.	8dd	non
+.	.	.	.	.	.	4r	.	4cc#i	so
+.	.	.	.	.	.	8ee	Che	8cc#i	s'io
+.	.	.	.	.	.	8dd	non	8b	mi
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2AA]	.	4r	.	1e]	.	4cc	so	2a	chia-
+.	.	8e	Che	.	.	8cc	s'io	.	.
+.	.	8d	non	.	.	8b	mi	.	.
+4r	.	4c	so	.	.	2a	chia-	2cc	-mi,
+8A	Che	8c	s'io	.	.	.	.	.	.
+8G	non	8B	mi	.	.	.	.	.	.
+4F	so	1A	chia-	4r	.	2cc	-mi,	2r	.
+8F	s'io	.	.	8a	Che	.	.	.	.
+8E	mi	.	.	8g	non	.	.	.	.
+2D	chia-	.	.	4f	so	2r	.	4r	.
+.	.	.	.	8f	s'io	.	.	8dd	Che
+.	.	.	.	8e	mi	.	.	8cc	non
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2GG	-mi,	2B	-mi,	2d	chia-	4r	.	4b	so
+.	.	.	.	.	.	8dd	Che	8b	s'io
+.	.	.	.	.	.	8cc	non	8a	mi
+4r	.	8d	Che	2d	-mi,	4b	so	2g	chia-
+.	.	8c	non	.	.	.	.	.	.
+8G	Che	4B	so	.	.	8b	s'io	.	.
+8F	non	.	.	.	.	8a	mi	.	.
+4E	so	8B	s'io	4r	.	1g	chia-	2b	-mi,
+.	.	8A	mi	.	.	.	.	.	.
+8E	s'io	2G	chia-	8g	Che	.	.	.	.
+8D	mi	.	.	8f	non	.	.	.	.
+2C	chia-	.	.	4e	so	.	.	2r	.
+.	.	4G	-mi ò	8e	s'io	.	.	.	.
+.	.	.	.	8d	mi	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2C	-mi ò	2G	don-	1c	chia-	4g	-mi,	4r	.
+.	.	.	.	.	.	8ee	Che	8cc	Che
+.	.	.	.	.	.	8dd	non	8b	non
+1F	don-	2A	-na, o	.	.	4cc	so	4a	so
+.	.	.	.	.	.	8cc	s'io	8a	s'io
+.	.	.	.	.	.	8b	mi	8g	mi
+.	.	[1A	fe-	1f	-mi o	4a	chia-	4f	chia-
+.	.	.	.	.	.	4cc	-mi o	4a	-mi o
+2D	-na, o	.	.	.	.	[2dd	don-	[2a	don-
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1AA	fe-	1A]	.	4e	don-	4dd]	.	4a]	.
+.	.	.	.	4d	-na, o	4dd	-na, o	4f	-na, o
+.	.	.	.	2e	fe-	2cc#X	fe-	2e	fe-
+2D	-ra.	2A	-ra.	2d	-ra.	2dd	-ra.	2f#X	-ra.
+2r	.	4r	.	4r	.	2r	.	4r	.
+.	.	4d	Ma	4f#X	Ma	.	.	4a	Ma
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+0r	.	4.d	ne-	4.f#i	ne-	0r	.	4.a	ne-
+.	.	8d	-ga	8f#i	-ga	.	.	8a	-ga
+.	.	4d	d'es-	4f#i	d'es-	.	.	4a	d'es-
+.	.	4G	-ser	4g	-ser	.	.	4b	-ser
+.	.	2c	don-	2e	don-	.	.	2g	don-
+.	.	4c	-na,	4e	-na,	.	.	4g	-na,
+.	.	[4c	poi-	[4e	poi-	.	.	[4g	poi-
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+0r	.	4c]	.	4e]	.	1r	.	4g]	.
+.	.	4c	-ché	4e	-ché	.	.	4g	-ché
+.	.	4c	ne-	4e	ne-	.	.	4g	ne-
+.	.	8c	-ga	8e	-ga	.	.	8g	-ga
+.	.	8d	pie-	8d	pie-	.	.	8f	pie-
+.	.	2A	-ta-	2c#X	-ta-	2r	.	2e	-ta-
+.	.	4A	-te	4c#i	-te	4r	.	4e	-te
+.	.	4F	A	4f	A	4cc	A	4a	A
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+0r	.	4.F	chi	4f	chi	4.cc	chi	4.a	chi
+.	.	.	.	4f	non	.	.	.	.
+.	.	8G	non	.	.	8b	non	8b	non
+.	.	4A	la	4e	la	4.a	la	4cc	la
+.	.	4B	ne-	4d	ne-	.	.	4dd	ne-
+.	.	.	.	.	.	8g	ne-	.	.
+.	.	2c	-ga-	2e	-ga-	2g	-ga-	2cc	-ga-
+.	.	4c	-ro	4e	-ro	4g	-ro	4cc	-ro
+.	.	4A	Le	4f	Le	4a	Le	4cc	Le
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+0r	.	4.B-X	co-	4.d	co-	4.f	co-	4.b-X	co-
+.	.	8B-i	-se i-	8d	-se i-	8f	-se i-	8b-i	-se i-
+.	.	4B-i	-na-	4d	-na-	4f	-na-	4b-i	-na-
+.	.	4G	-ni-	4d	-ni-	4g	-ni-	4b-i	-ni-
+.	.	1A	-ma-	4c#X	-ma-	1e	-ma-	1a	-ma-
+.	.	.	.	2d	.	.	.	.	.
+.	.	.	.	4c#X	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+2r	.	2D	-te,	2d	-te,	2f#X	-te,	2a	-te,
+4r	.	4r	.	4r	.	4r	.	4r	.
+4D	Ma	4A	Ma	4d	Ma	4f#X	Ma	4a	Ma
+4.D	ne-	4.A	ne-	4.d	ne-	4.f#i	ne-	4.a	ne-
+8D	-ga	8A	-ga	8d	-ga	8f#i	-ga	8a	-ga
+4D	d'es-	4A	d'es-	4d	d'es-	4f#i	d'es-	4a	d'es-
+4GG	-ser	4G	-ser	4d	-ser	4g	-ser	4b	-ser
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2C	don-	2G	don-	2e	don-	2g	don-	2cc	don-
+4C	-na,	4G	-na,	4e	-na,	4g	-na,	4cc	-na,
+2C	Poi-	2G	Poi-	2e	Poi-	2g	Poi-	2cc	Poi-
+4C	-ché	4G	-ché	4e	-ché	4g	-ché	4cc	-ché
+4C	ne-	4G	ne-	4e	ne-	4g	ne-	4cc	ne-
+8C	-ga	8G	-ga	8e	-ga	8g	-ga	8cc	-ga
+8D	pie-	8D	pie-	8d	pie-	8f	pie-	8a	pie-
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+2AA	-ta-	2A	-ta-	2c#X	-ta-	2e	-ta-	2a	-ta-
+4AA	-te	4A	-te	4c#i	-te	4e	-te	4a	-te
+4FF	A	4A	A	4f	A	4a	A	4cc	A
+4.FF	chi	4c	chi	4f	chi	4.a	chi	4.cc	chi
+.	.	4d	non	4f	non	.	.	.	.
+8GG	non	.	.	.	.	8b	non	8b	non
+4AA	la	4c	la	4e	la	4cc	la	4.a	la
+4BB	ne-	4B	ne-	4d	ne-	4dd	ne-	.	.
+.	.	.	.	.	.	.	.	8g	ne-
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+2C	-ga-	2G	-ga-	2e	-ga-	2cc	-ga-	2g	-ga-
+4C	-ro	4G	-ro	4e	-ro	4cc	-ro	4g	-ro
+4AA	Le	4c	Le	4e	Le	4cc	Le	4a	Le
+4.BB-X	co-	4.F	co-	4.d	co-	4.b-X	co-	4.f	co-
+8BB-i	-se i-	8F	-se i-	8d	-se i-	8b-i	-se i-	8f	-se i-
+4BB-i	-na-	4D	-na-	4d	-na-	4b-i	-na-	4f	-na-
+4GG	-ni-	4D	-ni-	4d	-ni-	4b-i	-ni-	4g	-ni-
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+1AA	-ma-	1A	-ma-	4c#X	-ma-	1a	-ma-	1e	-ma-
+.	.	.	.	2d	.	.	.	.	.
+.	.	.	.	4c#X	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+0Dl	-te.	0Al	-te.	0dl	-te.	0al	-te.	0f#Xl	-te.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2018
+!!!EED: Coluzzi, Seth
+!!!EEV: 2018/09/25
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/25
+!!@@BEGIN:	VERSEDATA
+!!@CATALOGNUM:	Tam1020338
+!!@LAST_MODIFIED: 2020/07/12
+!!@ACT:      1
+!!@SCENE:    2
+!!@VERSE:    338
+!!@TITLE:    Ho visto al pianto mio
+!!@MANUSRC:	A-Am, A-Au, A-Br, A-CM, A-F, A-Ub
+!!@PRINTSRC:	A-1580D, A-1580M, A-1581B, A-1581B<sub>bis</sub>, A-1581M, A-1581M<sub>bis</sub>, A-1581O, A-1581V, A-1582B, A-1583M, A-1583V, A-1584A, A-1585C, A-1585V, A-1585V<sub>bis</sub>, A-1588B, A-1589M, A-1589V, A-1590Mb, A-1590Mv, A-1591M, A-1591W, A-1592B, A-1596B, A-1596M, A-1599Bf, A-1599Bp, A-1600R, A-1601Bf, A-1601Bp, A-1602B, A-1603Bf, A-1603Bv, A-1603Z, A-1605R, A-1606Z, A-1608D, A-1608DP, A-1609Bf, A-1609Bv, A-1609Z, A-1611D, A-1614GT, A-1617D, A-1618B, A-1619D, A-1619I, A-1620V, A-1622D, A-1623A, A-1624M, A-1624S, A-1624T, A-1625U, A-1628U, A-1632D, A-1634R
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	
+!!@ABOUTEN:	
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Opere minori in versi di Torquato Tasso. Edizione critica sugli autografi e sulle antiche stampe.
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Zanichelli
+!!@EDITION_DATE:  1895
+!!@EDITION_VOL:	3
+!!@EDITION_PAGE:
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:	
+!!	Ho visto al pianto mio
+!!	Risponder per pietate i sassi e l'onde,
+!!	E sospirar le fronde
+!!	Ho visto al pianto mio;
+!!	Ma non ho visto mai,
+!!	Né spero di vedere,
+!!	Compassion ne la crudele e bella
+!!	Che non so s'io mi chiami o donna o fera:
+!!	Ma niega d'esser donna,
+!!	Poiché niega pietate
+!!	A chi non la negaro
+!!	Le cose inanimate.
+!!@TVERSE:
+!!	I have seen to my lament
+!!	Respond, out of compassion, the stones and the waves,
+!!	And the leafy branches sigh,
+!!	I have seen to my lament;
+!!	But I have never seen
+!!	Nor hope to see
+!!	Compassion in the cruel and beautiful [one]
+!!	Whom I know not if I should call woman or wound:
+!!	But she denies being a woman,
+!!	Just as she denies compassion
+!!	To he who is not denied it [by]
+!!	Inanimate objects.
+!!@@END:		VERSES
+!!@NEW_CRIT_ED:   Torquato Tasso, <i>Aminta. "Princeps."</i>, ed. Matteo Navone, vol. 9 of Commissione Nazionale per l'Edizione delle opere del Tasso. Studi e Testi (Alessandria: Edizioni dell'Orso, 2014).
+!!@ATTRIBUTION_ABOUT:	
+!!@DATING:	1573
+!!@DEDICATEE:	
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN: SETTING
+!!@CATALOGNUM:	Tam1020338d
+!!@ACT:		I
+!!@SCENE:		2
+!!@VERSE:		338
+!!@TITLE:		Ho visto al pianto mio
+!!@COMPOSER:	Boschetti, Giovanni Boschetto
+!!@PRINCEPSTITLE:	Il primo libro de madrigali a cinque voci 
+!!@PRINCEPSLOC:	Rome
+!!@NORMLOC:	Rome
+!!@NORMPUB:	Giovanni Battista Robletti
+!!@NORMPUBSHORT:	Robletti
+!!@PRINCEPSPUB:	Giovanni Battista Robletti
+!!@PRINCEPSYEAR:	1613
+!!@PRINCEPSRISM:	B 3785
+!!@OVOICES:	5
+!!@EXTANTVOICES:	5
+!!@OMENSURATION:	C
+!!@OCLEFS:	C1,C1,C3,C4,F4
+!!@OTIME:		
+!!@OKEYSIG:	-
+!!@FINAL:		D
+!!@TIMPEDITOR:	Coluzzi, Seth
+!!@PARTS:		1 of 1
+!!@REPRINTS:	
+!!@@END: SETTING

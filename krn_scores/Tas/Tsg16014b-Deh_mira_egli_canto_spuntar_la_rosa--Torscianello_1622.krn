@@ -1,0 +1,535 @@
+!!!CDT:
+!!!PTL: in Vezzosetti fiori di varii autori
+!!!PPP: Rome
+!!!PPR: Robletti
+!!!PDT: 1622
+!!!RISM: 1622-11
+!!!rime:
+!!!AGN:
+!!!SCT: Tsg16014b
+!!!SCA: Tsg16014b
+!!!voices:
+!!!COM: Torscianello, Enrico
+!!!OTL: "Deh mira," egli cantò, "spuntar la rosa
+**kern	**fb	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"[Basso continuo]	*	*I"[Canto]	*
+*I'Bc	*	*I'C	*
+*oclefC4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*
+*M4/4	*	*M4/4	*
+=1	=1	=1	=1
+!!LO:TX:a:t=Prima parte.
+2r	.	4r	.
+.	.	4b-y	"Deh
+2BB-y	.	2dd	mi-
+=2	=2	=2	=2
+4B-y	.	4dd	-ra,"
+4A	.	(8ccL	e-
+.	.	8dd)J	.
+2G	.	4ee-i	-gli
+.	.	4b-y	can-
+=3	=3	=3	=3
+2F	.	1cc	-tò,
+4F	.	.	.
+4F	.	.	.
+=4	=4	=4	=4
+4F	.	4cc	"spun-
+4F	.	4.dd	-tar
+2G	.	.	.
+.	.	16ccL	.
+.	.	16b-yJ	.
+.	.	[4a	.
+=5	=5	=5	=5
+4D	.	4a]	.
+4D	.	4b-y	la
+2E-X	.	2g	ro-
+=6	=6	=6	=6
+2D	.	2a	-sa
+4D	.	2r	.
+4C	.	.	.
+=7	=7	=7	=7
+2.BB-y	.	4r	.
+.	.	4dd	Dal
+.	.	4ff	ver-
+4C	.	4ee-X	-de
+=8	=8	=8	=8
+4D	.	8ddL	suo
+.	.	8ccJ	.
+4BB-y	.	(8ddL	mo-
+.	.	8b-y)J	.
+2F	.	2cc	-de-
+=9	=9	=9	=9
+4F	.	4cc	-sta e
+4F	6	4dd	ver-
+2G	.	[2ee-i	-gi-
+=10	=10	=10	=10
+2C	.	4ee-]	.
+.	.	16ccL	.
+.	.	16b-y	.
+.	.	16a	.
+.	.	16gJ	.
+2D	.	2a	-nel-
+=11	=11	=11	=11
+4GG	.	2g	-la,
+2G	.	.	.
+.	.	2r	.
+4F#X	.	.	.
+=12	=12	=12	=12
+4G	.	2r	.
+4A	.	.	.
+2B-y	.	4r	.
+.	.	16b-yL	Dal
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+=13	=13	=13	=13
+4B-y	.	4dd	ver-
+4A	.	4cc	-de
+2G	.	4cc	suo
+.	.	4bnX	mo-
+=14	=14	=14	=14
+2F	.	2cc	-de-
+4F	.	8cc	-sta
+.	.	16fL	e
+.	.	16gJ	.
+4F	.	16aL	.
+.	.	16b-X	.
+.	.	16cc	.
+.	.	16ddJ	.
+=15	=15	=15	=15
+4G	6	4ee-i	.
+2C	.	8cc	ver-
+.	.	8b-y	-gi-
+.	.	2a	-nel-
+4D	.	.	.
+=16	=16	=16	=16
+1GG	.	1g	-la.
+=17||	=17||	=17||	=17||
+!!LO:TX:a:t=Seconda parte.
+1BB-y	.	2r	.
+.	.	2b-y	Che
+=18	=18	=18	=18
+2BB-y	.	2.b-y	mez-
+2C	.	.	.
+.	.	4b-y	-zo a-
+=19	=19	=19	=19
+2D	.	2.b-y	-per-
+2E	.	.	.
+.	.	4a	-ta an-
+=20	=20	=20	=20
+2F	.	4.a	-co-
+.	.	16b-yL	-ra,
+.	.	16ccJ	.
+4F	.	2dd	.
+4F	.	.	.
+=21	=21	=21	=21
+4F	.	16ccL	e
+.	.	8.b-yJ	.
+4F	.	16cc	mez-
+.	.	8.a	-zo
+4.G	.	8ee-iL	a-
+.	.	8ddJ	.
+.	.	8ee-iL	.
+8D	.	8b-yJ	.
+=22	=22	=22	=22
+1E-X	.	1cc	-sco-
+=23	=23	=23	=23
+1D	.	1dd	-sa,
+=24	=24	=24	=24
+4D	.	2r	.
+4C	.	.	.
+[2BB-y	.	2b-y	Quan-
+=25	=25	=25	=25
+2BB-]	.	2.b-y	-to
+2C	.	.	.
+.	.	4f	si
+=26	=26	=26	=26
+2D	.	2f	mo-
+2E	.	2g	-stra
+=27	=27	=27	=27
+2F	.	2a	men,
+4F	.	16ddL	tan-
+.	.	8.ccJ	.
+4F	.	16ddL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+=28	=28	=28	=28
+4F	6	2.dd	.
+4F	6	.	.
+2G	.	.	.
+.	.	8g	-to è
+.	.	8a	più
+=29	=29	=29	=29
+4C	6	2a	bel-
+4D	.	.	.
+4GG	.	2g	-la,
+4G	.	.	.
+=30	=30	=30	=30
+4G	.	1r	.
+4F#X	.	.	.
+4G	.	.	.
+4A	.	.	.
+=31	=31	=31	=31
+2B-y	.	4r	.
+.	.	4dd	Quan-
+2A	.	8.ddL	-to
+.	.	16ccJ	.
+.	.	16b-yL	.
+.	.	16aJ	.
+.	.	8fJL	si
+=32	=32	=32	=32
+2G	.	2.b-y	mo-
+2G	.	.	.
+.	.	4g	-stra
+=33	=33	=33	=33
+2F	.	2cc	men,
+2F	.	4r	.
+.	.	16ffL	tan-
+.	.	8.eeJ	.
+=34	=34	=34	=34
+2F	.	16ffL	.
+.	.	8.ccJ	.
+.	.	16ddL	.
+.	.	8.aJ	.
+2G	.	[2b-y	.
+=35	=35	=35	=35
+2C	.	4b-]	.
+.	.	8a	-to è
+.	.	8a	più
+2D	.	2a	bel-
+=36	=36	=36	=36
+1GG	.	1g	-la.
+=37||	=37||	=37||	=37||
+!!LO:TX:a:t=Terza parte.
+2r	.	2r	.
+2BB-y	.	2dd	Ec-
+=38	=38	=38	=38
+2BB-y	.	4b-y	-cho
+.	.	4r	.
+2C	.	[2ee-i	poi
+=39	=39	=39	=39
+2D	.	4ee-]	.
+.	.	2dd	nu-
+2E	.	.	.
+.	.	4cc	-do il
+=40	=40	=40	=40
+2F	.	4a	sen
+.	.	4r	.
+4F	.	16fL	già
+.	.	16g	.
+.	.	16a	.
+.	.	32b-y	.
+.	.	32ccJ	.
+4F	.	[4dd	.
+=41	=41	=41	=41
+4F	.	4dd]	.
+4F	.	16ccL	bal-
+.	.	16b-y	.
+.	.	16dd	.
+.	.	16aJ	.
+2G	.	8b-yL	-dan-
+.	.	8gJ	.
+.	.	16ee-iL	-zo-
+.	.	16dd	.
+.	.	16ee-i	.
+.	.	16ffJ	.
+=42	=42	=42	=42
+4G	.	(2.b-y	.
+4D	.	.	.
+2E-X	.	.	.
+.	.	4cc)	.
+=43	=43	=43	=43
+1D	.	1a	-sa
+=44	=44	=44	=44
+4D	.	2r	.
+4C	.	.	.
+2BB-y	.	4r	.
+.	.	4b-y	Di-
+=45	=45	=45	=45
+2BB-y	.	4b-y	-spie-
+.	.	2f	-ga:
+2AA	.	.	.
+.	.	[4cc	Ec-
+=46	=46	=46	=46
+2GG	.	4cc]	.
+.	.	4dd	-cho
+2GG	.	8g	poi
+.	.	8g	lan-
+.	.	16aL	.
+.	.	16b-y	.
+.	.	[8ccJ	.
+=47	=47	=47	=47
+2FF	.	4cc]	.
+.	.	4a	-gue,
+4F	.	4r	.
+4F	.	[4a	e
+=48	=48	=48	=48
+4F	.	4a]	.
+4F	.	2a	non
+2G	.	.	.
+.	.	4b-y	par
+=49	=49	=49	=49
+2C	.	1a	quel-
+2D	.	.	.
+=50	=50	=50	=50
+2GG	.	1g	-la,
+2G	.	.	.
+=51	=51	=51	=51
+4G	.	1r	.
+4F#X	.	.	.
+4G	.	.	.
+4A	.	.	.
+=52	=52	=52	=52
+2B-y	.	4r	.
+.	.	4dd	Di-
+4A	.	16ddL	-spie-
+.	.	16cc	.
+.	.	16b-y	.
+.	.	16aJ	.
+4G	.	16b-yL	.
+.	.	16cc	.
+.	.	16dd	.
+.	.	16b-yJ	.
+=53	=53	=53	=53
+2F	.	4cc	-ga:
+.	.	4cc	Ec-
+2F	.	16ccL	-cho
+.	.	16dd	.
+.	.	16ee	.
+.	.	16ffJ	.
+.	.	4a	poi
+=54	=54	=54	=54
+2F	.	4cc	lan-
+.	.	4cc	-gue, e
+2F	.	8fL	.
+.	.	8gJ	.
+.	.	16aL	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16aJ	.
+=55	=55	=55	=55
+1G	.	4b-y	non
+.	.	16ddL	par
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16aJ	.
+.	.	8b-yL	.
+.	.	8gJ	.
+.	.	8aL	.
+.	.	8b-yJ	.
+=56	=56	=56	=56
+2C	.	8ccL	.
+.	.	16dd	.
+.	.	16eeJ	.
+.	.	4ff	.
+2D	.	2a	quel-
+=57	=57	=57	=57
+1GG	.	1g	-la.
+=58||	=58||	=58||	=58||
+!!LO:TX:a:t=Quarta, ed utima parte.
+2r	.	2r	.
+2BB-y	.	2b-y	Quel-
+=59	=59	=59	=59
+2BB-y	.	8b-yL	-la
+.	.	16cc	.
+.	.	16ddJ	.
+.	.	8gL	.
+.	.	16a	.
+.	.	16b-yJ	.
+2BB-y	.	4f	.
+.	.	4e	non
+=60	=60	=60	=60
+1F	.	2f	par
+.	.	4f	che
+.	.	[4f	de-
+=61	=61	=61	=61
+2D	.	4f]	.
+.	.	4f	-sia-
+2GG	.	16gL	.
+.	.	16f	.
+.	.	16e	.
+.	.	16fJ	.
+.	.	16gL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16aJ	.
+=62	=62	=62	=62
+1G	.	16gL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+.	.	16ddL	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16aJ	.
+.	.	[2b-y	.
+=63	=63	=63	=63
+2C	.	4b-]	.
+.	.	4a	.
+2E-X	.	4.a	-ta a-
+.	.	8g	-van-
+=64	=64	=64	=64
+2.D	.	1a	-ti
+4C	.	.	.
+=65	=65	=65	=65
+1BB-y	.	4r	.
+.	.	8ff	Fu
+.	.	8ee	da
+.	.	4dd	mil-
+.	.	8cc	-le
+.	.	8b-y	don-
+=66	=66	=66	=66
+2F	.	8cc	-zel-
+.	.	8a	-le e
+.	.	2dd	mil-
+2G	.	.	.
+.	.	16ccL	-le a-
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16gJ	.
+=67	=67	=67	=67
+4C	.	2a	-man-
+4D	.	.	.
+4GG	.	2g	-ti,
+4G	.	.	.
+=68	=68	=68	=68
+4G	.	4r	.
+4F#X	.	8a	Fu
+.	.	8a	da
+4G	.	4b-y	mil-
+4A	.	8cc	-le
+.	.	8cc	don-
+=69	=69	=69	=69
+2.B-y	.	8ddL	-zel-
+.	.	8eeJ	.
+.	.	8ffL	.
+.	.	8eeJ	.
+.	.	8ddL	.
+.	.	16ee	.
+.	.	16ddJ	.
+4A	.	8ccL	.
+.	.	16dd	.
+.	.	16ccJ	.
+=70	=70	=70	=70
+2G	.	8b-yL	.
+.	.	8gJ	.
+.	.	8ccL	.
+.	.	8b-yJ	.
+2F	.	2a	-le
+=71	=71	=71	=71
+2F	.	4r	.
+.	.	8fL	e
+.	.	8gJ	.
+2F	.	8aL	.
+.	.	8b-yJ	.
+.	.	8ccL	.
+.	.	8fJ	.
+=72	=72	=72	=72
+2E-X	.	8gL	.
+.	.	8aJ	.
+.	.	8b-yL	.
+.	.	8ccJ	.
+2D	.	[2dd	.
+=73	=73	=73	=73
+4BB-y	.	4dd]	.
+4C	.	8a	mil-
+.	.	8a	-le a-
+2D	.	2a	-man-
+=74	=74	=74	=74
+1GGl	.	1gl	-ti.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23
+!!@@BEGIN:	VERSEDATA
+!!@CATALOGNUM:	Tsg16014
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		"Deh mira," egli cantò, "spuntar la rosa
+!!@CANTO:		XVI
+!!@OTTAVA:	14
+!!@MANUSRC:	G-Al, G-Au, G-Br<sub>1</sub>, G-Br<sub>2</sub>, G-Cv, G-Es<sub>1</sub>, G-Es<sub>2</sub>, G-Es<sub>3</sub>, G-F, G-Fr, G-Fr<sub>1</sub>, G-Fr<sub>2</sub>, G-Mc<sub>1</sub>, G-Mg, G-Mr, G-Mt, G-N, G-Ol
+!!@PRINTSRC:	G-1580CM, G-1581B, G-1581CV, G-1581R, G-1581MR, G-1581P, G-1581V, G-1581V<sub>bis</sub>, G-1582C, G-1582M, G-1582MC, G-1582P, G-1582SC, G-1582SC<sub>bis</sub>, G-1583S, G-1584O, G-1584S, G-1585C, G-1585S, G-1588S, G-1589S, G-1590B, G-1590S, G-1592S, G-1593S, G-1594C, G-1595C, G-1597C, G-1598C, G-1599C, G-1600C, G-1600S, G-1601C, G-1601R, G-1602C, G-1604C, G-1604Cl, G-1604F, G-1604P, G-1606B, G-1606B<sub>bis</sub>, G-1606L, G-1607ZR, G-1608DP, G-1609GC, G-1610M, G-1611S, G-1611V, G-1612P, G-1613M, G-1613P, G-1613V, G-1615P, G-1616M, G-1617P, G-1619B, G-1619V, G-1620M, G-1620S, G-1621R, G-1624I, G-1624MT, G-1625C, G-1625S, G-1625SS, G-1626C, G-1626Co, G-1627M, G-1628T, G-1628Tu, G-1630L, G-1630T, G-1632FT, G-1639CF, G-1642M, G-1643I, G-1644P, G-1644S
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Angelo Solerti
+!!@EDITION_TITLE: Gerusalemme liberata. Poema eroico di Torquato Tasso. Edizione critica sui manoscritti e le prime stampe.
+!!@EDITION_LOC:	Florence
+!!@EDITION_PUB:	G. Barbera
+!!@EDITION_DATE:  1895
+!!@EDITION_VOL:
+!!@EDITION_PAGE:
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	"Deh mira," egli cantò, "spuntar la rosa
+!!	Dal verde suo modesta e verginella;
+!!	Che mezzo aperta ancora, e mezzo ascosa,
+!!	Quanto si mostra men, tanto è più bella.
+!!	Ecco poi nudo il sen già baldanzosa
+!!	Dispiega: ecco poi langue, e non par quella,
+!!	Quella non par che desiata innanti
+!!	Fu da mille donzelle e mille amanti.
+!!@MVERSE_DATE: 20230824
+!!@MVERSE:
+!!	"Deh mira," egli cantò, "spuntar la rosa		=a
+!!	Dal verde suo modesta e verginella;			=b
+!!	Che mezzo aperta ancora, e mezzo ascosa,		=a
+!!	Quanto si mostra men, tanto è più bella.		=b
+!!	Ecco poi nudo il sen già baldanzosa			=a
+!!	Dispiega: ecco poi langue, e non par quella,		=b
+!!	Quella non par che desiata innanti			=c
+!!	Fu da mille donzelle e mille amanti.			=c
+!!@TVERSE:
+!!	"Oh look," he sang, "at the rose budding
+!!	From its greenery, modest and virginal;
+!!	Which—half open still, and half hidden—
+!!	The less it reveals, the more beautiful it is.
+!!	Thus then the naked breast she bodly
+!!	Exposes: thus then she languishes, and does not equal that one,
+!!	She does not equal that one who was previously desired
+!!	By a thousand girls and a thousand lovers.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:  Torquato Tasso, <i>Gerusalemme liberata</i>, ed. Lanfranco Caretti, 2 vols. (Bari: Laterza, 1967).
+!!@ATTRIBUTION_ABOUT:
+!!@DATING:	mid-1560s through 1570s
+!!@DEDICATEE:	Duke Alfonso II d'Este
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN: SETTING
+!!@CATALOGNUM:	Tsg16014b
+!!@CANTO:		XVI
+!!@OTTAVA:	14
+!!@TITLE:	"Deh mira," egli cantò, "spuntar la rosa
+!!@COMPOSER:	Torscianello, Enrico
+!!@PARTS:		1-4 (verses 1-2; 3-4; 5-6; 7-8)
+!!@PRINCEPSTITLE:	in Vezzosetti fiori di varii autori
+!!@PRINCEPSLOC:	Rome
+!!@NORMLOC:	Rome
+!!@NORMPUB:	Robletti
+!!@NORMPUBSHORT:	Robletti
+!!@PRINCEPSPUB:	1622
+!!@PRINCEPSYEAR:	1622
+!!@PRINCEPSRISM:	1622-11
+!!@OVOICES:	1+bc
+!!@EXTANTVOICES:	1+bc
+!!@OMENSURATION:	C
+!!@OCLEFS:	C1,C4
+!!@OTIME:		
+!!@OKEYSIG:	b-
+!!@FINAL:		(G)(G)(G)G
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@REPRINTS:	
+!!@@END: SETTING

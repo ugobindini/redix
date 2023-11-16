@@ -1,0 +1,920 @@
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Ung aultre l'a
+!!!AGN: Song; Chanson
+!!!SCT: Ock3022
+!!!SCA: Ock3022
+!!!voices: 3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Contra	*	*I"Tenor	*	*I"Discantus	*
+*I'C	*	*I'T	*	*I'D	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*>A	*>A	*>A	*>A	*>A	*>A
+=1-	=1-	=1-	=1-	=1-	=1-
+!!LO:TX:Z=36:t=Form&colon; rondeau
+!!LO:TX:Z=8:t=Sig. congr. are editorial
+0C	Ung	0r	.	0g	Ung
+=2	=2	=2	=2	=2	=2
+1E	aul-	0r	.	1g	aul-
+1E	-tre	.	.	1g	-tre
+=3	=3	=3	=3	=3	=3
+1.F	l'a,	0r	.	1.a	l'a,
+4E	.	.	.	4g	.
+4D	.	.	.	4f	.
+=4	=4	=4	=4	=4	=4
+[0C	.	0c	Ung	0e	.
+=5	=5	=5	=5	=5	=5
+0C]	.	1c	aul-	1r	.
+.	.	1c	-tre	1e	n'en
+=6	=6	=6	=6	=6	=6
+0r	.	1.d	l'a,	1f	.
+.	.	.	.	1f	que-
+.	.	4c	.	.	.
+.	.	4B	.	.	.
+=7	=7	=7	=7	=7	=7
+1.c	n'en	0A	.	1.f	-r&eacute;s
+2A	.	.	.	2e	.
+=8	=8	=8	=8	=8	=8
+1B	.	1G	n'en	1e	.
+1c	.	1A	que-	1f	.
+=9	=9	=9	=9	=9	=9
+1r	.	1B	-r&eacute;s	1g	plus;
+1C	que-	[1c	.	1e	.
+=10	=10	=10	=10	=10	=10
+0G	-r&eacute;s	1c]	.	0d	.
+.	.	1B	.	.	.
+=11	=11	=11	=11	=11	=11
+[0C	plus;	0c	plus;	1r	.
+.	.	.	.	[1e	Car
+=12	=12	=12	=12	=12	=12
+0C]	.	1r	.	1e]	.
+.	.	[1c	Car	1e	do-
+=13	=13	=13	=13	=13	=13
+1r	.	1c]	.	1e	-re-
+1C	Car	1c	do-	1e	-na-
+=14	=14	=14	=14	=14	=14
+1.C	do-	1c	-re-	0e	-vant
+.	.	1c	-na-	.	.
+2D	-re-	.	.	.	.
+=15	=15	=15	=15	=15	=15
+1E	-na-	0c	-vant	1g	je
+[1F	-vant	.	.	[1a	con-
+=16	=16	=16	=16	=16	=16
+1F]	.	1A	je	1a]	.
+1E	je	1B	con-	1g	.
+=17	=17	=17	=17	=17	=17
+2C	con-	1.c	-clus	0a	-clus
+2.F	-clus	.	.	.	.
+4E	.	.	.	.	.
+4D	.	4B	.	.	.
+4C	.	4A	.	.	.
+=18	=18	=18	=18	=18	=18
+2.E	.	0G	.	1r	.
+4F	.	.	.	.	.
+2G	.	.	.	1b	De
+[2E	De	.	.	.	.
+=19	=19	=19	=19	=19	=19
+2E]	.	1r	.	1b	gar-
+4D	.	.	.	.	.
+4C	.	.	.	.	.
+2.BB	gar-	1G	De	1b	-der
+4C	.	.	.	.	.
+=20	=20	=20	=20	=20	=20
+2D	-der	1G	gar-	1b	en
+2GG	.	.	.	.	.
+2r	.	1G	-der	1b	tout
+2G	en	.	.	.	.
+=21	=21	=21	=21	=21	=21
+2E	tout	1A	en	0cc	temps
+1F	.	.	.	.	.
+.	.	1A	tout	.	.
+4E	.	.	.	.	.
+4F	.	.	.	.	.
+=22	=22	=22	=22	=22	=22
+1G	temps	0G	temps	1b	mon
+2.E	mon	.	.	[1g	.
+4C	.	.	.	.	.
+=23	=23	=23	=23	=23	=23
+2E	.	0c	mon	2g]	.
+2.F	.	.	.	2.a	.
+4E	.	.	.	4g	.
+2C	.	.	.	2e	.
+=24	=24	=24	=24	=24	=24
+2r	.	[0B	droit.	0d	droit.
+1G	droit.	.	.	.	.
+4F	.	.	.	.	.
+4E	.	.	.	.	.
+=25	=25	=25	=25	=25	=25
+4D	.	0B]	.	0r	.
+4C	.	.	.	.	.
+4BB	.	.	.	.	.
+4AA	.	.	.	.	.
+2GG	.	.	.	.	.
+[2G	Chas-	.	.	.	.
+=26	=26	=26	=26	=26	=26
+*>B	*>B	*>B	*>B	*>B	*>B
+4G]	.	0r	.	0dd	Chas-
+4F	.	.	.	.	.
+2D	.	.	.	.	.
+2F	-cun	.	.	.	.
+[2G	se	.	.	.	.
+=27	=27	=27	=27	=27	=27
+2G]	.	0r	.	1dd	-cun
+2A	.	.	.	.	.
+1B	gar-	.	.	1dd	se
+=28	=28	=28	=28	=28	=28
+1c	-de en	0c	Chas-	0ee	gar-
+1C	.	.	.	.	.
+=29	=29	=29	=29	=29	=29
+1r	.	1c	-cun	1ee	-de en
+1C	son	1c	se	[1ee	son
+=30	=30	=30	=30	=30	=30
+0G	.	0d	gar-	2ee]	.
+.	.	.	.	2dd	.
+.	.	.	.	[1dd	en-
+=31	=31	=31	=31	=31	=31
+1E	.	0e	-de en	2dd]	.
+.	.	.	.	2cc	.
+1C	.	.	.	[1cc	.
+=32	=32	=32	=32	=32	=32
+1r	.	0d	son	2cc]	.
+.	.	.	.	2b	.
+2.G	en-	.	.	2b	.
+.	.	.	.	2a	.
+4F	.	.	.	.	.
+=33	=33	=33	=33	=33	=33
+1A	.	1c	en-	1cc	-droit,
+2F	.	[1d	.	2a	en-
+[2G	.	.	.	[2b	.
+=34	=34	=34	=34	=34	=34
+2G]	.	2d]	.	2b]	.
+2A	.	2c	.	2a	.
+1F	.	1A	.	[1a	.
+=35	=35	=35	=35	=35	=35
+0E	-droit,	0B	.	2a]	.
+.	.	.	.	4g#i	.
+.	.	.	.	4f#i	.
+.	.	.	.	1g#i	.
+=36	=36	=36	=36	=36	=36
+2r	.	0A	-droit,	1a	-droit,
+1F	Car	.	.	.	.
+.	.	.	.	1r	.
+2D	.	.	.	.	.
+=37	=37	=37	=37	=37	=37
+1F	.	0r	.	1a	Car
+1G	.	.	.	1b	.
+=38	=38	=38	=38	=38	=38
+2.F	bien	1A	Car	1cc	.
+4G	.	.	.	.	.
+1A	.	1A	bien	1cc	bien
+=39	=39	=39	=39	=39	=39
+1G	peu	1B	peu	1dd	peu
+2r	.	1c	me	1cc	me
+2A	me	.	.	.	.
+=40	=40	=40	=40	=40	=40
+2G	chault	[0d	chault	2b	chault
+1F	.	.	.	1a	.
+2G	.	.	.	2b	.
+=41	=41	=41	=41	=41	=41
+2F	.	1d]	.	2a	.
+2.G	.	.	.	1b	.
+.	.	1B	.	.	.
+4F	.	.	.	.	.
+4E	.	.	.	2g	.
+4D	.	.	.	.	.
+=42	=42	=42	=42	=42	=42
+4C	.	1c	.	4a	.
+4D	.	.	.	4g	.
+4E	.	.	.	4f	.
+4F	.	.	.	4e	.
+2G	.	1B	.	[1d	.
+[2GG	.	.	.	.	.
+=43	=43	=43	=43	=43	=43
+2GG]	.	0G	du	2d]	.
+1G	du	.	.	2.e	du
+.	.	.	.	4d	.
+2E	sur-	.	.	[2g	sur-
+=44	=44	=44	=44	=44	=44
+2D	.	0A	sur-	2g]	.
+2C	.	.	.	4f#i	.
+.	.	.	.	4e	.
+1D	.	.	.	2.f#i	.
+.	.	.	.	4e	.
+=45	=45	=45	=45	=45	=45
+0GGl	-plus.	0Gl	-plus.	0gl	-plus.
+==	==	==	==	==	==
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: N = signum congruentiae
+!!!ENC: Jesse Rodin 17 April 2018
+!!!END: 2018/04/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Ung aultre l'a
+!!!AGN: Song; Chanson
+!!!SCT: Ock3022
+!!!SCA: Ock3022
+!!!voices: 3
+*thru	*thru	*thru	*thru	*thru	*thru
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Contra	*	*I"Tenor	*	*I"Discantus	*
+*I'C	*	*I'T	*	*I'D	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*>A	*>A	*>A	*>A	*>A	*>A
+!!LO:LB:g=z
+=46-	=46-	=46-	=46-	=46-	=46-
+0C	Je	0r	.	0g	Je
+=47	=47	=47	=47	=47	=47
+1E	ne	0r	.	1g	ne
+1E	vueil	.	.	1g	vueil
+=48	=48	=48	=48	=48	=48
+1.F	pas	0r	.	1.a	pas
+4E	.	.	.	4g	.
+4D	.	.	.	4f	.
+=49	=49	=49	=49	=49	=49
+[0C	.	0c	Je	0e	.
+=50	=50	=50	=50	=50	=50
+0C]	.	1c	ne	1r	.
+.	.	1c	vueil	1e	es-
+=51	=51	=51	=51	=51	=51
+0r	.	1.d	pas	1f	.
+.	.	.	.	1f	-tre
+.	.	4c	.	.	.
+.	.	4B	.	.	.
+=52	=52	=52	=52	=52	=52
+1.c	es-	0A	.	1.f	for-
+2A	.	.	.	2e	.
+=53	=53	=53	=53	=53	=53
+1B	-tre	1G	es-	1e	.
+1c	.	1A	-tre	1f	.
+=54	=54	=54	=54	=54	=54
+1r	.	1B	for-	1g	-cluz
+1C	for-	[1c	.	1e	.
+=55	=55	=55	=55	=55	=55
+0G	.	1c]	.	0d	.
+.	.	1B	.	.	.
+=56	=56	=56	=56	=56	=56
+[0C	-cluz	0c	-cluz	1r	.
+.	.	.	.	[1e	D'a-
+=57	=57	=57	=57	=57	=57
+0C]	.	1r	.	1e]	.
+.	.	[1c	D'a-	1e	-cor-
+=58	=58	=58	=58	=58	=58
+1r	.	1c]	.	1e	-der
+1C	D'a-	1c	-cor-	1e	ou
+=59	=59	=59	=59	=59	=59
+1.C	-cor-	1c	-der	0e	fai-
+.	.	1c	ou	.	.
+2D	-der	.	.	.	.
+=60	=60	=60	=60	=60	=60
+1E	ou	0c	fai-	1g	-re
+[1F	fai-	.	.	[1a	ref-
+=61	=61	=61	=61	=61	=61
+1F]	.	1A	-re	1a]	.
+1E	-re	1B	ref-	1g	.
+=62	=62	=62	=62	=62	=62
+2C	ref-	1.c	-fuz,	0a	-fuz,
+2.F	-fuz,	.	.	.	.
+4E	.	.	.	.	.
+4D	.	4B	.	.	.
+4C	.	4A	.	.	.
+=63	=63	=63	=63	=63	=63
+2.E	.	0G	.	1r	.
+4F	.	.	.	.	.
+2G	.	.	.	1b	Mais
+[2E	Mais	.	.	.	.
+=64	=64	=64	=64	=64	=64
+2E]	.	1r	.	1b	ce
+4D	.	.	.	.	.
+4C	.	.	.	.	.
+2.BB	ce	1G	Mais	1b	que
+4C	.	.	.	.	.
+=65	=65	=65	=65	=65	=65
+2D	que	1G	ce	1b	vou-
+2GG	.	.	.	.	.
+2r	.	1G	que	1b	-lez
+2G	vou-	.	.	.	.
+=66	=66	=66	=66	=66	=66
+2E	-lez	1A	vou-	0cc	o-
+1F	.	.	.	.	.
+.	.	1A	-lez	.	.
+4E	.	.	.	.	.
+4F	.	.	.	.	.
+=67	=67	=67	=67	=67	=67
+1G	o-	0G	o-	1b	-ren-
+2.E	-ren-	.	.	[1g	.
+4C	.	.	.	.	.
+=68	=68	=68	=68	=68	=68
+2E	.	0c	-ren-	2g]	.
+2.F	.	.	.	2.a	.
+4E	.	.	.	4g	.
+2C	.	.	.	2e	.
+=69	=69	=69	=69	=69	=69
+2r	.	[0BN	-droit&	0dN	-droit&
+1G	-droit&	.	.	.	.
+4F	.	.	.	.	.
+4E	.	.	.	.	.
+=70	=70	=70	=70	=70	=70
+4D	.	0B]	.	0r	.
+4C	.	.	.	.	.
+4BB	.	.	.	.	.
+4AA	.	.	.	.	.
+2GGN	.	.	.	.	.
+2G	.	.	.	.	.
+=	=	=	=	=	=
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: N = signum congruentiae
+!!!ENC: Jesse Rodin 17 April 2018
+!!!END: 2018/04/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Ung aultre l'a
+!!!AGN: Song; Chanson
+!!!SCT: Ock3022
+!!!SCA: Ock3022
+!!!voices: 3
+*thru	*thru	*thru	*thru	*thru	*thru
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Contra	*	*I"Tenor	*	*I"Discantus	*
+*I'C	*	*I'T	*	*I'D	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*>A	*>A	*>A	*>A	*>A	*>A
+!!LO:LB:g=z
+=71-	=71-	=71-	=71-	=71-	=71-
+!!LO:TX:Z=36:t=Form&colon; rondeau
+!!LO:TX:Z=8:t=Sig. congr. are editorial
+0C	Ung	0r	.	0g	Ung
+=72	=72	=72	=72	=72	=72
+1E	aul-	0r	.	1g	aul-
+1E	-tre	.	.	1g	-tre
+=73	=73	=73	=73	=73	=73
+1.F	l'a,	0r	.	1.a	l'a,
+4E	.	.	.	4g	.
+4D	.	.	.	4f	.
+=74	=74	=74	=74	=74	=74
+[0C	.	0c	Ung	0e	.
+=75	=75	=75	=75	=75	=75
+0C]	.	1c	aul-	1r	.
+.	.	1c	-tre	1e	n'en
+=76	=76	=76	=76	=76	=76
+0r	.	1.d	l'a,	1f	.
+.	.	.	.	1f	que-
+.	.	4c	.	.	.
+.	.	4B	.	.	.
+=77	=77	=77	=77	=77	=77
+1.c	n'en	0A	.	1.f	-r&eacute;s
+2A	.	.	.	2e	.
+=78	=78	=78	=78	=78	=78
+1B	.	1G	n'en	1e	.
+1c	.	1A	que-	1f	.
+=79	=79	=79	=79	=79	=79
+1r	.	1B	-r&eacute;s	1g	plus;
+1C	que-	[1c	.	1e	.
+=80	=80	=80	=80	=80	=80
+0G	-r&eacute;s	1c]	.	0d	.
+.	.	1B	.	.	.
+=81	=81	=81	=81	=81	=81
+[0C	plus;	0c	plus;	1r	.
+.	.	.	.	[1e	Car
+=82	=82	=82	=82	=82	=82
+0C]	.	1r	.	1e]	.
+.	.	[1c	Car	1e	do-
+=83	=83	=83	=83	=83	=83
+1r	.	1c]	.	1e	-re-
+1C	Car	1c	do-	1e	-na-
+=84	=84	=84	=84	=84	=84
+1.C	do-	1c	-re-	0e	-vant
+.	.	1c	-na-	.	.
+2D	-re-	.	.	.	.
+=85	=85	=85	=85	=85	=85
+1E	-na-	0c	-vant	1g	je
+[1F	-vant	.	.	[1a	con-
+=86	=86	=86	=86	=86	=86
+1F]	.	1A	je	1a]	.
+1E	je	1B	con-	1g	.
+=87	=87	=87	=87	=87	=87
+2C	con-	1.c	-clus	0a	-clus
+2.F	-clus	.	.	.	.
+4E	.	.	.	.	.
+4D	.	4B	.	.	.
+4C	.	4A	.	.	.
+=88	=88	=88	=88	=88	=88
+2.E	.	0G	.	1r	.
+4F	.	.	.	.	.
+2G	.	.	.	1b	De
+[2E	De	.	.	.	.
+=89	=89	=89	=89	=89	=89
+2E]	.	1r	.	1b	gar-
+4D	.	.	.	.	.
+4C	.	.	.	.	.
+2.BB	gar-	1G	De	1b	-der
+4C	.	.	.	.	.
+=90	=90	=90	=90	=90	=90
+2D	-der	1G	gar-	1b	en
+2GG	.	.	.	.	.
+2r	.	1G	-der	1b	tout
+2G	en	.	.	.	.
+=91	=91	=91	=91	=91	=91
+2E	tout	1A	en	0cc	temps
+1F	.	.	.	.	.
+.	.	1A	tout	.	.
+4E	.	.	.	.	.
+4F	.	.	.	.	.
+=92	=92	=92	=92	=92	=92
+1G	temps	0G	temps	1b	mon
+2.E	mon	.	.	[1g	.
+4C	.	.	.	.	.
+=93	=93	=93	=93	=93	=93
+2E	.	0c	mon	2g]	.
+2.F	.	.	.	2.a	.
+4E	.	.	.	4g	.
+2C	.	.	.	2e	.
+=94	=94	=94	=94	=94	=94
+2r	.	[0BN	droit.	0dN	droit.
+1G	droit.	.	.	.	.
+4F	.	.	.	.	.
+4E	.	.	.	.	.
+=95	=95	=95	=95	=95	=95
+4D	.	0B]	.	0r	.
+4C	.	.	.	.	.
+4BB	.	.	.	.	.
+4AA	.	.	.	.	.
+2GGN	.	.	.	.	.
+2G	Chas-	.	.	.	.
+=	=	=	=	=	=
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: N = signum congruentiae
+!!!ENC: Jesse Rodin 17 April 2018
+!!!END: 2018/04/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Ung aultre l'a
+!!!AGN: Song; Chanson
+!!!SCT: Ock3022
+!!!SCA: Ock3022
+!!!voices: 3
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Contra	*	*I"Tenor	*	*I"Discantus	*
+*I'C	*	*I'T	*	*I'D	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*>A	*>A	*>A	*>A	*>A	*>A
+!!LO:LB:g=z
+=96-	=96-	=96-	=96-	=96-	=96-
+!!LO:TX:Z=36:t=Form&colon; rondeau
+!!LO:TX:Z=8:t=Sig. congr. are editorial
+0C	Ja-	0r	.	0g	Ja-
+=97	=97	=97	=97	=97	=97
+1E	-mais	0r	.	1g	-mais
+1E	en	.	.	1g	en
+=98	=98	=98	=98	=98	=98
+1.F	ce	0r	.	1.a	ce
+4E	.	.	.	4g	.
+4D	.	.	.	4f	.
+=99	=99	=99	=99	=99	=99
+[0C	.	0c	Ja-	0e	.
+=100	=100	=100	=100	=100	=100
+0C]	.	1c	-mais	1r	.
+.	.	1c	en	1e	pro-
+=101	=101	=101	=101	=101	=101
+0r	.	1.d	ce	1f	.
+.	.	.	.	1f	-pos
+.	.	4c	.	.	.
+.	.	4B	.	.	.
+=102	=102	=102	=102	=102	=102
+1.c	pro-	0A	.	1.f	ne
+2A	.	.	.	2e	.
+=103	=103	=103	=103	=103	=103
+1B	-pos	1G	pro-	1e	.
+1c	.	1A	-pos	1f	.
+=104	=104	=104	=104	=104	=104
+1r	.	1B	ne	1g	fuz
+1C	ne	[1c	.	1e	.
+=105	=105	=105	=105	=105	=105
+0G	.	1c]	.	0d	.
+.	.	1B	.	.	.
+=106	=106	=106	=106	=106	=106
+[0C	fuz	0c	fuz	1r	.
+.	.	.	.	[1e	Que
+=107	=107	=107	=107	=107	=107
+0C]	.	1r	.	1e]	.
+.	.	[1c	Que	1e	mon
+=108	=108	=108	=108	=108	=108
+1r	.	1c]	.	1e	vou-
+1C	Que	1c	mon	1e	-loir
+=109	=109	=109	=109	=109	=109
+1.C	mon	1c	vou-	0e	fust
+.	.	1c	-loir	.	.
+2D	vou-	.	.	.	.
+=110	=110	=110	=110	=110	=110
+1E	-loir	0c	fust	1g	si
+[1F	fust	.	.	[1a	con-
+=111	=111	=111	=111	=111	=111
+1F]	.	1A	si	1a]	.
+1E	si	1B	con-	1g	.
+=112	=112	=112	=112	=112	=112
+2C	con-	1.c	-fuz	0a	-fuz
+2.F	-fuz	.	.	.	.
+4E	.	.	.	.	.
+4D	.	4B	.	.	.
+4C	.	4A	.	.	.
+=113	=113	=113	=113	=113	=113
+2.E	.	0G	.	1r	.
+4F	.	.	.	.	.
+2G	.	.	.	1b	D'en-
+[2E	D'en-	.	.	.	.
+=114	=114	=114	=114	=114	=114
+2E]	.	1r	.	1b	-ten-
+4D	.	.	.	.	.
+4C	.	.	.	.	.
+2.BB	-ten-	1G	D'en-	1b	-dre a
+4C	.	.	.	.	.
+=115	=115	=115	=115	=115	=115
+2D	-dre a	1G	-ten-	1b	tout
+2GG	.	.	.	.	.
+2r	.	1G	-dre a	1b	ce
+2G	tout	.	.	.	.
+=116	=116	=116	=116	=116	=116
+2E	ce	1A	tout	0cc	qu'il
+1F	.	.	.	.	.
+.	.	1A	ce	.	.
+4E	.	.	.	.	.
+4F	.	.	.	.	.
+=117	=117	=117	=117	=117	=117
+1G	qu'il	0G	qu'il	1b	vou-
+2.E	vou-	.	.	[1g	.
+4C	.	.	.	.	.
+=118	=118	=118	=118	=118	=118
+2E	.	0c	vou-	2g]	.
+2.F	.	.	.	2.a	.
+4E	.	.	.	4g	.
+2C	.	.	.	2e	.
+=119	=119	=119	=119	=119	=119
+2r	.	[0B	-droit;	0d	-droit;
+1G	-droit;	.	.	.	.
+4F	.	.	.	.	.
+4E	.	.	.	.	.
+=120	=120	=120	=120	=120	=120
+4D	.	0B]	.	0r	.
+4C	.	.	.	.	.
+4BB	.	.	.	.	.
+4AA	.	.	.	.	.
+2GG	.	.	.	.	.
+[2G	De	.	.	.	.
+=121	=121	=121	=121	=121	=121
+*>B	*>B	*>B	*>B	*>B	*>B
+4G]	.	0r	.	0dd	De
+4F	.	.	.	.	.
+2D	.	.	.	.	.
+2F	ce	.	.	.	.
+[2G	fai-	.	.	.	.
+=122	=122	=122	=122	=122	=122
+2G]	.	0r	.	1dd	ce
+2A	.	.	.	.	.
+1B	.	.	.	1dd	fai-
+=123	=123	=123	=123	=123	=123
+1c	-re on	0c	De	0ee	-re on
+1C	.	.	.	.	.
+=124	=124	=124	=124	=124	=124
+1r	.	1c	ce	1ee	me
+1C	me	1c	fai-	[1ee	re-
+=125	=125	=125	=125	=125	=125
+0G	.	0d	-re on	2ee]	.
+.	.	.	.	2dd	.
+.	.	.	.	[1dd	-pren-
+=126	=126	=126	=126	=126	=126
+1E	.	0e	me	2dd]	.
+.	.	.	.	2cc	.
+1C	.	.	.	[1cc	.
+=127	=127	=127	=127	=127	=127
+1r	.	0d	re-	2cc]	.
+.	.	.	.	2b	.
+2.G	re-	.	.	2b	.
+.	.	.	.	2a	.
+4F	.	.	.	.	.
+=128	=128	=128	=128	=128	=128
+1A	-pren-	1c	-pren-	1cc	-droit,
+2F	.	[1d	.	2a	re-
+[2G	.	.	.	[2b	-pren-
+=129	=129	=129	=129	=129	=129
+2G]	.	2d]	.	2b]	.
+2A	.	2c	.	2a	.
+1F	.	1A	.	[1a	.
+=130	=130	=130	=130	=130	=130
+0E	-droit,	0B	.	2a]	.
+.	.	.	.	4g#i	.
+.	.	.	.	4f#i	.
+.	.	.	.	1g#i	.
+=131	=131	=131	=131	=131	=131
+2r	.	0A	-droit,	1a	-droit,
+1F	Con-	.	.	.	.
+.	.	.	.	1r	.
+2D	.	.	.	.	.
+=132	=132	=132	=132	=132	=132
+1F	.	0r	.	1a	Con-
+1G	.	.	.	1b	.
+=133	=133	=133	=133	=133	=133
+2.F	-gnois-	1A	Con-	1cc	.
+4G	.	.	.	.	.
+1A	.	1A	-gnois-	1cc	-gnois-
+=134	=134	=134	=134	=134	=134
+1G	-sant	1B	-sant	1dd	-sant
+2r	.	1c	que	1cc	que
+2A	que	.	.	.	.
+=135	=135	=135	=135	=135	=135
+2G	se-	[0d	se-	2b	se-
+1F	.	.	.	1a	.
+2G	.	.	.	2b	.
+=136	=136	=136	=136	=136	=136
+2F	.	1d]	.	2a	.
+2.G	.	.	.	1b	.
+.	.	1B	.	.	.
+4F	.	.	.	.	.
+4E	.	.	.	2g	.
+4D	.	.	.	.	.
+=137	=137	=137	=137	=137	=137
+4C	.	1c	.	4a	.
+4D	.	.	.	4g	.
+4E	.	.	.	4f	.
+4F	.	.	.	4e	.
+2G	.	1B	.	[1d	-roit
+[2GG	.	.	.	.	.
+=138	=138	=138	=138	=138	=138
+2GG]	.	0G	-roit	2d]	.
+1G	-roit	.	.	2.e	a-
+.	.	.	.	4d	.
+2E	a-	.	.	[2g	.
+=139	=139	=139	=139	=139	=139
+2D	.	0A	a-	2g]	.
+2C	.	.	.	4f#i	.
+.	.	.	.	4e	.
+1D	.	.	.	2.f#i	.
+.	.	.	.	4e	.
+=140	=140	=140	=140	=140	=140
+0GGl	-buz.	0Gl	-buz.	0gl	-buz.
+==	==	==	==	==	==
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: N = signum congruentiae
+!!!ENC: Jesse Rodin 17 April 2018
+!!!END: 2018/04/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!!COM: Ockeghem, Johannes
+!!!CDT: ~1425-1497/02/06
+!!!OTL: Ung aultre l'a
+!!!AGN: Song; Chanson
+!!!SCT: Ock3022
+!!!SCA: Ock3022
+!!!voices: 3
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*	*Ivox	*
+*I"Contra	*	*I"Tenor	*	*I"Discantus	*
+*I'C	*	*I'T	*	*I'D	*
+*clefF4	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*M2/1	*	*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*	*met(C|)	*
+*>A	*>A	*>A	*>A	*>A	*>A
+!!LO:LB:g=z
+=141-	=141-	=141-	=141-	=141-	=141-
+!!LO:TX:Z=36:t=Form&colon; rondeau
+!!LO:TX:Z=8:t=Sig. congr. are editorial
+0C	Ung	0r	.	0g	Ung
+=142	=142	=142	=142	=142	=142
+1E	aul-	0r	.	1g	aul-
+1E	-tre	.	.	1g	-tre
+=143	=143	=143	=143	=143	=143
+1.F	l'a,	0r	.	1.a	l'a,
+4E	.	.	.	4g	.
+4D	.	.	.	4f	.
+=144	=144	=144	=144	=144	=144
+[0C	.	0c	Ung	0e	.
+=145	=145	=145	=145	=145	=145
+0C]	.	1c	aul-	1r	.
+.	.	1c	-tre	1e	n'en
+=146	=146	=146	=146	=146	=146
+0r	.	1.d	l'a,	1f	.
+.	.	.	.	1f	que-
+.	.	4c	.	.	.
+.	.	4B	.	.	.
+=147	=147	=147	=147	=147	=147
+1.c	n'en	0A	.	1.f	-r&eacute;s
+2A	.	.	.	2e	.
+=148	=148	=148	=148	=148	=148
+1B	.	1G	n'en	1e	.
+1c	.	1A	que-	1f	.
+=149	=149	=149	=149	=149	=149
+1r	.	1B	-r&eacute;s	1g	plus;
+1C	que-	[1c	.	1e	.
+=150	=150	=150	=150	=150	=150
+0G	-r&eacute;s	1c]	.	0d	.
+.	.	1B	.	.	.
+=151	=151	=151	=151	=151	=151
+[0C	plus;	0c	plus;	1r	.
+.	.	.	.	[1e	Car
+=152	=152	=152	=152	=152	=152
+0C]	.	1r	.	1e]	.
+.	.	[1c	Car	1e	do-
+=153	=153	=153	=153	=153	=153
+1r	.	1c]	.	1e	-re-
+1C	Car	1c	do-	1e	-na-
+=154	=154	=154	=154	=154	=154
+1.C	do-	1c	-re-	0e	-vant
+.	.	1c	-na-	.	.
+2D	-re-	.	.	.	.
+=155	=155	=155	=155	=155	=155
+1E	-na-	0c	-vant	1g	je
+[1F	-vant	.	.	[1a	con-
+=156	=156	=156	=156	=156	=156
+1F]	.	1A	je	1a]	.
+1E	je	1B	con-	1g	.
+=157	=157	=157	=157	=157	=157
+2C	con-	1.c	-clus	0a	-clus
+2.F	-clus	.	.	.	.
+4E	.	.	.	.	.
+4D	.	4B	.	.	.
+4C	.	4A	.	.	.
+=158	=158	=158	=158	=158	=158
+2.E	.	0G	.	1r	.
+4F	.	.	.	.	.
+2G	.	.	.	1b	De
+[2E	De	.	.	.	.
+=159	=159	=159	=159	=159	=159
+2E]	.	1r	.	1b	gar-
+4D	.	.	.	.	.
+4C	.	.	.	.	.
+2.BB	gar-	1G	De	1b	-der
+4C	.	.	.	.	.
+=160	=160	=160	=160	=160	=160
+2D	-der	1G	gar-	1b	en
+2GG	.	.	.	.	.
+2r	.	1G	-der	1b	tout
+2G	en	.	.	.	.
+=161	=161	=161	=161	=161	=161
+2E	tout	1A	en	0cc	temps
+1F	.	.	.	.	.
+.	.	1A	tout	.	.
+4E	.	.	.	.	.
+4F	.	.	.	.	.
+=162	=162	=162	=162	=162	=162
+1G	temps	0G	temps	1b	mon
+2.E	mon	.	.	[1g	.
+4C	.	.	.	.	.
+=163	=163	=163	=163	=163	=163
+2E	.	0c	mon	2g]	.
+2.F	.	.	.	2.a	.
+4E	.	.	.	4g	.
+2C	.	.	.	2e	.
+=164	=164	=164	=164	=164	=164
+2r	.	[0B	droit.	0d	droit.
+1G	droit.	.	.	.	.
+4F	.	.	.	.	.
+4E	.	.	.	.	.
+=165	=165	=165	=165	=165	=165
+4D	.	0B]	.	0r	.
+4C	.	.	.	.	.
+4BB	.	.	.	.	.
+4AA	.	.	.	.	.
+2GG	.	.	.	.	.
+[2G	Chas-	.	.	.	.
+=166	=166	=166	=166	=166	=166
+*>B	*>B	*>B	*>B	*>B	*>B
+4G]	.	0r	.	0dd	Chas-
+4F	.	.	.	.	.
+2D	.	.	.	.	.
+2F	-cun	.	.	.	.
+[2G	se	.	.	.	.
+=167	=167	=167	=167	=167	=167
+2G]	.	0r	.	1dd	-cun
+2A	.	.	.	.	.
+1B	gar-	.	.	1dd	se
+=168	=168	=168	=168	=168	=168
+1c	-de en	0c	Chas-	0ee	gar-
+1C	.	.	.	.	.
+=169	=169	=169	=169	=169	=169
+1r	.	1c	-cun	1ee	-de en
+1C	son	1c	se	[1ee	son
+=170	=170	=170	=170	=170	=170
+0G	.	0d	gar-	2ee]	.
+.	.	.	.	2dd	.
+.	.	.	.	[1dd	en-
+=171	=171	=171	=171	=171	=171
+1E	.	0e	-de en	2dd]	.
+.	.	.	.	2cc	.
+1C	.	.	.	[1cc	.
+=172	=172	=172	=172	=172	=172
+1r	.	0d	son	2cc]	.
+.	.	.	.	2b	.
+2.G	en-	.	.	2b	.
+.	.	.	.	2a	.
+4F	.	.	.	.	.
+=173	=173	=173	=173	=173	=173
+1A	.	1c	en-	1cc	-droit,
+2F	.	[1d	.	2a	en-
+[2G	.	.	.	[2b	.
+=174	=174	=174	=174	=174	=174
+2G]	.	2d]	.	2b]	.
+2A	.	2c	.	2a	.
+1F	.	1A	.	[1a	.
+=175	=175	=175	=175	=175	=175
+0E	-droit,	0B	.	2a]	.
+.	.	.	.	4g#i	.
+.	.	.	.	4f#i	.
+.	.	.	.	1g#i	.
+=176	=176	=176	=176	=176	=176
+2r	.	0A	-droit,	1a	-droit,
+1F	Car	.	.	.	.
+.	.	.	.	1r	.
+2D	.	.	.	.	.
+=177	=177	=177	=177	=177	=177
+1F	.	0r	.	1a	Car
+1G	.	.	.	1b	.
+=178	=178	=178	=178	=178	=178
+2.F	bien	1A	Car	1cc	.
+4G	.	.	.	.	.
+1A	.	1A	bien	1cc	bien
+=179	=179	=179	=179	=179	=179
+1G	peu	1B	peu	1dd	peu
+2r	.	1c	me	1cc	me
+2A	me	.	.	.	.
+=180	=180	=180	=180	=180	=180
+2G	chault	[0d	chault	2b	chault
+1F	.	.	.	1a	.
+2G	.	.	.	2b	.
+=181	=181	=181	=181	=181	=181
+2F	.	1d]	.	2a	.
+2.G	.	.	.	1b	.
+.	.	1B	.	.	.
+4F	.	.	.	.	.
+4E	.	.	.	2g	.
+4D	.	.	.	.	.
+=182	=182	=182	=182	=182	=182
+4C	.	1c	.	4a	.
+4D	.	.	.	4g	.
+4E	.	.	.	4f	.
+4F	.	.	.	4e	.
+2G	.	1B	.	[1d	.
+[2GG	.	.	.	.	.
+=183	=183	=183	=183	=183	=183
+2GG]	.	0G	du	2d]	.
+1G	du	.	.	2.e	du
+.	.	.	.	4d	.
+2E	sur-	.	.	[2g	sur-
+=184	=184	=184	=184	=184	=184
+2D	.	0A	sur-	2g]	.
+2C	.	.	.	4f#i	.
+.	.	.	.	4e	.
+1D	.	.	.	2.f#i	.
+.	.	.	.	4e	.
+=185	=185	=185	=185	=185	=185
+0GGl	-plus.	0Gl	-plus.	0gl	-plus.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!!RDF**kern: V=start of tuplet marker
+!!!RDF**kern: Z=end of tuplet marker
+!!!RDF**kern: N = signum congruentiae
+!!!ENC: Jesse Rodin 17 April 2018
+!!!END: 2018/04/17/
+!!!EED: Jesse Rodin
+!!!EEV: 2018/07/23/
+!!!ONB: Translated from MusicXML and edited on 2018/07/23/ by Craig Sapp
+!!muse2ps: C^@{COM}\nEd. @{EED}^i2I150v90,90,130z18l2650t120c85

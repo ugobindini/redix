@@ -1,0 +1,385 @@
+!!!COM: Nenna, Pomponio
+!!!CDT: 
+!!!PTL: Il sesto libro de madrigali a cinque voci
+!!!PPP: Naples
+!!!PPR: Sottile
+!!!PDT: 1607
+!!!PUB-format:
+!!!RISM: N 388
+!!!rime: 380
+!!!OTL:	Viviamo, amianci, o mia gradita Jelle
+!!!AGN: Madrigal
+!!!SCT: Trm0380b
+!!!SCA: Trm0380b
+!!!original-voices: 5
+!!!extant-voices: 5
+!!!complete: Y
+!!!final: G
+**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Tenore	*	*I"Alto	*	*I"Quinto	*	*I"Canto	*
+*I'B	*	*I'T	*	*I'A	*	*I'V	*	*I'C	*
+*oclefF4	*	*oclefC4	*	*oclefC3	*	*oclefC2	*	*oclefC1	*
+*clefF4	*	*clefGv2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4r	.	0r	.	2d	Vi-	4r	.	4r	.
+4G	Vi-	.	.	.	.	4g	Vi-	4b-	Vi-
+4E-X	-via-	.	.	4e-X	-via-	4g	-via-	4.b-	-via-
+4F	-mo, a-	.	.	4c	-mo, a-	4f	-mo, a-	.	.
+.	.	.	.	.	.	.	.	8a	-mo, a-
+2BB-	-mian-	.	.	2d	-mian-	2f	-mian-	2b-	-mian-
+2BB-	-ci,	.	.	2d	-ci,	2f	-ci,	2b-	-ci,
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4r	.	2d	Vi-	4r	.	4r	.	4r	.
+4B-	<Vi-	.	.	4f	<Vi-	4b-	<Vi-	4dd	<Vi-
+4E-X	-via-	4.c	-via-	4g	-via-	4.b-	-via-	4ee-X	-via-
+4F	-mo, a-	.	.	4f	-mo, a-	.	.	4cc	-mo, a-
+.	.	8c	-mo, a-	.	.	8a	-mo, a-	.	.
+2BB-	-mian-	2B-	-mian-	2f	-mian-	2b-	-mian-	2dd	-mian-
+2BB-	-ci,>	2B-	-ci,	2f	-ci,>	2b-	-ci,>	2dd	-ci,>
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	4r	.	4r	.	4r	.	4r	.
+.	.	2B-	o	2f	o	2b-	o	2dd	o
+.	.	8F	mia	8f	mia	8a	mia	8cc	mia
+.	.	8G	gra-	8d	gra-	8g	gra-	8b-	gra-
+.	.	4A	-di-	4.c	-di-	4f	-di-	4a	-di-
+.	.	4c	-ta	.	.	4e	-ta	4g	-ta
+.	.	.	.	8c	-ta	.	.	.	.
+.	.	2G	Iel-	2Bn	Iel-	2d	Iel-	2g	Iel-
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4r	.	2G	-le,	4Bn	-le,	4d	-le,	4g	-le,
+2C	o	.	.	2c	<o	2g	<o	2ee-X	<o
+.	.	4G	o	.	.	.	.	.	.
+8GG	mia	8d	mia	8B-Xi	mia	8b-	mia	8dd	mia
+8AA	gra-	8f	gra-	8c	gra-	8a	gra-	8cc	gra-
+4BB-	-di-	4.d	-di-	8d	-di-	4.g	-di-	4b-	-di-
+.	.	.	.	8e	-ta	.	.	.	.
+4D	-ta	.	.	2f	Iel-	.	.	4a	-ta
+.	.	8d	-ta	.	.	8f	-ta	.	.
+2C	Iel-	2G	Iel-	.	.	2g	Iel-	2cc	Iel-
+.	.	.	.	4e	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+1FF	-le;	1F	-le;	1f	-le;	1a	-le;>	2.cc	-le;>
+.	.	.	.	.	.	.	.	2a	He-
+4r	.	4r	.	4d	He-	4f#X	He-	.	.
+2D	He-	2A	He-	8d	-dra	8f#X	-dra	8a	-dra
+.	.	.	.	8d	sij	8f#	sij	8a	sij
+.	.	.	.	[2d	tu	[2f#X	tu	2a	tu
+8D	-dra	8A	-dra	.	.	.	.	.	.
+8D	sij	8A	sij	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+2D	tu	2A	tu	2d]	.	2f#]	.	4r	.
+.	.	.	.	.	.	.	.	4a	ch'il
+2r	.	2r	.	2r	.	4r	.	4b-	ca-
+.	.	.	.	.	.	4d	ch'il	4dd	-ro
+1r	.	2r	.	1r	.	4e	ca-	4g	tron-
+.	.	.	.	.	.	4g	-ro	4b-	-co ab-
+.	.	4r	.	.	.	8d	tron-	8aL	-brac-
+.	.	.	.	.	.	8e	-co ab-	8g	.
+.	.	4A	ch'il	.	.	[4f	-bra-	8a	.
+.	.	.	.	.	.	.	.	8fJ	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4r	.	4B-	ca-	2r	.	4f]	.	2g	.
+4C	ch'il	4c	-ro	.	.	4e	.	.	.
+4D	ca-	8FL	tron-	4r	.	2f	-cia,	2f	-cia,
+.	.	8G	.	.	.	.	.	.	.
+4F	-ro	8A	.	4c	ch'il	.	.	.	.
+.	.	8FJ	.	.	.	.	.	.	.
+4C	tron-	2G	.	4e	ca-	1r	.	2r	.
+4E	-co ab-	.	.	4g	-ro	.	.	.	.
+8FL	-brac-	4A	-co ab-	4c	tron-	.	.	4r	.
+8E	.	.	.	.	.	.	.	.	.
+8F	.	[4d	-brac-	4f	-co ab-	.	.	[4a	He-
+8DJ	.	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+2A	.	4d]	.	2e	-brac-	2r	.	4a]	.
+.	.	4c#X	.	.	.	.	.	8a	-dra
+.	.	.	.	.	.	.	.	8a	sij
+2.D	-cia,	2d	-cia,	4d	-cia,	4f#X	He-	1a	tu
+.	.	.	.	2d	He-	8f#X	-dra	.	.
+.	.	.	.	.	.	8f#	sij	.	.
+.	.	4r	.	.	.	2f#X	tu	.	.
+4D	ch'il	4A	ch'il	8d	-dra	.	.	.	.
+.	.	.	.	8d	sij	.	.	.	.
+4G	ca-	4B-	ca-	4d	tu	4r	.	4r	.
+4B-	-ro	4d	-ro	4d	ch'il	4fni	ch'il	4b-	ch'il
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4F	tron-	4c	tron-	4.f	ca-	4a	ca-	4cc	ca-
+4D	-co ab-	4F	-co ab-	.	.	4b-	-ro	4dd	-ro
+.	.	.	.	8d	-ro	.	.	.	.
+1F	-brac-	2f	-brac-	4c	tron-	4cc	tron-	8a	tron-
+.	.	.	.	.	.	.	.	8a	-co ab-
+.	.	.	.	4B-	-co ab-	4f	-co ab-	2b-	-brac-
+.	.	2c	-cia:	2c	-brac-	2f	-brac-	.	.
+.	.	.	.	.	.	.	.	4a	.
+2BB-	-cia:	4r	.	2B-	-cia:	2f	-cia:	2b-	-cia:
+.	.	[4d	Ba-	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+2r	.	8d]	.	1r	.	4.e-X	Ba-	1r	.
+.	.	8d	-cia-	.	.	.	.	.	.
+.	.	4c	-mi,	.	.	.	.	.	.
+.	.	.	.	.	.	8e-	-cia-	.	.
+4.G	Ba-	8r	.	.	.	4d	-mi,	.	.
+.	.	8c	e i	.	.	.	.	.	.
+.	.	8Bn	ba-	.	.	8r	.	.	.
+8G	-cia-	8Bn	-ci e	.	.	8d	e i	.	.
+4C	-mi,	8e-X	le	2r	.	8c	ba-	4r	.
+.	.	8e-	lu-	.	.	8c	-ci, e	.	.
+4r	.	8d	-sin-	.	.	4.f	le	4.a	Ba-
+.	.	8c	-ghe	.	.	.	.	.	.
+4.BB-	Ba-	4d	tac-	4.d	Ba-	.	.	.	.
+.	.	.	.	.	.	8f	lu-	8a	-cia-
+.	.	4G	-cia,	.	.	8eni	-sin-	4g	-mi,
+8BB-	-cia-	.	.	8d	-cia-	8d	-ghe	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4AA	-mi,	4r	.	4c#X	-mi,	4e	tac-	8r	.
+.	.	.	.	.	.	.	.	8a	e i
+8r	.	4.d	Ba-	8r	.	4d	-cia,	8f	ba-
+8D	e i	.	.	8f	e i	.	.	8f	-ci e
+8BB-	ba-	.	.	8d	ba-	4r	.	8b-	le
+8BB-	-ci e	8d	-cia-	8d	-ci e	.	.	8b-	lu-
+8E-X	le	4c	-mi	8g	le	4G	e	8a	-sin-
+8E-	lu-	.	.	8g	lu-	.	.	8g	-ghe
+4D	-sin-	8r	.	8f#X	-sin-	8d	le	1a	tac-
+.	.	8A	e	8f#X	-ghe	8d	lu-	.	.
+4C	-ghe	8c	le	2g	tac-	8e-X	-sin-	.	.
+.	.	8B-X	lu-	.	.	8e-	-ghe	.	.
+2D	tac-	8A	-sin-	.	.	2d	tac-	.	.
+.	.	8G	-ghe	.	.	.	.	.	.
+.	.	4A	tac-	4f#X	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+2GG	-cia,	2Bn	-cia	2g	-cia	2d	-cia	2g	-cia,
+2r	.	8r	.	8r	.	2r	.	2r	.
+.	.	8d	Chi	8fni	Chi	.	.	.	.
+.	.	8c	non	8e	non	.	.	.	.
+.	.	8B-Xi	ar-	8d	ar-	.	.	.	.
+1r	.	8A	-di-	8c	-di-	8r	.	1r	.
+.	.	8c	-sce an-	8e	-sce an-	8a	Chi	.	.
+.	.	8B-	-no-	8d	-no-	8g	non	.	.
+.	.	8A	-ve-	8c	-ve-	8f	ar-	.	.
+.	.	[2G	-rar	2Bn	-rar	8e	-di-	.	.
+.	.	.	.	.	.	8g	-sce an-	.	.
+.	.	.	.	.	.	8f	-no-	.	.
+.	.	.	.	.	.	8e	-ve-	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1r	.	4G]	.	4Bn	le	4.d	-rar	2r	.
+.	.	4B-	le	2d	stel-	.	.	.	.
+.	.	.	.	.	.	8d	le	.	.
+.	.	2A	stel-	.	.	2e	stel-	4.a	Ba-
+.	.	.	.	4c#X	.	.	.	.	.
+.	.	.	.	.	.	.	.	8a	-cia-
+2r	.	2D	-le,	2d	-le,	4d	-le,	4f#X	-mi,
+.	.	.	.	.	.	4.f	Ba-	4.a	<Ba-
+4.B-	Ba-	2r	.	4.d	Ba-	.	.	.	.
+.	.	.	.	.	.	8f	-cia-	8a	-cia-
+.	.	.	.	.	.	4d	-mi,	4g	-mi,>
+8B-	-cia-	.	.	8d	-cia-	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+4A	-mi,	1r	.	8c#X	-mi,	1r	.	8r	.
+.	.	.	.	8f	e i	.	.	8a	e i
+8r	.	.	.	8d	ba-	.	.	8fni	ba-
+8B-	e i	.	.	8d	-ci e	.	.	8f	-ci e
+8G	ba-	.	.	8g	le	.	.	8b-	le
+8G	-ci e	.	.	8f	lu-	.	.	8b-	lu-
+4.c	le	.	.	8e	-sin-	.	.	8a	-sin-
+.	.	.	.	8d	-ghe	.	.	8g	-ghe
+.	.	4r	.	4e	tac-	2r	.	2a	tac-
+8c	lu-	.	.	.	.	.	.	.	.
+8B-	-sin-	4.f	Ba-	2cni	-cia,	.	.	.	.
+8A	-ghe	.	.	.	.	.	.	.	.
+2c	tac-	.	.	.	.	4.g	Ba-	4g	-cia,
+.	.	8f	-cia-	.	.	.	.	.	.
+.	.	4e	-mi,	4c	e i	.	.	[4cc	Ba-
+.	.	.	.	.	.	8g	-cia-	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+4F	-cia,	2r	.	8A	ba-	2f	-mi,	8cc]	.
+.	.	.	.	8A	-ci e	.	.	8cc	-cia-
+4F	e i	.	.	8d	le	.	.	4a	-mi,
+.	.	.	.	8c	lu-	.	.	.	.
+8D	ba-	4r	.	8B-	-sin-	8r	.	8r	.
+8D	-ci e	.	.	8A	-ghe	8f	e i	8dd	e i
+4.G	le	4d	e i	4B-	tac-	8d	ba-	8b-	ba-
+.	.	.	.	.	.	8d	-ci, e	8b-	-ci e
+.	.	8B-	ba-	1G	-cia,	[2g	le	[2ee-X	le
+8G	lu-	8B-	-ci e	.	.	.	.	.	.
+8F	-sin-	8c	le	.	.	.	.	.	.
+8E-X	-ghe	8c	lu-	.	.	.	.	.	.
+[2G	tac-	8Bn	-sin-	.	.	8g]	.	8ee-]	.
+.	.	8Bn	-ghe	.	.	8g	lu-	8ee-	lu-
+.	.	[4c	tac-	.	.	8f	-sin-	8dd	-sin-
+.	.	.	.	.	.	8e-X	-ghe	8cc	-ghe
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2G]	.	4c]	.	2d	tac-	2g	tac-	2dd	tac-
+.	.	4Bn	.	.	.	.	.	.	.
+2C	-cia	8c	-cia	8e	-cia	2g	-cia	2cc	-cia
+.	.	8d	Chi	8f	Chi	.	.	.	.
+.	.	8c	non	8e	non	.	.	.	.
+.	.	8B-Xi	ar-	8d	ar-	.	.	.	.
+8r	.	4A	-di-	4c	-di-	8r	.	2r	.
+8F	Chi	.	.	.	.	8a	Chi	.	.
+8E-X	non	4A	-sce	4c	-sce	8g	non	.	.
+8D	ar-	.	.	.	.	8f	ar-	.	.
+8C	-di-	2r	.	2r	.	8e	-di-	8r	.
+8Eni	-sce an-	.	.	.	.	8g	-sce an-	8cc	Chi
+8D	-no-	.	.	.	.	8f	-no-	8b-	non
+8C	-ve-	.	.	.	.	8e	-ve-	8a	ar-
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+2.BB-	-rar	8r	.	8r	.	2d	-rar	8g	-di-
+.	.	8d	an-	8g	an-	.	.	8b-	-sce an-
+.	.	8c	-no-	8f	-no-	.	.	8a	-no-
+.	.	8B-	-ve-	8e	-ve-	.	.	8g	-ve-
+.	.	4B-	-rar	4d	-rar	4d	le	4f	-rar
+4AA	le	4F	le	4c	le	2f	stel-	4a	.
+2C	stel-	2G	stel-	2c	stel-	.	.	2g	le
+.	.	.	.	.	.	4e	.	.	.
+2FF	-le,	2F	-le,	2c	-le,	8f	-le,	8a	stel-
+.	.	.	.	.	.	8a	<an-	8cc	-le,
+.	.	.	.	.	.	8g	-no-	8b-	<an-
+.	.	.	.	.	.	8f	-ve-	8a	-no-
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+8r	.	2r	.	1r	.	8e	-rar	8g	-ve-
+8G	<Chi	.	.	.	.	8d	le	8b-	-rar
+8F	non	.	.	.	.	8dL	stel-	8a	le
+8E	ar-	.	.	.	.	8eJ	.	8g	stel-
+8D	-di-	8r	.	.	.	2f	-le,>	8a	-le,>
+8B-	-sce an-	8d	Chi	.	.	.	.	8f	an-
+8A	-no-	8c	non	.	.	.	.	8f	-no-
+8G	-ve-	8B-	ar-	.	.	.	.	8g	-ve-
+4F	-rar	8c	-di-	2r	.	8r	.	4a	-rar
+.	.	8f	-sce an-	.	.	8a	an-	.	.
+4G	le	8e	-no-	.	.	8g	-no-	4b-	le
+.	.	8d	-ve-	.	.	8f	-ve-	.	.
+[2A	stel-	8c#X	-rar	8r	.	4e	-rar	[2a	stel-
+.	.	8c#X	le	8a	Chi	.	.	.	.
+.	.	[4d	stel-	8g	non	4d	le	.	.
+.	.	.	.	8f	ar-	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+2A]	.	4d]	.	8e	-di-	4e	stel-	2a]	.
+.	.	.	.	8g	-sce an-	.	.	.	.
+.	.	4c#X	.	8f	-no-	4A	-le,	.	.
+.	.	.	.	8e	-ve-	.	.	.	.
+8D	-le,>	2d	-le,	4.f	-rar	8r	.	2a	-le,
+8D	Chi	.	.	.	.	8f	Chi	.	.
+8C	non	.	.	.	.	8e	non	.	.
+8BB-	ar-	.	.	8g	le	8d	ar-	.	.
+8AA	-di-	2r	.	2a	stel-	8c	-di-	8r	.
+8C	-sce an-	.	.	.	.	8e	-sce an-	8a	Chi
+8BB-	-no-	.	.	.	.	8d	-no-	8g	non
+8AA	-ve-	.	.	.	.	8c	-ve-	8f#X	ar-
+8GG	-rar,	8r	.	[2d	-le,	8Bn	-rar,	8g	-di-
+8G	an-	8B-	<Chi	.	.	8d	an-	8dd	-sce an-
+8F	-no-	8A	non	.	.	8f	-no-	8dd	-no-
+8E	-ve-	8G	ar-	.	.	8g	-ve-	8ee	-ve-
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+2D	-rar	8F	-di-	2d]	.	4a	-rar	2ff	-rar
+.	.	8A	-sce an-	.	.	.	.	.	.
+.	.	8A	-no-	.	.	4d	le	.	.
+.	.	8Bn	-ve-	.	.	.	.	.	.
+2C	le	4.c	-rar	2G	le	1g	stel-	2ee-X	le
+.	.	8B-Xi	le	.	.	.	.	.	.
+1D	stel-	1A	stel-	1d	stel-	.	.	1dd	stel-
+.	.	.	.	.	.	2f#X	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+0GGl	-le.	0Gl	-le.	0dl	-le.	0gl	-le.	0bnl	-le.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2017/11
+!!!EED: Deutsch, Catherine
+!!!EEV: 2018/03/04
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/03/04 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	380
+!!@CATALOGNUM:	Trm0380
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Viviamo, amianci, o mia gradita Jelle
+!!@GENRE:		sonetto
+!!@MANUSRC:	A<sub>3</sub>, Amz, Brn, C, F<sub>1</sub>, I<sub>4</sub>, I<sub>5</sub>, P<sub>4</sub>, Pt, R<sub>7</sub>, Ts<sub>1</sub>, V<sub>8</sub>, V<sub>13/TS1</sub>, VE<sub>1</sub>, Y
+!!@PRINTSRC:	8, 9, 11, 12, 13, 15, 20, 24, 29, 33, 67, 141, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	Invita lascivamente a gli amorosi abbracciamenti una donna che con finto nome [chiama] Ielle.
+!!@ABOUTEN:	He lasciviously invites to amorous embraces a lady by the ficticious name of Ielle.
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  415
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Viviamo, amianci, o mia gradita Jelle,
+!!	Edra sii tu, che 'l caro tronco abbraccia:
+!!	Baciamo, e i baci e le lusinghe taccia
+!!	Chi non ardisce annoverar le stelle.
+!!@VERSE:
+!!	Bacinsi insieme l'alme nostre anch'elle:
+!!	Fabro sia Amor, che le distempri e sfaccia,
+!!	E che di due confuse una rifaccia,
+!!	Che per un spirto sol spiri e favelle.
+!!@VERSE:
+!!	Cara Salmace mia, come s'innesta
+!!	L'una pianta ne l'altra e sovra l'orno
+!!	Vedeggia il pero e l'un per l'altro è vago,
+!!@VERSE:
+!!	Tal'io n'andrò de' tuoi colori adorno,
+!!	Tal il tuo cor de' miei pensier si vesta:
+!!	E comun sia fra noi la penna e l'ago.
+!!@TVERSE:
+!!	Let us live [and] love each other, O my pleasant Jelle,
+!!	May you be the ivy that embraces the dear trunk.
+!!	Let us kiss, and our kisses and our sighs silence
+!!	Whoever does not dare to count the stars.
+!!@TVERSE:
+!!	Let our souls themselves also kiss each other:
+!!	May love be the blacksmith who melts down and unmakes them,
+!!	And who blends the two [together], remaking [them]
+!!	As one single spirit that breathes and speaks.
+!!@TVERSE:
+!!	My dear Salmacis, as one plant
+!!	Is grafted to another and above the ash tree
+!!	The pear tree turns green and the one seems lovely to the other,
+!!@TVERSE:
+!!	So I will go about adorned with your colors;
+!!	So your heart is clothed in my thoughts,
+!!	And in common between us are the pen and the needle.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:
+!!@ATTRIBUTION_ABOUT:	Secure
+!!@DATING:
+!!@DEDICATEE:
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0380b
+!!@RIMETITLE:	Viviamo, amianci, o mia gradita Jelle
+!!@SOLERTI:	380
+!!@COMPOSER:	Nenna, Pomponio
+!!@PRINCEPSTITLE:	Il sesto libro de madrigali a cinque voci
+!!@PRINCEPSLOC:	Napoli
+!!@NORMLOC:	Naples
+!!@NORMPUB:	Sottile
+!!@NORMPUBSHORT:	Sottile
+!!@PRINCEPSPUB:	Sottile
+!!@PRINCEPSYEAR:	1607
+!!@PRINCEPSRISM:	N 388
+!!@REPRINTS:	N0389, N0340, N0341
+!!@OVOICES:	5
+!!@EXTANTVOICES:	5
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C1,C2,C3,C4,F4
+!!@OMENSURATION:	C
+!!@OKEYSIG:	b-
+!!@FINAL:	G
+!!@TIMPEDITOR:	Deutsch, Catherine
+!!@NOTE:		
+!!@@END:		SETTING

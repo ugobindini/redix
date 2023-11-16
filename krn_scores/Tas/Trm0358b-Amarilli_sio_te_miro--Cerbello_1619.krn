@@ -1,0 +1,218 @@
+!!!COM: Cerbello, Giovanni Battista
+!!!CDT:
+!!!PTL: Novelli amori. A tre voci. Libro primo
+!!!PPP: Naples
+!!!PPR: Vitale
+!!!PDT: 1619
+!!!PUB-format:
+!!!RISM: Unknown
+!!!rime: 358
+!!!OTL: Amarilli s'io te miro
+!!!AGN: Madrigal
+!!!SCT: Trm0358b
+!!!SCA: Trm0358b
+!!!original-voices: 3
+!!!extant-voices: 3
+!!!complete: Y
+!!!final: G
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto secondo	*	*I"Canto	*
+*I'B	*	*I'C secondo	*	*I'C	*
+*oclefF4	*	*oclefC1	*	*oclefC1	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+=1	=1	=1	=1	=1	=1
+2.G	A-	2.g	A-	2.b-y	A-
+4GG	-ma-	4g	-ma-	4b-y	-ma-
+=2	=2	=2	=2	=2	=2
+2D	-ril-	2f#X	-ril-	2a	-ril-
+2D	-li,	2f#i	-li,	2a	-li,
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
+=3	=3	=3	=3	=3	=3
+*M3/2	*	*M3/2	*	*M3/2	*
+*omet(C.3/2)	*	*omet(C.3/2)	*	*omet(C.3/2)	*
+2r	.	2r	.	2r	.
+2r	.	2r	.	2r	.
+4D	s'io	4a	s'io	4dd	s'io
+4C	ti	4cc	ti	4ee-X	ti
+=4	=4	=4	=4	=4	=4
+1F	mi-	1a	mi-	1cc	mi-
+2F	-ro,	2a	-ro,	2cc	-ro,
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
+=5	=5	=5	=5	=5	=5
+*M2/2	*	*M2/2	*	*M2/2	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+4F	Mi-	4a	Mi-	1r	.
+4D	-r'il	4f	-r'il	.	.
+8G	sol	8b-y	sol	.	.
+8G	de	8b-y	de	.	.
+8F	gl'oc-	8a	gl'oc-	.	.
+8E-X	-chi	8g	-chi	.	.
+=6	=6	=6	=6	=6	=6
+[1D	mie-	2f#X	mie-	4dd	Mi-
+.	.	.	.	4a	-r'il
+.	.	[2g	.	8dd	sol
+.	.	.	.	8dd	de
+.	.	.	.	8cc	gl'oc-
+.	.	.	.	8b-y	-chi
+=7	=7	=7	=7	=7	=7
+1D]	.	4g]	.	1a	mie-
+.	.	8f#XL	.	.	.
+.	.	8eJ	.	.	.
+.	.	2f#X	.	.	.
+=8	=8	=8	=8	=8	=8
+1GG	-i:	1g	-i:	1g	-i:
+=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:	=9:|!|:
+4G	Tan-	1r	.	4b-y	Tan-
+4G	-to	.	.	4b-y	-to
+8c	bel-	.	.	8ee-X	bel-
+8c	-la e	.	.	8ee-i	-la e
+8B-y	va-	.	.	8dd	va-
+8A	-ga	.	.	8cc	-ga
+=10	=10	=10	=10	=10	=10
+2G	se-	4g	Tan-	2b-y	se-
+.	.	4g	-to	.	.
+2G	-i,	8dd	bel-	2b-y	-i,
+.	.	8dd	-la e	.	.
+.	.	8cc	va-	.	.
+.	.	8b-y	-ga	.	.
+=11	=11	=11	=11	=11	=11
+4F	Tan-	4a	se-	4cc	Tan-
+4F	-to	4a	-i,	4cc	-to
+8B-y	bel-	4f	Tan-	8dd	bel-
+8B-y	-la e	.	.	8dd	-la e
+8A	va-	4g	-to	8cc	va-
+8G	-ga	.	.	8b-y	-ga
+=12	=12	=12	=12	=12	=12
+1F	se-	8a	bel-	1cc	se-
+.	.	8a	-la e	.	.
+.	.	8g	va-	.	.
+.	.	8f	-ga	.	.
+.	.	2a	se-	.	.
+=13	=13	=13	=13	=13	=13
+1BB-y	-i	1b-y	-i	1b-y	-i
+=14	=14	=14	=14	=14	=14
+4r	.	4r	.	4r	.
+4B-y	Che	4dd	Che	4f	Che
+4B-y	per	4dd	per	4f	per
+8F	al-	8cc	al-	8a	al-
+8F	-tra	8cc	-tra	8a	-tra
+=15	=15	=15	=15	=15	=15
+2.G	non	2.b-y	non	4dd	non
+.	.	.	.	4dd	so–,
+.	.	.	.	4r	.
+4E-X	so-	4b-y	so-	8dd	so-
+.	.	.	.	[8cc	-spi-
+=16	=16	=16	=16	=16	=16
+4D	-spi–,	8f#X	-spi–,	8cc]	.
+.	.	8r	.	8dd	-ro,
+4r	.	2g	so-	4r	.
+16C#XL	so-	.	.	4a	so-
+16D	.	.	.	.	.
+16E-X	.	.	.	.	.
+16C#iJ	.	.	.	.	.
+4D	-spi-	4f#X	-spi-	4a	-spi-
+=17	=17	=17	=17	=17	=17
+1GGl	-ro.	1gl	-ro.	1gl	-ro.
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/02/06
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/02/06 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	358
+!!@CATALOGNUM:	Trm0358
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Amarilli, s'io te miro
+!!@GENRE:		canzonetta
+!!@MANUSRC:	Flc<sub>2</sub>
+!!@PRINTSRC:	none
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  394
+!!@TRANSLATOR:	Maria Pastore Passaro; adapted by Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Amarilli, s'io te miro,
+!!	Miro il sol de gli occhi miei:
+!!	Tanto bella e vaga sei
+!!	Ch'io per altra non sospiro.
+!!@VERSE:
+!!	Se tu ridi, il dolce riso
+!!	M'apre il ciel di primavera;
+!!	O sei cruda o lusinghiera,
+!!	Sempre ho innanzi il tuo bel viso.
+!!@VERSE:
+!!	Se tu parli ed io ti sento,
+!!	Sento un'aura in mezzo aprile
+!!	Sì soave, sì gentile,
+!!	Che fa dolce il mio tormento.
+!!@TVERSE:
+!!	Amaryllis, if I look upon you
+!!	I look upon the sun of my eyes:
+!!	So beautiful and lovely you are
+!!	That I, for another woman, do not sigh.
+!!@TVERSE:
+!!	If you smile, your sweet smile
+!!	Opens for me the sky of spring:
+!!	Whether you are pitiless or flattering,
+!!	Always I have before me your beautiful face.
+!!@TVERSE:
+!!	If you speak and I hear you,
+!!	I feel the breeze of mid-April,
+!!	So pleasing, so delicate,
+!!	That it makes sweet my torment.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   None
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		This poem appears in the partly autograph manuscript Tassiana N.6.5, Civica Biblioteca Angelo Mai, Bergamo. According to [Massimo Castellozzi] {footnote: Massimo Castellozzi, "Aspetti della tradizione delle <i>Rime disperse</i> di Torquato Tasso," <i>L'ellisse. Studi storici di letteratura italian</i> VIII, vol. 2 (2013): 78}, the folios 164r-172v, which include <i>Rime</i> 353, 354, 356, 358, 359, 361, and NSM1, are in Tasso's hand.
+!!@DATING:	Early 1590s
+!!		<br>
+!!		Before being incorporated into the manscript Tassiana N.6.5, Civica Biblioteca Angelo Mai, Bergamo, this poem used to belong to the Torella codex (MA 462, Pierpont Morgan Library, New York City, NY), a manuscript assembled in Naples and containing for the most part poems and letters that Tasso wrote during his stay in the city in the early 1590s.
+!!@DEDICATEE:
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0358b
+!!@RIMETITLE:	Amarilli s'io te miro
+!!@SETTINGTITLE: Amarilli s'io ti miro
+!!@SOLERTI:	358
+!!@COMPOSER:	Cerbello, Giovanni Battista
+!!@PRINCEPSTITLE:	Novelli amori. A tre voci. Libro primo
+!!@PRINCEPSLOC:	Napoli
+!!@NORMLOC:	Naples
+!!@NORMPUB:	Vitale
+!!@NORMPUBSHORT:	Vitale
+!!@PRINCEPSPUB:	Vitale
+!!@PRINCEPSYEAR:	1619
+!!@PRINCEPSRISM:	Unknown
+!!@REPRINTS:	
+!!@OVOICES:	3
+!!@EXTANTVOICES:	3
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C1,C1,F4
+!!@OMENSURATION:	C; C-dot 3/2; C
+!!@OKEYSIG:	b-
+!!@FINAL:	G
+!!@TIMPEDITOR:	Schleuse, Paul
+!!@NOTE:		
+!!@@END:		SETTING
