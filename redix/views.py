@@ -23,8 +23,6 @@ key_to_stat = {}
 
 
 def figured_bass(request):
-    print(request.GET) # debug
-
     # get all pieces from database
     all_pieces = Piece.objects.all()
     all_composers = list(set(all_pieces.values_list('composer', flat=True)))

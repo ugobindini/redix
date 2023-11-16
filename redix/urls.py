@@ -1,9 +1,9 @@
 from django.urls import path
+from os.path import isfile
 
 from . import views
 
 from file_manager import *
-
 
 urlpatterns = [
     path('', views.index, name='index'),
@@ -12,21 +12,18 @@ urlpatterns = [
     path('get_item_list/<str:stat_id>', views.get_item_list, name='get_item_list'),
 ]
 
-def delete_points():
-    for point in Point.objects.filter(piece__path__contains="Xxx"):
-        point.delete()
+# NOTE: it is highly unelegant to put this code here (for populating the database on first launch and loading the composers)
+# but in apps.py it was not working
+
+def load_database():
+	print("The database was empty: populating ...", end=" ")
+	load_pieces()
+	load_points()
+	print("done.")
+	print(f"Database populated with {len(Piece.objects.all())} pieces, {len(Piece.objects.all())} points")
 
 
-def delete_pieces():
-    for piece in Piece.objects.filter(path__contains="Xxx"):
-        piece.delete()
-
-
-# delete_points()
-# delete_pieces()
-# load_pieces()
-# load_points()
-
+# if not Point.objects.all():
+# 	# The database is empty
+# 	load_database()
 load_composers()
-# for composer in COMPOSERS:
-#     print(repr(composer.name))

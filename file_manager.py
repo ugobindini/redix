@@ -100,7 +100,7 @@ def points_from_path(path):
 def load_pieces():
 	n = 0
 	for directory in os.listdir(KRN_DIR):
-		if not directory.startswith('.') and not directory.startswith("Tas"):
+		if not directory.startswith('.'):
 			for filename in os.listdir(f"{KRN_DIR}/{directory}"):
 				if not filename.startswith('.'):
 					path = f"{directory}/{filename}"

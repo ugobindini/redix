@@ -7,8 +7,6 @@ import django
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
 django.setup()
 
-from constants import *
-
 
 def main():
 	"""Run administrative tasks."""

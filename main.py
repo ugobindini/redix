@@ -1,4 +1,4 @@
-# automatic basso continuo ciphering of music, based on humdrumm tools and krn files
+# file left for experiment, not used in the website implementation
 
 import os
 import argparse
