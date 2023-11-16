@@ -5,9 +5,17 @@ ReDiX - Renaissance Digital eXplorer. A website for sound analysis in polyphonic
 `python3` with its module `Django` (version 4+).
 
 # Install
-`git clone 
-`python3 manage.py migrate --run-syncdb`
+
+Download the project with
+
+`git clone https://github.com/ugobindini/redix`
+
+Move to the newly created folder 'redix'
+
+`cd redix`
+
+Launch the server with
+
 `python3 manage.py runserver`
 
-The last command will take some time (up to 30 min.) the first time you execute it. To launch the server again next time, type just the last command.
-
+Go to the webpage http://127.0.0.1:8000/fb.

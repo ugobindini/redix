@@ -12,7 +12,7 @@ urlpatterns = [
     path('get_item_list/<str:stat_id>', views.get_item_list, name='get_item_list'),
 ]
 
-# NOTE: it is highly unelegant to put this code here (for populating the database on first launch and loading the composers)
+# NOTE: it is highly unelegant to put this code here (for populating the database on first launch if it is empty),
 # but in apps.py it was not working
 
 def load_database():
