@@ -1,7 +1,7 @@
 # redix
 ReDiX - Renaissance Digital eXplorer. A website for sound analysis in polyphonic music of the Renaissance.
 
-The database is the union of the scores available thanks to the [Josquin Research Project](https://josquin.stanford.edu)
+The database contains the scores published by [Josquin Research Project](https://josquin.stanford.edu), [The 1520s Project](https://josquin.stanford.edu), [Palestrina's masses](https://github.com/cuthbertLab/music21/tree/master/music21/corpus/palestrina), up to date 17/10/2023.
 
 # Requisites
 `python3` with its module `Django` (version 4); `humdrum-tools' available on github at https://github.com/humdrum-tools/humdrum-tools.
