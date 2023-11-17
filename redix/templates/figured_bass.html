@@ -84,14 +84,12 @@
 <body>
     <h3>ReDiX - Renaissance Digital eXplorer</h3>
     <form action="#" method="get" style="position: relative;">
-        <button id="dropdown-btn" class="light-btn dropdown-select-btn" href="" onclick="change_display('dropdown-list')">
-            Select Composers</button></br>
+        <button id="dropdown-btn" class="light-btn dropdown-select-btn" href="" onclick="change_display('dropdown-list')">Select Composers</button></br>
         <div id="dropdown-list" class="dropdown-check-list" style="display: none; position: absolute;">
-                {% for composer in all_composers %}
-                <input type="checkbox" id="{{composer.name}}" name="{{composer.name}}" value="1"/>
-                <label for="{{composer.name}}">{{composer}}</label><br/>
-                {% endfor %}
-              </ul>
+            {% for composer in all_composers %}
+            <input type="checkbox" id="{{composer.html_name}}" name="{{composer.html_name}}"/>
+            <label for="{{composer.html_name}}">{{composer}}</label><br/>
+            {% endfor %}
         </div>
         <label for="fb_piece_name">Analyze only pieces whose name contains</label>
         <input type="text" class="text-input" placeholder="e.g. homme" name="fb_piece_name" id="fb_piece_name" size="40"/>
@@ -116,7 +114,7 @@
         <!--<input type="text" class="text-input" placeholder="e.g. 0 2" name="fb_quarters" id="fb_quarters" size="10"/>-->
 
         <span style="display: inline;">
-            <input type="submit" class="search-btn" value="Search points" name="search_points_btn"/>
+            <input type="submit" class="search-btn" value="Search points" name="search_points_btn" id="search_points_btn"/>
         </span>
     </form>
 
@@ -144,5 +142,16 @@
     {% endfor %}
     {% endif %}
 
+    <script>
+        {% for item in request_data %}
+        element = document.getElementById("{{ item.0 }}")
+        if (element.type && element.type.toLowerCase() === 'checkbox') {
+            element.checked = true
+        }
+        else {
+            element.value = "{{ item.1 }}";
+        }
+        {% endfor %}
+    </script>
 </body>
 </html>

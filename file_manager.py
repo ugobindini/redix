@@ -13,6 +13,14 @@ def string_to_number(s):
 	except:
 		return float(s)
 
+def string_to_html_string(s):
+	# given a string (composer name), it returns a string consisting only of the letters. * is replaced by x
+	res = ''.join(filter(str.isalpha, s))
+	if s.endswith('*'):
+		return res + 'x'
+	else:
+		return res
+
 
 def load_cint_lines(filename):
 	# given a filename which ends with ".krn", returns the list of lists of strings in cint format
@@ -122,6 +130,7 @@ def load_points():
 
 
 def load_composers():
+	# starting from the pieces in the database, list the composers
 	name_to_n = {}
 	for piece in Piece.objects.all():
 		composer = piece.composer
@@ -134,6 +143,11 @@ def load_composers():
 			dates = COMPOSER_DATES[composer]
 		else:
 			dates = ""
-		COMPOSERS.append(Composer(name=composer, dates=dates, n_pieces=name_to_n[composer]))
+		COMPOSERS.append(Composer(name=composer, html_name=string_to_html_string(composer), dates=dates, n_pieces=name_to_n[composer]))
 
+	# create bakwards table to convert html names (used for id of html elements) to actual composer names
+	for composer in COMPOSERS:
+		HTML_NAME_TO_COMPOSER[composer.html_name] = composer.name
+
+	# sort alphabetically
 	COMPOSERS.sort(key=lambda x: x.name)

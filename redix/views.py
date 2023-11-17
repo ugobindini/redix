@@ -5,7 +5,7 @@ from django.db.models import Q
 from django.db.models.functions import Mod
 
 from .models import Piece, Point, Stat
-from composers import COMPOSERS
+from composers import COMPOSERS, HTML_NAME_TO_COMPOSER
 
 
 def index(request):
@@ -23,6 +23,8 @@ key_to_stat = {}
 
 
 def figured_bass(request):
+    print(request.GET)
+
     # get all pieces from database
     all_pieces = Piece.objects.all()
     all_composers = list(set(all_pieces.values_list('composer', flat=True)))
@@ -39,13 +41,13 @@ def figured_bass(request):
     id_to_stat = {}
     key_to_stat = {}
 
-    if request.GET.get('search_points_btn') or request.GET.get('search_segments_btn'):
-        # Collect request data from form
-        filter_composers = [key for key in list(request.GET.keys()) if key in all_composers]
+    if request.GET.get('search_points_btn'):
+        # Collect request data from request.GET
+        filter_composers = [HTML_NAME_TO_COMPOSER[key] for key in request.GET.keys() if key in HTML_NAME_TO_COMPOSER.keys()]
         print(filter_composers)
         piece_name = request.GET.get('fb_piece_name')
-        contains = request.GET.get('fb_contains').split()
-        does_not_contain = request.GET.get('fb_does_not_contain').split()
+        contains = [int(x) for x in request.GET.get('fb_contains').split()]
+        does_not_contain = [int(x) for x in request.GET.get('fb_does_not_contain').split()]
         no_reduce = [int(x) for x in request.GET.get('fb_no_reduce').split()]
         quarters = [i for i in range(4) if request.GET.get(f"quarter{i}") is not None]
         lowest_note = [int(x) for x in request.GET.get('lowest_note').split()]
@@ -76,10 +78,15 @@ def figured_bass(request):
         print(f"Total points {total_items}")
 
         for x in contains:
-            points = points.filter(Q(reduced_chord__contains=f",{x},") | Q(full_chord__contains=f",{x},"))
+            query = Q(full_chord__contains=f",{x},")
+            if x <= 7 and x % 7 not in [y % 7 for y in no_reduce]:
+                # if th ecipher is within the octave and there is no match with ciphers in no_reduce,
+                # also points containing the reduced version of the number are ok
+                query = query | Q(reduced_chord__contains=f",{x},")
+            points = points.filter(query)
         for x in does_not_contain:
             points = points.exclude(full_chord__contains=f",{x},")
-            if x not in [y % 7 for y in no_reduce]:
+            if x <= 7 and x % 7 not in [y % 7 for y in no_reduce]:
                 # none of the intervals which are asked not to be reduced matches the "does not contain"
                 points = points.exclude(reduced_chord__contains=f",{x},")
 
@@ -124,13 +131,9 @@ def figured_bass(request):
             f_selected_composers += f"{composer}; "
         f_selected_composers = f_selected_composers[:-2] + "."
 
-        if len(quarters):
-            beats = quarters
-        else:
-            beats = [x for x in range(4)]
-
         return render(request, 'figured_bass.html',
-                  {'stats': stats,
+                  {'request_data': [(key, request.GET[key]) for key in request.GET.keys()],
+                    'stats': stats,
                    'selected_items': selected_items,
                    'total_items': total_items,
                    'item_ratio': item_ratio,
@@ -142,11 +145,12 @@ def figured_bass(request):
                    'n_dissonant': chord_type_count["dissonant"],
                    'n_dissonant_ratio': round(chord_type_count["dissonant"] * 100 / selected_items, 2) if selected_items else 0,
                    'all_composers': COMPOSERS,
-                   'beats': beats})
+                   'beats': quarters if len(quarters) else [x for x in range(4)]})
 
     else:
         return render(request, 'figured_bass.html',
-                  {'all_composers': COMPOSERS})
+                  {'request_data': [],
+                   'all_composers': COMPOSERS})
 
 
 def get_humdrum_snippet(request, item_id):

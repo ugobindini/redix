@@ -3,6 +3,7 @@ from dataclasses import dataclass
 @dataclass
 class Composer:
 	name: str
+	html_name: str # name formatted without commas and spaces, used for ids in the html page
 	dates: str
 	n_pieces: int
 
@@ -15,6 +16,7 @@ class Composer:
 
 
 COMPOSERS = []
+HTML_NAME_TO_COMPOSER = {}
 
 COMPOSER_DATES = {
 	"Agostini, Lodovico": "1534-1590",
