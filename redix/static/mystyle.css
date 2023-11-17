@@ -38,8 +38,8 @@
 }
 
 .search-btn {
-  width: 100%;
-  display: inline-block;
+  width: 48%;
+  display: inline;
   background-color: #a42236;
   color: white;
   padding: 14px 20px;
