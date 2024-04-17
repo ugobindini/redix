@@ -1,0 +1,341 @@
+!!!CDT:
+!!!PTL: Il secondo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Vincenzi & Amadino
+!!!PDT: 1584
+!!!PUB-format:
+!!!RISM: M 1502
+!!!rime: 155
+!!!AGN: Madrigal
+!!!SCT: Trm0155a
+!!!SCA: Trm0155a
+!!!original-voices: 5
+!!!extant-voices: 4
+!!!complete: N
+!!!final: G
+!!!COM: Mazza, Francesco
+!!!OTL: Se l'imagine vostra
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Quinto	*	*I"Tenore	*	*I"Canto	*
+*I'B	*	*I'V	*	*I'T	*	*I'C	*
+*oclefF4	*	*oclefC4	*	*oclefC4	*	*oclefC1	*
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*	*	*	*	*	*	*	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1	=1	=1
+0r	.	2r	.	0r	.	1r	.
+.	.	4G	Se	.	.	.	.
+.	.	4G	l'i-	.	.	.	.
+.	.	4c	-ma-	.	.	4g	Se
+.	.	8c	-gi-	.	.	4g	l'i-
+.	.	8B	-ne	.	.	.	.
+.	.	2A	vo-	.	.	4cc	-ma-
+.	.	.	.	.	.	8cc	-gi-
+.	.	.	.	.	.	8b	-ne
+=2	=2	=2	=2	=2	=2	=2	=2
+0r	.	4A	-stra	0r	.	4a	vo-
+.	.	4A	In	.	.	8a	-stra
+.	.	.	.	.	.	8e	In
+.	.	4.A	me	.	.	4e	me
+.	.	.	.	.	.	4f	di-
+.	.	8A	di-	.	.	.	.
+.	.	4G	-pin-	.	.	4g	-pin-
+.	.	4c	-ge A-	.	.	4g	-ge A-
+.	.	2A	-mo-	.	.	2f	-mo-
+=3	=3	=3	=3	=3	=3	=3	=3
+0r	.	2A	-re,	4r	.	2e	-re,
+.	.	.	.	4A	Per-	.	.
+.	.	4r	.	2A	-ché,	4r	.
+.	.	4A	Per-	.	.	4a	Per-
+.	.	2c	-ché,	4r	.	2g	-ché,
+.	.	.	.	4c	Per-	.	.
+.	.	4r	.	4c	-ché,	4r	.
+.	.	4e	Per-	4C	Per-	4cc	Per-
+=4	=4	=4	=4	=4	=4	=4	=4
+0r	.	4d	-ché	4G	-ché	4b	-ché
+.	.	4d	l'o-	4D	l'o-	4a	l'o-
+.	.	4B	-pra	4E	-pra	4g	-pra
+.	.	4B	chie-	4G	chie-	4g	chie-
+.	.	4c	-d'io	4F	-d'io	4a	-d'io
+.	.	2c	d'al-	2F	d'al-	2a	d'al-
+.	.	4c	-tro	4F	-tro	4a	-tro
+=5	=5	=5	=5	=5	=5	=5	=5
+1r	.	2B	pit-	2G	pit-	4g	pit-
+.	.	.	.	.	.	2g	-to-
+.	.	2A	-to-	2D	-to-	.	.
+.	.	.	.	.	.	4f#X	.
+2r	.	2B	-re?	1G	-re?	1g	-re?
+2G	Ben	4r	.	.	.	.	.
+.	.	4B	Ben	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6
+2A	puo-	2c	puo-	2r	.	2r	.
+2G	-t'il	2B	-t'il	4r	.	2g	Ben
+.	.	.	.	4B	Ben	.	.
+2F	mio	2A	mio	2c	puo-	2a	puo-
+2G	pen-	2d	pen-	2B	-t'il	2g	-t'il
+=7	=7	=7	=7	=7	=7	=7	=7
+2D	-sie-	2d	-sie-	2.A	mio	2.f#X	mio
+2D	-ro	1D	-ro	.	.	.	.
+.	.	.	.	4B-X	pen-	4g	pen-
+2r	.	.	.	2A	-sie-	2a	-sie-
+4r	.	2A	Mi-	2D	-ro	4f#X	-ro
+4D	Mi-	.	.	.	.	4f#i	Mi-
+=8	=8	=8	=8	=8	=8	=8	=8
+4G	-rar	4B	-rar	1r	.	4g	-rar
+4E	la	4c	la	.	.	4cc	la
+4F	for-	4c	for-	.	.	4a	for-
+4G	-ma in-	4B	-ma in-	.	.	4g	-ma in-
+4C	-ter-	4c	-ter-	2r	.	4g	-ter-
+4C	-na,	4c	-na,	.	.	4g	-na,
+4F	Ma	4A	Ma	4c	Ma	4a	Ma
+8F	non	8A	non	8c	non	8a	non
+8F	fa-	8A	fa-	8c	fa-	8a	fa-
+=9	=9	=9	=9	=9	=9	=9	=9
+4F	-rà	4A	-rà	4c	-rà	4a	-rà
+4C	che	4G	che	4c	che	4cc	che
+4G	l'oc-	4G	l'oc-	2.d	l'oc-	4b	l'oc-
+4GG	-chio un-	4G	-chio un-	.	.	4b	-chio un-
+2D	-qua	8DL	-qua	.	.	2a	-qua
+.	.	8E	.	.	.	.	.
+.	.	8Fy	.	4A	-chio un-	.	.
+.	.	8GJ	.	.	.	.	.
+2D	la	8AL	.	4.F	-qua	2a	la
+.	.	8G	.	.	.	.	.
+.	.	8A	.	.	.	.	.
+.	.	8BJ	.	8G	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10
+1AA	scer-	4c#X	la	4A	.	1a	scer-
+.	.	2d	scer-	4F	la	.	.
+.	.	.	.	2E	scer-	.	.
+.	.	4c#X	.	.	.	.	.
+1D	-na.	1d	-na.	2D	-na.	1f#X	-na.
+.	.	.	.	2d	Dun-	.	.
+=11	=11	=11	=11	=11	=11	=11	=11
+2G	Dun-	0r	.	4B	-que,	2r	.
+.	.	.	.	4d	pri-	.	.
+4E	-que,	.	.	4c	-vo	2g	Dun-
+4G	pri-	.	.	4B	del	.	.
+4A	-vo	.	.	4c	ve-	4e	-que,
+4G	del	.	.	4B	-ro,	4g	pri-
+8FL	ve-	.	.	4r	.	4a	-vo
+8GJ	.	.	.	.	.	.	.
+4A	.	.	.	4c	<Dun-	4cc	del
+=12	=12	=12	=12	=12	=12	=12	=12
+2G	-ro,	4r	.	4d	-que,	2b	ve-
+.	.	4d	Dun-	4.G	pri-	.	.
+2r	.	4B	-que,	.	.	2g	-ro,
+.	.	.	.	8G	-vo	.	.
+.	.	4d	pri-	4G	del	.	.
+1r	.	4c	-vo	4A	ve-	2r	.
+.	.	4B	del	4G	-ro,>	.	.
+.	.	2c	ve-	2r	.	4.g	L'hab-
+.	.	.	.	.	.	8a	.
+=13	=13	=13	=13	=13	=13	=13	=13
+4r	.	2G	-ro,	2r	.	8bL	.
+.	.	.	.	.	.	8ccJ	.
+2G	L'hab-	.	.	.	.	4dd	.
+.	.	4d	L'hab-	4G	L'hab-	4b	-bi al-
+4C	-bi al-	4c	-bi al-	4G	-bi al-	2cc	-men
+4F	-men	4c	-men	2A	-men	.	.
+2A	fin-	2c	fin-	.	.	2a	fin-
+.	.	.	.	4A	fin-	.	.
+4AA	-ta il	4e	-ta il	4A	-ta il	4a	-ta il
+=14	=14	=14	=14	=14	=14	=14	=14
+2E	sen-	2e	sen-	2B	sen-	2g#X	sen-
+2AA	-so,	2e	-so	4c	-so	4a	-so
+.	.	.	.	4A	Per-	4a	Per-
+1r	.	4r	.	4A	-ch'io	4e	-ch'io
+.	.	4c	Per-	4A	ri-	4f	ri-
+.	.	4c	-ch'io	4G	-mi-	4gnXi	-mi-
+.	.	4B	ri-	4G	-r'in	4g	-r'in
+=15	=15	=15	=15	=15	=15	=15	=15
+0r	.	4c	-mi-	8CL	voi	4g	voi
+.	.	.	.	8D	.	.	.
+.	.	4c	-r'in	8E	.	4.g	men-
+.	.	.	.	8FJ	.	.	.
+.	.	4B	voi	4G	.	.	.
+.	.	.	.	.	.	8g	-tre
+.	.	4c	men-	4C	men-	4g	vi
+.	.	4A	-tre	4D	-tre	8fL	pen-
+.	.	.	.	.	.	8gJ	.
+.	.	4d	vi	4D	vi	4.a	.
+.	.	2c#X	pen-	2A	pen-	.	.
+.	.	.	.	.	.	8g	.
+.	.	.	.	.	.	4e	.
+=16	=16	=16	=16	=16	=16	=16	=16
+4r	.	4d	-so,	1D	-so,	4f#X	-so,
+2D	Dun-	2A	Dun-	.	.	2f#i	Dun-
+4D	-que,	4A	-que,	.	.	4f#i	-que,
+2G	pri-	2B	pri-	1r	.	2g	pri-
+4F#X	-vo	4A	-vo	.	.	4a	-vo
+4G	del	4G	del	.	.	4b	del
+=17	=17	=17	=17	=17	=17	=17	=17
+2C	ve-	2c	ve-	0r	.	4cc	ve-
+.	.	.	.	.	.	4g	-ro,
+4C	-ro,	4c	-ro,	.	.	4r	.
+2c	L'hab-	2e	L'hab-	.	.	2cc	L'hab-
+4G	-bi al-	4d	-bi al-	.	.	4b	-bi al-
+2A	-men	4c	-men	.	.	4a	-men
+.	.	[4A	fin-	.	.	[4cc	fin-
+=18	=18	=18	=18	=18	=18	=18	=18
+2E	fin-	4A]	.	1r	.	4cc]	.
+.	.	4G#X	-ta il	.	.	4b	-ta il
+2F	-ta il	2A	sen-	.	.	4.a	sen-
+.	.	.	.	.	.	8g	.
+2D	sen-	2A	-so	4r	.	2f	.
+.	.	.	.	4A	Per-	.	.
+2E	-so	2r	.	4A	-ch'io	2e	.
+.	.	.	.	4G#X	ri-	.	.
+=19	=19	=19	=19	=19	=19	=19	=19
+4r	.	4r	.	8AL	-mi-	1e	-so
+.	.	.	.	8B	.	.	.
+4A	Per-	4A	Per-	8c	.	.	.
+.	.	.	.	8dJ	.	.	.
+4A	-ch'io	4c	-ch'io	4e	.	.	.
+4A	ri-	4c	ri-	4c	-r'in	.	.
+4.G	-mi-	4.B	-mi-	2d	voi	1r	.
+8F	-r'in	8A	-r'in	.	.	.	.
+2E	voi	2GX	voi,	2e	men-	.	.
+=20	=20	=20	=20	=20	=20	=20	=20
+2A	men-	1r	.	2c#X	-tre	4r	.
+.	.	.	.	.	.	4a	Per-
+2F#X	-tre	.	.	2.d	vi	4a	-ch'io
+.	.	.	.	.	.	4a	ri-
+2G	vi	2r	.	.	.	4.g	-mi-
+.	.	.	.	2e	pen-	.	.
+.	.	.	.	.	.	8f	-r'in
+2A	pen-	4r	.	.	.	4e	voi
+.	.	4A	Per-	4A	-so,	4a	men-
+=21	=21	=21	=21	=21	=21	=21	=21
+2D	-so,	4A	-ch'io	4r	.	2f#X	-tre
+.	.	4A	ri-	4d	Per-	.	.
+2r	.	2G	-mi-	4B	-ch'io	2g	vi
+.	.	.	.	4B	ri-	.	.
+2r	.	2F#X	-r'in	4A	-mi-	2a	pen-
+.	.	.	.	4A	-r'in	.	.
+4r	.	8GL	voi,	2G	voi,	2d	-so,
+.	.	8A	.	.	.	.	.
+4G	Per-	8B	.	.	.	.	.
+.	.	8cJ	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22
+4G	-ch'io	4d	.	4r	.	1r	.
+4G	ri-	4B	<Per-	4G	<Per-	.	.
+4.E	-mi-	4B	-ch'io	4G	-ch'io	.	.
+.	.	4B	ri-	4G	ri-	.	.
+8D	-r'in	.	.	.	.	.	.
+1C	voi	4.c	-mi-	2.G	-mi-	4r	.
+.	.	.	.	.	.	4cc	Per-
+.	.	8d	-r'in	.	.	.	.
+.	.	4e	voi>	.	.	4cc	-ch'io
+.	.	4e	men-	4G	-r'in	4cc	ri-
+=23	=23	=23	=23	=23	=23	=23	=23
+2G	men-	4d	-tre	8GL	voi>	4.b	-mi-
+.	.	.	.	8A	.	.	.
+.	.	4.d	vi	8B	.	.	.
+.	.	.	.	8cJ	.	8a	-r'in
+4G	-tre	.	.	4d	.	4g	voi
+.	.	8c	.	.	.	.	.
+4GG	vi	4B	.	4d	men-	4dd	men-
+4.BB	pen-	8BL	pen-	4d	-tre	4b	-tre
+.	.	8cJ	.	.	.	.	.
+.	.	4.d	.	4B	vi	4g	vi
+8C	.	.	.	.	.	.	.
+2D	.	.	.	2A	pen-	2f#X	pen-
+.	.	8c	.	.	.	.	.
+.	.	4A	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+0GGl	-so.	0Bl	-so.	0Gl	-so.	0gl	-so.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2018
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2018/09/18
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/18 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	155
+!!@CATALOGNUM:	Trm0155
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Se l'imagine vostra
+!!@GENRE:		madrigale
+!!@MANUSRC:	C, V<sub>8</sub>
+!!@PRINTSRC:	22, 26, 31, 35, 48, 54, 69, 93, 141, 145, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	Rende la cagione perché avendola impressa nel core desideri la sua imagine.
+!!@ABOUTEN:	He explains the reason why, having it [already] engraved into his heart, he [still] desires her image.
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  236
+!!@TRANSLATOR:	Ricciardi, Emiliano
+!!@VERSE:
+!!	Se l'imagine vostra
+!!	In me dipinge Amore,
+!!	Perché l'opra chied'io d'altro pittore?
+!!	Ben puote il mio pensiero
+!!	Mirar la forma interna,
+!!	Ma non farà che l'occhio unqua la scerna.
+!!	Dunque, privo del vero,
+!!	L'abbia almen finta il senso
+!!	Perch'io rimiri in voi mentre vi penso.
+!!@TVERSE:
+!!	If Love paints
+!!	Your image within me,
+!!	Why do I ask for the work of another painter?
+!!	Well can my thoughts
+!!	Glimpse the shape inside [of me],
+!!	But it will not be able to make my eye discern it.
+!!	Thus, deprived of the true [image],
+!!	May [my sight] at least have a false one,
+!!	So that I may gaze at you while I think upon you.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   Torquato Tasso, <i>Rime d’amore (secondo il codice
+!!		Chigiano L VIII 302)</i>, eds. Franco Gavazzeni and
+!!		Vercingetorige Martignone, vol. 4 of <i>Edizione
+!!		Nazionale delle opere di Torquato Tasso</i>
+!!		(Alessandria: Edizioni Dell’Orso, 2004), 123.
+!!@ATTRIBUTION_ABOUT:	 Secure
+!!		<br>
+!!		Among other authoritative sources (see Literary Sources), this poem appears in the autograph Chigiano
+!!		L.VIII.302 (Biblioteca Vaticana, Rome), compiled
+!!		around 1584&ndash;85.
+!!@DATING:
+!!@DEDICATEE:	Peperara, Laura ?
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0155a
+!!@RIMETITLE:	Se l'imagine vostra
+!!@SOLERTI:	155
+!!@COMPOSER:	Mazza, Francesco
+!!@PRINCEPSTITLE:	Il secondo libro de madrigali a cinque voci
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Vincenzi & Amadino
+!!@NORMPUBSHORT:	Vincenzi & Amadino
+!!@PRINCEPSPUB:	Vincenci e Amadino
+!!@PRINCEPSYEAR:	1584
+!!@PRINCEPSRISM:	M 1502
+!!@REPRINTS:	
+!!@OVOICES:	5
+!!@EXTANTVOICES:	4
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C1,C4,C4,F4
+!!@OMENSURATION:	C
+!!@OKEYSIG:	-
+!!@FINAL:	G
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@NOTE:		
+!!@@END:		SETTING

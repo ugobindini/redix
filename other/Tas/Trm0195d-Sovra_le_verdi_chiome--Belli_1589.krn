@@ -1,0 +1,533 @@
+!!!COM: Belli, Giulio
+!!!CDT:
+!!!OTL: Sovra le verdi chiome
+!!!PTL: Il primo libro de madrigali a cinque et a sei voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1589
+!!!PUB-format:
+!!!RISM: B 1776
+!!!rime: 195
+!!!AGN: Madrigal
+!!!SCT: Trm0195d
+!!!SCA: Trm0195d
+!!!original-voices: 5
+!!!extant-voices: 1
+!!!complete: N
+!!!final: F?
+**kern	**text
+*part1	*part1
+*staff1	*staff1
+*I"Quinto	*
+*I'V	*
+*oclefC1	*
+*clefG2	*
+*k[b-]	*
+*C:	*
+*omet(C)	*
+*M4/2	*
+=1	=1
+!!LO:TX:a:t=Prima parte.
+4r	.
+4f	So-
+4f	-vra
+4g	le
+4a	ver-
+4f	-di
+2b-y	chio-
+=2	=2
+2a	-me
+2r	.
+2r	.
+4r	.
+4g	Di
+=3	=3
+4.a	que-
+8cc	-sto
+4bnX	no-
+4bnX	-vo
+2cc	Lau-
+2g	-ro,
+=4	=4
+2r	.
+4r	.
+4g	Di
+4.e	que-
+8e	-sto
+4d	no-
+4d	-vo
+=5	=5
+8eL	Lau-
+8f	.
+8g	.
+8eJ	.
+2.f	.
+4cc	-ro, u-
+2a	-di-
+=6	=6
+4a	-te,
+4e	u-
+2f	-di-
+4f	-te,
+4cc	u-
+4a	-di-
+4a	-te
+=7	=7
+1b-y	co-
+2b-y	-me
+4dd	De'
+4dd	ca-
+=8	=8
+2dd	-no-
+4b-y	-ri Au-
+4b-y	-gel-
+2cc	-let-
+2b-y	-ti
+=9	=9
+1r	.
+4b-y	Al-
+8b-y	-tri
+8b-y	scher-
+4a	-zan-
+4a	-do
+=10	=10
+2g	van,
+2r	.
+2r	.
+4dd	Al-
+8dd	-tri
+8dd	scher-
+=11	=11
+4cc	-zan-
+4cc	-do
+4b-y	van
+4a	di
+4g	ra-
+2f	-m'in
+4e	ra-
+=12	=12
+4f	-mo,
+4a	Can-
+2dd	-tan-
+4cc	-do,
+4a	Can-
+[2dd	-tan-
+=13	=13
+2dd]	.
+2cc	-d'"Io
+2.cc	t'a-
+4a	-m'io
+=14	=14
+1g	t'a-
+1g	-mo;"
+=15	=15
+2r	.
+2e	Et
+1e	ei,
+=16	=16
+2r	.
+2a	Et
+2a	ei
+2f	par
+=17	=17
+4e	gli
+2d	ri-
+4c#X	-spon-
+2d	-da
+4r	.
+4a	Col
+=18	=18
+4dd	dol-
+4dd	-ce
+2.cc	mor-
+4b-y	-mo-
+2a	-ri-
+=19	=19
+4bnX	-o
+4dd	De
+4.ee	la
+8ff	tre-
+4.dd	-man-
+8cc	-te
+2bnX	fron-
+=20	=20
+4cc	-da,
+4g	De
+4.a	la
+8g	tre-
+4.f	-man-
+8f	-te
+2e	fron-
+=21	=21
+4f	-da:
+4a	"Sì,
+2cc	sì,
+4r	.
+4cc	Sì,
+2ee	sì,
+=22	=22
+4r	.
+4cc	che
+4dd	v'a-
+4b-y	-m'an-
+2a	-ch'i-
+2a	-o,
+=23	=23
+4r	.
+4a	Sì,
+2cc	sì,
+1r	.
+=24	=24
+4r	.
+4a	che
+4b-y	v'a-
+4g	-m'an-
+2a	-ch'i-
+4d	-o,
+4g	an-
+=25	=25
+2e	-ch'i-
+2d	-o,
+2r	.
+4r	.
+4dd	che
+=26	=26
+4b-y	v'a-
+4cc	-m'an-
+2a	-ch'i-
+2g	-o,
+2r	.
+=27	=27
+4r	.
+4b-y	an-
+2a	-ch'i-
+2g	-o,
+4r	.
+4cc	an-
+=28	=28
+4bnX	-ch'i-
+2cc	.
+4bnX	.
+1ccl	-o."
+=29||	=29||
+!!LO:TX:a:t=Seconda parte.
+2f	Et
+4.a	al-
+8b-y	-tri
+4cc	vez-
+4a	-zo-
+2g	-set-
+=30	=30
+2f	-ti,
+2r	.
+1r	.
+=31	=31
+1r	.
+2r	.
+2g	<Et
+=32	=32
+4f	al-
+4d	-tri
+4.e	vez-
+8f	-zo-
+2g	-set-
+2f	-ti,>
+=33	=33
+4r	.
+4f	Et
+4.f	al-
+8d	-tri
+4e	vez-
+2f	-zo-
+4e	-set-
+=34	=34
+1f	-ti
+!!LO:TX:a:cj:t=[whole] &rarr; [whole-dot]
+=35	=35
+*M6/2	*
+*omet(O3/2)	*
+2.cc	Can-
+4bnX	-ta-
+2cc	-no,
+=36	=36
+2.a	Can-
+4b-y	-ta-
+2a	-no:
+1cc	"qui-
+2dd	-vi,
+=37	=37
+2.cc	qui-
+4b-y	.
+4cc	.
+4dd	.
+4cc	.
+4b-y	.
+4cc	.
+4b-y	.
+4cc	.
+4b-y	.
+=38	=38
+4cc	.
+4b-y	.
+4cc	.
+4b-y	.
+4a	.
+4g	.
+1a	.
+2b-y	-vi,
+=39	=39
+1a	qui-
+2a	-vi,"
+!!LO:TX:a:cj:t=[whole-dot] &rarr; [whole]
+=40	=40
+*M4/2	*
+2r	.
+2b-y	Qua-
+=41	=41
+4a	-si
+4.g	vo-
+8g	-glio-
+4f	-no
+2.e	di-
+4f#X	-re: "in
+=42	=42
+2g	que-
+2a	-sti
+4g	ri-
+8fnXiL	.
+8eJ	.
+4d	.
+4e	.
+=43	=43
+4f	.
+4g	.
+4a	.
+8gL	.
+8fJ	.
+4e	.
+2f	.
+4e	.
+=44	=44
+2f	-vi,
+2a	O in-
+8gL	-tor-
+8f	.
+8g	.
+8aJ	.
+4g	.
+4f	-no à
+=45	=45
+8eL	que-
+8d	.
+8e	.
+8fJ	.
+4e	.
+4a	-ste
+8gL	lin-
+8f	.
+8g	.
+8aJ	.
+2g	.
+=46	=46
+2g	-fe,
+4r	.
+4b-y	O in-
+8aL	-tor-
+8g	.
+8a	.
+8b-yJ	.
+4a	.
+4g	-no à
+=47	=47
+8f#XL	que-
+8e	.
+8f#X	.
+8gJ	.
+4f#X	.
+4e	-ste
+2d	lin-
+2d	-fe
+=48	=48
+0r	.
+=49	=49
+1r	.
+4cc	Ti
+4cc	va-
+2dd	-gheg-
+=50	=50
+4dd	-gian
+4cc	le
+2cc	Nin-
+2cc	-fe,
+4a	<Ti
+4a	va-
+=51	=51
+2a	-gheg-
+4b-y	-gian
+4a	le
+4g	Nin-
+4f	.
+2g	.
+=52	=52
+2a	-fe,>
+2f	O in-
+8eL	-tor-
+8d	.
+8e	.
+8fJ	.
+4e	.
+4f	-no à
+=53	=53
+8gL	que-
+8f	.
+8g	.
+8aJ	.
+4g	.
+4f	-ste
+8eL	lin-
+8d	.
+8e	.
+8fJ	.
+4e	.
+4c	-fe,
+=54	=54
+2r	.
+2g	O in-
+8f#XL	-tor-
+8e	.
+8f#X	.
+8gJ	.
+4f#X	.
+4g	-no à
+=55	=55
+8aL	que-
+8g	.
+8a	.
+8b-yJ	.
+2a	.
+4fnXi	-ste
+2b-y	lin-
+8aL	.
+8gJ	.
+=56	=56
+4a	.
+8gL	.
+8fJ	.
+4g	.
+8fL	.
+8eJ	.
+[1f	.
+=57	=57
+2f]	.
+2f	-fe
+4a	Ti
+4a	va-
+2a	-gheg-
+=58	=58
+4b-y	-gian
+4a	le
+2g	Nin-
+2a	-fe,
+4cc	Ti
+4cc	va-
+=59	=59
+2dd	-gheg-
+4dd	-gian
+4cc	le
+1cc	Nin-
+=60	=60
+0ccl	-fe."
+==	==
+*-	*-
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/01
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2019/01/14
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/14 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	195
+!!@CATALOGNUM:	Trm0195
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Sovra le verdi chiome
+!!@GENRE:		madrigale
+!!@MANUSRC:	Ts<sub>2</sub>
+!!@PRINTSRC:	22, 26, 31, 35, 69, 78, 141, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	Nel medesimo soggetto. (i.e., "Questo sonetto con l'altro accompagnano un libro di madrigali dedicati a la signora Laura." Rime 193-94)
+!!@ABOUTEN:	On the same subject. (i.e., "This sonnet and the other accompany a book of madrigals dedicated to lady Laura." Rime 193-194)
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  288
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Sovra le verdi chiome
+!!	Di questo novo Lauro, udite come
+!!	De' canori augelletti
+!!	Altri scherzando van di ramo in ramo,
+!!	Cantando &mdash; io t'amo, io t'amo &mdash;;
+!!	Et ei par gli risponda
+!!	Col dolce mormorio
+!!	De la tremante fronda &mdash;
+!!	Sì, sì, che v'amo anch'io &mdash;;
+!!	Ed altri vezzosetti
+!!	Cantano, &mdash; quivi, quivi &mdash;,
+!!	Quasi voglian dire &mdash; In questi rivi,
+!!	O intorno a queste linfe
+!!	Ti vagheggian le Ninfe. &mdash;
+!!@TVERSE:
+!!	Above the green foliage
+!!	Of this new Laurel, hear how
+!!	Among the little songbirds
+!!	Some go playing from branch to branch
+!!	Singing “I love you, I love you.”
+!!	And it seems to answer them
+!!	With the sweet murmur
+!!	Of its trembling boughs:
+!!	“Yes, yes, I love you as well.”
+!!	And other pretty little [birds]
+!!	Sing, “There, there,”
+!!	As if they wish to say, “In these streams
+!!	Or around these waters,
+!!	The Nymphs yearn for you.”
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   None
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		Among other sources (see Literary Sources), this poem survives in a copy with Tasso's autograph annotations of the print <i>Rime et prose del Signor Torquato Tasso. Parte terza. Novamente poste in luce</i>
+!!(Venetia: Giulio Vasalini, 1583)
+!!@DATING:	1583
+!!@DEDICATEE:	Peperara, Laura
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0195d
+!!@RIMETITLE:	Sovra le verdi chiome
+!!@SOLERTI:	195
+!!@COMPOSER:	Belli, Giulio
+!!@PRINCEPSTITLE:	Il primo libro de madrigali a cinque et a sei voci
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Angelo Gardano
+!!@NORMPUBSHORT:	Gardano
+!!@PRINCEPSPUB:	Gardano
+!!@PRINCEPSYEAR:	1589
+!!@PRINCEPSRISM:	B 1776
+!!@REPRINTS:	
+!!@OVOICES:	5
+!!@EXTANTVOICES:	1
+!!@PARTBOOKS:	CATBV
+!!@EXTPARTBOOKS:	V
+!!@OCLEFS:	C1
+!!@OMENSURATION:	C; O 3/2; C
+!!@OKEYSIG:	b-
+!!@FINAL:	F?
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@NOTE:		
+!!@@END:		SETTING

@@ -1,0 +1,474 @@
+!!!COM: Dueto, Antonio
+!!!CDT: ~1545-~1602
+!!!OTL: Se l'alma è prigioniera
+!!!PTL: Il secondo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1585
+!!!PUB-format:
+!!!rime: 564
+!!!AGN: Madrigal
+!!!SCT: Trm0564b
+!!!SCA: Trm0564b
+!!!original-voices: 5
+!!!extant-voices: 2
+!!!complete: N
+!!!final: G
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*Ivox	*	*Ivox	*
+*I"Quinto	*	*I"Canto	*
+*I'V	*	*I'C	*
+*>[A,B]	*>[A,B]	*>[A,B]	*>[A,B]
+*>A	*>A	*>A	*>A
+*oclefC3	*	*oclefC1	*
+*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*omet(C|)	*	*omet(C|)	*
+*M2/1	*	*M2/1	*
+=1	=1	=1	=1
+!!LO:TX:a:t=Prima parte.
+0r	.	1g	Se
+.	.	2f	l'al-
+.	.	2f	-ma &egrave;
+=2	=2	=2	=2
+0r	.	2e	pri-
+.	.	1d	-gio-
+.	.	2c#i	-nie-
+=3	=3	=3	=3
+2r	.	2d	-ra
+4d	De	2a	De
+4d	la	.	.
+2d	vo-	2a	la
+4f	-stra	2bn	vo-
+4F	bel-	.	.
+=4	=4	=4	=4
+1c	-ta-	2cc	-stra
+.	.	2cc	bel-
+4F	-de,	4.dd	-ta-
+2f	Vi-	.	.
+.	.	8ccL	.
+.	.	8b-i	.
+.	.	8aJ	.
+4f	-v'al-	[4b-	.
+=5	=5	=5	=5
+1f	-men,	4b-]	.
+.	.	8aL	.
+.	.	8gJ	.
+.	.	2a	.
+2.d	Vi-	4b-	-de,
+.	.	2b-	Vi-
+4d	-v'al-	4b-	-v'al-
+=6	=6	=6	=6
+4d	-men,	4b-	-men,
+2c	don-	2a	don-
+4c	-na il	4g	-na il
+4A	cor-	2.f	cor-
+4B-	-p'in	.	.
+4G	li-	.	.
+4G	-ber-	4e	-p'in
+=7	=7	=7	=7
+1d	-ta-	4f#i	li-
+.	.	2g	-ber-
+.	.	4f#i	-ta-
+1d	-de.	1g	-de.
+=8	=8	=8	=8
+0r	.	0r	.
+=9	=9	=9	=9
+2g	L'u-	1r	.
+4g	-na	.	.
+4g	pri-	.	.
+2.f	-gio-	2dd	L'u-
+.	.	4dd	-na
+4g	-ne ho-	4dd	pri-
+=10	=10	=10	=10
+2a	-mai	2.cc	-gio-
+2d	O	.	.
+.	.	4bn	-ne ho-
+2c	l'al-	4cc	-mai
+.	.	4g	O
+4d	-tra	2b-i	l'al-
+[4g	si	.	.
+=11	=11	=11	=11
+4g]	.	4a	-tra
+4f	di-	2a	si
+2e	-schiu-	.	.
+.	.	4a	di-
+1d	-da,	2a	-schiu-
+.	.	2a	-da,
+=12	=12	=12	=12
+1r	.	0r	.
+4r	.	.	.
+4c	O	.	.
+4B-	l'al-	.	.
+4G	-tra	.	.
+=13	=13	=13	=13
+4B-	si	2dd	<L'u-
+4A	di-	.	.
+4d	-schiu-	4dd	-na
+4d	-da,	4dd	pri-
+4r	.	2.cc	-gio-
+2a	<O	.	.
+[4f	l'al-	4bn	-ne ho-
+=14	=14	=14	=14
+4f]	.	4cc	-mai
+4e	-tra	4g	O
+2.d	si	2b-i	l'al-
+.	.	2a	-tra
+4c	di-	.	.
+2d	-schiu-	4f	si
+.	.	4g	di-
+=15	=15	=15	=15
+2e	.	2a	-schiu-
+2f#X	-da,>	2a	-da,>
+4r	.	4r	.
+4d	Per-	4f#X	Per-
+4d	-ch&eacute;	4g	-ch&eacute;
+[4fni	l'u-	[4a	l'u-
+=16	=16	=16	=16
+8f]	.	8a]	.
+8fni	-na	8a	-na
+4fni	per	4a	per
+2e	l'al-	2a	l'al-
+4f#X	-tra,	4a	-tra,
+4f#i	<Per-	4a	<Per-
+4g	-ch&eacute;	4b-	-ch&eacute;
+[4a	l'u-	[4cc	l'u-
+=17	=17	=17	=17
+4a]	.	8cc]	.
+.	.	8cc	-na
+4g	-na	4b-	per
+2e	per	1a	l'al-
+2f#X	l'al-	.	.
+[2g	-tra> &egrave;	2g	-tra> &egrave;
+=18	=18	=18	=18
+2g]	.	2a	via
+1fni	via	2bn	pi&ugrave;
+.	.	1cc	cru-
+2e	pi&ugrave;	.	.
+=19	=19	=19	=19
+1d	cru-	2f	-da,
+.	.	1dd	<&egrave;
+2a	-da,	.	.
+4r	.	[2cc	via
+4a	&egrave;	.	.
+=20	=20	=20	=20
+4g	via	4cc]	.
+4f	pi&ugrave;	4b-	pi&ugrave;
+2e	cru-	4a	cru-
+.	.	2g	.
+2d	-da,	.	.
+.	.	8f#iL	.
+.	.	8eJ	.
+[2d	<&egrave;	2f#i	.
+=21	=21	=21	=21
+4d]	.	2g	-da,>
+2c	via	.	.
+.	.	1g	&egrave;
+4B-	pi&ugrave;	.	.
+4A	cru-	.	.
+4D	-da,>	.	.
+4r	.	[2f	via
+4F	&egrave;	.	.
+=22	=22	=22	=22
+2G	via	2f]	.
+2A	pi&ugrave;	2e	pi&ugrave;
+4.B-	cru-	1d	cru-
+8AL	.	.	.
+8B-	.	.	.
+8c	.	.	.
+8d	.	.	.
+8BniJ	.	.	.
+=23	=23	=23	=23
+2c#X	.	[0al	-da.
+1d	.	.	.
+2c#X	.	.	.
+=24	=24	=24	=24
+0dl	-da.	0a]	.
+!!LO:LB:i:g=z
+=||25	=||25	=||25	=||25
+*>B	*>B	*>B	*>B
+!!LO:TX:a:t=Seconda parte.
+1f	Ma	1dd	Ma
+2f	qual	2cc	qual
+[2d	de-	[2b-	de-
+=26	=26	=26	=26
+4d]	.	4b-]	.
+4d	-stra	4b-	-stra
+2c	gia-	1a	gia-
+1d	-ma-	.	.
+.	.	2g	-ma-
+=27	=27	=27	=27
+1e	-i	1a	-i
+1r	.	4f#X	Co-
+.	.	4g	-s&igrave;
+.	.	2a	de-
+=28	=28	=28	=28
+2r	.	4b-	-stra e
+.	.	2g	leg-
+4r	.	.	.
+4d	A-	4f#i	-gie-
+2d	-prir,	2g	-ra
+4r	.	4r	.
+4B-	A-	4g	A-
+=29	=29	=29	=29
+4B-	-prir	4g	-prir
+4A	l'u-	4a	l'u-
+4G	-na	4b-	-na
+4G	po-	4cc	po-
+1A	-tr&agrave;,	2dd	-tr&agrave;,
+.	.	[2dd	ch'io
+=30	=30	=30	=30
+2r	.	4dd]	.
+.	.	2b-	non
+2G	ch'io	.	.
+.	.	4cc	ne
+2A	non	4a	pe-
+.	.	4f	.
+2B-	ne	[2b-	.
+=31	=31	=31	=31
+4c	pe-	4b-]	.
+4F	.	8aL	.
+.	.	8gJ	.
+2f	.	2a	.
+2d	-ra,	2b-	-ra,
+4r	.	4r	.
+4b-	Ma	4dd	Ma
+=32	=32	=32	=32
+2a	qual	2cc	qual
+2.g	de-	2.b-	de-
+4g	-stra	4b-	-stra
+[2f	gia-	[2a	gia-
+=33	=33	=33	=33
+2f]	.	2a]	.
+1d	-ma-	2g	-ma-
+.	.	1a	-i
+2c#X	-i	.	.
+=34	=34	=34	=34
+0r	.	4f#X	Co-
+.	.	4f#i	-s&igrave;
+.	.	2g	de-
+.	.	4a	-stra e
+.	.	4a	leg-
+.	.	2a	-gie-
+=35	=35	=35	=35
+4r	.	2a	-ra
+4d	A-	.	.
+2.d	-prir	4r	.
+.	.	4g	A-
+.	.	4g	-prir
+4d	l'u-	4a	l'u-
+4g	-na	4b-	-na
+4g	po-	4cc	po-
+=36	=36	=36	=36
+4f	-tr&agrave;,	2dd	-tr&agrave;,
+4d	ch'io	.	.
+4e	non	2r	.
+4f	ne	.	.
+2f	pe-	2r	.
+4f	-ra,	2b-	ch'io
+4f	ch'io	.	.
+=37	=37	=37	=37
+4f	non	4a	non
+4f	ne	4a	ne
+2d	pe-	2.g	pe-
+2d	-ra?	.	.
+.	.	8f#iL	.
+.	.	8eJ	.
+2r	.	2f#i	.
+=38	=38	=38	=38
+4r	.	2g	-ra?
+4g	L'al-	.	.
+4g	-tra,	4r	.
+4g	non	2dd	L'al-
+4d	di	.	.
+4d	pie-	4dd	-tra,
+2f	-ta-	4dd	non
+.	.	4a	di
+=39	=39	=39	=39
+4c	-de,	4a	pie-
+4f	Pu&ograve;	2cc	-ta-
+4f	ben	.	.
+4e	s&igrave;	4g	-de,
+2.d	dol-	4b-	Pu&ograve;
+.	.	2b-	ben
+4B-	-c'a-	4f	s&igrave;
+=40	=40	=40	=40
+2d	-pri-	1f	dol-
+2c	-re,	.	.
+4r	.	4e	c'a-
+4d	a-	2d	-pri-
+2a	-pri-	.	.
+.	.	4c#X	.
+=41	=41	=41	=41
+2f#X	-re	2d	-re
+4r	.	4r	.
+4d	Che	4a	Che
+4d	l'al-	4a	l'al-
+2fni	-ma	4bn	-ma
+.	.	2cc	bra-
+4e	bra-	.	.
+=42	=42	=42	=42
+4f	-mi in	4cc	-mi in
+2e	ser-	2cc	ser-
+4d	-vi-	4b-i	-vi-
+4c#i	-t&ugrave;	4a	-t&ugrave;
+2d	mo-	4g	mo-
+.	.	2a	-ri-
+4c#X	-ri-	.	.
+=43	=43	=43	=43
+4d	-re,	1a	-re,
+4d	L'al-	.	.
+4d	-tra,	.	.
+4d	non	.	.
+4A	di	4r	.
+4A	pie-	4a	L'al-
+2c	-ta-	4a	-tra,
+.	.	4a	non
+=44	=44	=44	=44
+4G	-de,	4e	di
+4c	Pu&ograve;	4e	pie-
+4B-	ben	4g	-ta-
+4B-	s&igrave;	4d	-de,
+2B-	dol-	4dd	<L'al-
+.	.	4dd	-tra,
+2A	-c'a-	4dd	non
+.	.	4a	di
+=45	=45	=45	=45
+2A	-pri-	4a	pie-
+.	.	2cc	-ta-
+4G	-re,	.	.
+4g	L'al-	4g	-de,>
+4g	-tra,	4b-	Pu&ograve;
+4g	non	2b-	ben
+4d	di	.	.
+4d	pie-	4f	s&igrave;
+=46	=46	=46	=46
+4f	-ta-	1f	dol-
+4F	-de,	.	.
+4A	Pu&ograve;	.	.
+2c	ben	.	.
+.	.	4e	-c'a-
+4B-	si	2d	-pri-
+4A	dol-	.	.
+4A	-c'a-	4c#X	.
+=47	=47	=47	=47
+!!LO:MD:P=C0&colon;p170
+2A	-pri-	2d	-re
+4A	-re,	4r	.
+4f	Che	4a	Che
+4f	l'al-	4a	l'al-
+4f	-ma	4b-	-ma
+2e	bra-	2cc	bra-
+=48	=48	=48	=48
+2d	-mi	4f	-mi in
+.	.	2f	ser-
+2r	.	.	.
+.	.	4g	-vi-
+2r	.	4a	-t&ugrave;
+.	.	4a	mo-
+2g	in	2d	-ri-
+=49	=49	=49	=49
+2f#X	ser-	2.d	-re
+2g	-vi-	.	.
+.	.	4dd	mo-
+4a	-t&ugrave;	1dd	-ri-
+4d	mo-	.	.
+2d	-ri-	.	.
+=50	=50	=50	=50
+0dl	-re.	0bnl	-re.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2012
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2017/02/08
+!!!YEC: Copyright 2013 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2013/08/19 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	564
+!!@CATALOGNUM:	Trm0564
+!!@LAST_MODIFIED: 2020/07/12
+!!@ATTRIBUTION:	not secure
+!!@TITLE:		Se l'alma è prigioniera
+!!@GENRE:		madrigale
+!!@MANUSRC:	none
+!!@PRINTSRC:	10, 16, 21, 25, 25a), 30, 34, 68, 141, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	A la signora Leonora Sanvitale.
+!!@ABOUTEN:	To lady Leonora Sanvitale.
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	3
+!!@EDITION_PAGE:  85
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Se l'alma è prigioniera
+!!	De la vostra beltade,
+!!	Viva almen, donna, il corpo in libertade.
+!!	L'una prigione omai,
+!!	O l'altra si dischiuda,
+!!	Perché l'una per l'altra è vie più cruda.
+!!	Ma qual destra giamai
+!!	Così destra e leggiera
+!!	Aprir l'una potrà, ch'io non ne pera?
+!!	L'altra, non di pietade,
+!!	Può ben sì dolce aprire
+!!	Che l'alma brami in servitù morire.
+!!@TVERSE:
+!!	If my soul is the prisoner
+!!	Of your beauty,
+!!	May at least live, lady, my body in freedom.
+!!	May now one prison
+!!	Or the other unbar,
+!!	Because the one for the other is a more pitiless way.
+!!	But what dexterous one could ever be
+!!	So dexterous and agile
+!!	To open the one, such that I do not perish?
+!!	The other, not of sympathy,
+!!	Could well so sweetly open
+!!	That my soul wishes in servitude to die.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   None
+!!@ATTRIBUTION_ABOUT:	Not secure
+!!		<br>
+!!		This poem is attributed to Tasso only in a literary print that was not supervised by Tasso and in reprints thereof (see Literary Sources).
+!!@DATING:	In or before 1582
+!!		<br>
+!!		The earliest appearance of this poem is in a literary print published in Venice by Aldo Manuzio in 1582 (see Literary Sources).
+!!@DEDICATEE:	Sanvitale, Leonora ?
+!!@DEDICATEE_INFO:	(c. 1558-1582)
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0564b
+!!@RIMETITLE:	Se l'alma è prigioniera
+!!@SOLERTI:	564
+!!@COMPOSER:	Dueto, Antonio
+!!@PRINCEPSTITLE:	Il secondo libro de madrigali a cinque voci
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Angelo Gardano
+!!@NORMPUBSHORT:	Gardano
+!!@PRINCEPSPUB:	Gardano
+!!@PRINCEPSYEAR:	1585
+!!@PRINCEPSRISM:	D 3654
+!!@REPRINTS:	
+!!@OVOICES:	5
+!!@EXTANTVOICES:	2
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C1,C3
+!!@OMENSURATION:	Cut-C
+!!@OKEYSIG:	b-
+!!@FINAL:	G
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@NOTE:		
+!!@@END:		SETTING

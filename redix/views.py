@@ -15,6 +15,9 @@ def index(request):
 
     return render(request, 'index.html', {'composers': composers, 'pieces': pieces})
 
+note_name_to_int = {'c': 7, 'd': 8, 'e': 9, 'f': 10, 'g': 11, 'a': 12, 'b': 13}
+def note_to_int(note):
+    return note_name_to_int[note[0]] + 7 * int(note[1])
 
 stats = []
 id_to_item = {}
@@ -46,11 +49,18 @@ def figured_bass(request):
         filter_composers = [HTML_NAME_TO_COMPOSER[key] for key in request.GET.keys() if key in HTML_NAME_TO_COMPOSER.keys()]
         print(filter_composers)
         piece_name = request.GET.get('fb_piece_name')
-        contains = [int(x) for x in request.GET.get('fb_contains').split()]
+        contains = [int(x) for x in request.GET.get('fb_contains').split() if not x.endswith('*')]
+        contains_exact = [int(x[:-1]) for x in request.GET.get('fb_contains').split() if x.endswith('*')]
         does_not_contain = [int(x) for x in request.GET.get('fb_does_not_contain').split()]
         no_reduce = [int(x) for x in request.GET.get('fb_no_reduce').split()]
         quarters = [i for i in range(4) if request.GET.get(f"quarter{i}") is not None]
-        lowest_note = [int(x) for x in request.GET.get('lowest_note').split()]
+        lowest_note = []
+        for s in request.GET.get('lowest_note').split():
+            if '-' in s:
+                for n in range(note_to_int(s[:2]), note_to_int(s[3:5]) + 1):
+                    lowest_note.append(n)
+            else:
+                lowest_note.append(note_to_int(s))
 
         # Apply filters for composers and beats
         query = Q()
@@ -59,7 +69,7 @@ def figured_bass(request):
         points = Point.objects.filter(query)
 
         if piece_name is not None:
-            points = points.filter(piece__title__contains=piece_name)
+            points = points.filter(piece__title__icontains=piece_name)
 
         if len(quarters):
             query = Q()
@@ -78,11 +88,10 @@ def figured_bass(request):
         print(f"Total points {total_items}")
 
         for x in contains:
+            query = Q(reduced_chord__contains=f",{x},")
+            points = points.filter(query)
+        for x in contains_exact:
             query = Q(full_chord__contains=f",{x},")
-            if x <= 7 and x % 7 not in [y % 7 for y in no_reduce]:
-                # if th ecipher is within the octave and there is no match with ciphers in no_reduce,
-                # also points containing the reduced version of the number are ok
-                query = query | Q(reduced_chord__contains=f",{x},")
             points = points.filter(query)
         for x in does_not_contain:
             points = points.exclude(full_chord__contains=f",{x},")
@@ -126,9 +135,12 @@ def figured_bass(request):
             item_ratio = 0
 
         # Nicely formatted list of selected composers
-        f_selected_composers = ""
-        for composer in filter_composers:
-            f_selected_composers += f"{composer}; "
+        if len(filter_composers):
+            f_selected_composers = ""
+            for composer in filter_composers:
+                f_selected_composers += f"{composer}; "
+        else:
+            f_selected_composers = "all"
         f_selected_composers = f_selected_composers[:-2] + "."
 
         return render(request, 'figured_bass.html',

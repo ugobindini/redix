@@ -1,0 +1,350 @@
+!!!CDT:
+!!!PTL: Madrigali concertati a due, tre, e quattro voci: libro primo
+!!!PPP: Venice
+!!!PPR: Bartholomeo Magni
+!!!PDT: 1629
+!!!RISM: S 36
+!!!rime: 288
+!!!AGN: Madrigal
+!!!SCT: Trm0288o
+!!!SCA: Trm0288o
+!!!voices:
+!!!COM: Sabbatini, Vincenzo
+!!!OTL: Amatemi, ben mio 
+**kern	**text
+*part1	*part1
+*staff1	*staff1
+*I"Canto Primo	*
+*I'C1	*
+*oclefC1	*
+*clefG2	*
+*k[]	*
+*C:	*
+*omet(C)	*
+*M4/4	*
+=1	=
+!LO:TX:a:t=A 2.	!
+4r	.
+16bL	A-
+16a	.
+16b	.
+16ccJ	.
+4.dd	-ma-
+8a	-te-
+=2	=2
+4.a	-mi,
+8g	ben
+2b	mi-
+=3	=3
+4b	-o,
+16bL	A-
+16a	.
+16b	.
+16ccJ	.
+4dd	-ma-
+8ccL	-te-
+8bJ	.
+=4	=4
+4.a	-mi,
+8a	ben
+2b	mi-
+=5	=5
+4b	-o,
+4dd	Per-
+8cc	-ché
+8b	sde-
+8cc	-gna il
+8a	mio
+=6	=6
+16bL	co-
+8.aJ	.
+16bL	.
+16a	.
+16b	.
+16ccJ	.
+8a	-re
+8a	o-
+8b	-gn'al-
+8cc	-tro
+=7	=7
+4dd	ci-
+4cc	-bo,
+2r	.
+=8	=8
+4r	.
+4b	o-
+4.cc	-gn'al-
+8cc	-tro
+=9	=9
+2cc#X	ci-
+8dd	-bo
+8a	e
+8b	vi-
+8ccnXi	-ve
+=10	=10
+8dd	sol,
+8g	<e
+8a	vi-
+8a	-ve
+8b	sol,>
+8b	e
+8b	vi-
+8cc	-ve
+=11	=11
+4dd	sol
+8bL	d'A-
+16cc	.
+16ddJ	.
+8gL	.
+16a	.
+16bJ	.
+8ccL	.
+16dd	.
+16eeJ	.
+=12	=12
+2a	-mo-
+2g	-re.
+=13	=13
+4r	.
+8cc	V'a-
+8cc	-me-
+4a	-rò,
+8dd	se
+8cc	m'a-
+=14	=14
+2b	-ma-
+4a	-te,
+16aL	Non
+16g	.
+16f	.
+16eJ	.
+=15	=15
+8d	men
+8d	del-
+8g	-la
+8f	mia
+2e	vi-
+=16	=16
+2d	-ta
+2r	.
+=17	=17
+2r	.
+8r	.
+8d	e
+8g	fia
+8f	con
+=18	=18
+4e	lui
+16aL	fi-
+16g	.
+16f	.
+16eJ	.
+2d	-ni-
+=19	=19
+4c	-ta,
+4cc	L'A-
+4b	-mor
+4a	fia
+=20	=20
+(<4a	lun-
+4g#X)	.
+2a	-go,
+=21	=21
+1r	.
+=22	=22
+8r	.
+8f#X	L'a-
+8g	-mor
+8a	fia
+2b	lun-
+=23	=23
+8b	-go,
+8b	<L'A-
+8cc	-mor
+8dd	fia
+2ee	lun-
+=24	=24
+8ee	-go>
+8g	e
+8a	fia
+8a	con
+[2b	lui
+=25	=25
+4b]	.
+16aL	fi-
+16b	.
+16cc	.
+16bJ	.
+2a	-ni-
+=26	=26
+2g	-ta.
+2r	.
+=27	=27
+2b	Ma,
+4r	.
+8b	Ma
+8b	s'a-
+=28	=28
+4b	-mar-
+8b	-mi
+8b	ne-
+8ccL	-ga-
+16dd	.
+16eeJ	.
+8aL	.
+16b	.
+16ccJ	.
+=29	=29
+2dd	.
+4b	-te,
+8ee	Mo-
+8b	-ri-
+=30	=30
+2cc#X	-rò
+2r	.
+=31	=31
+4r	.
+8g	di-
+8d	-spe-
+8e	-ra-
+8e	-to,
+8a	Mo-
+8e	-ri-
+=32	=32
+4a	-rò
+8cc	di-
+8dd	-spe-
+8ee	-ra-
+8ee	-to,
+8b	Mo-
+8b	-ri-
+=33	=33
+4cc	-rò
+8dd	di-
+8ee	-spe-
+4b	-ra-
+4b	-to
+=34	=34
+8r	.
+8ee	Per
+8dd	non
+8cc	a-
+8b	-mar-
+8dd	-vi
+8cc	non
+8b	es-
+=35	=35
+4.cc	-sen-
+8b	-do a-
+2b	-ma-
+=36	=36
+4a	-to,
+8a	Mo-
+8g	-ri-
+4f	-rò
+8.b-X	di-
+16e	-spe-
+=37	=37
+2e	-ra-
+8d	-to
+8a	Per
+8bnXi	non
+8cc	a-
+=38	=38
+8dd	-mar-
+8b	-vi
+8cc	non
+8dd	es-
+4.ee	-sen-
+8a	-do a-
+=39	=39
+1a	-ma-
+=40	=40
+1gl	-to.
+==	==
+*-	*-
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/01/19
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/01/19
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	288
+!!@CATALOGNUM:	Trm0288
+!!@LAST_MODIFIED: 2020/07/12
+!!@ATTRIBUTION:	not secure
+!!@TITLE:		Amatemi, ben mio
+!!@GENRE:		madrigale
+!!@MANUSRC:	none
+!!@PRINTSRC:	23, 26, 36, 37, 69, 141, 145, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  357
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Amatemi, ben mio,
+!!	Perché sdegna il mio core
+!!	Ogni altro cibo e vive sol d'amore.
+!!	V'amerò, se m'amate,
+!!	Né men de la mia vita
+!!	L'amor fia lungo e fia con lui finita.
+!!	Ma s'amarmi negate,
+!!	Morirò disperato
+!!	Per non amarvi non essendo amato.
+!!@TVERSE:
+!!	Love me, my dear,
+!!	Because my heart scorns
+!!	All other food and lives only on love.
+!!	I will love you, if you love me,
+!!	Nor less than my life
+!!	May love last and [my life] end with [love].
+!!	But if you refuse to love me
+!!	I will die in despair
+!!	For not loving you, not being loved.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   None
+!!@ATTRIBUTION_ABOUT:	Not secure
+!!		<br>
+!!		This poem is attributed to Tasso only in a print that was not supervised by him and in reprints thereofr (see Literary Sources).
+!!@DATING:	In or before 1585
+!!		<br>
+!!		The earliest appearence of this poem is in a literary print and in two musical settings published in 1585 (see Literary Sources and Musical Settings).
+!!@DEDICATEE:
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0288o
+!!@RIMETITLE:	Amatemi, ben mio
+!!@SOLERTI:	288
+!!@COMPOSER:	Sabbatini, Vincenzo
+!!@PRINCEPSTITLE:	Madrigali concertati a due, tre, e quattro voci: libro primo
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Bartholomeo Magni
+!!@NORMPUBSHORT:	Magni
+!!@PRINCEPSPUB:	Bartholomeo Magni
+!!@PRINCEPSYEAR:	1629
+!!@PRINCEPSRISM:	S 36
+!!@REPRINTS:	
+!!@OVOICES:	2 + bc
+!!@EXTANTVOICES:	1
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C1
+!!@OMENSURATION:	C
+!!@OKEYSIG:	-
+!!@FINAL:	G?
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@NOTE:		
+!!@@END:		SETTING

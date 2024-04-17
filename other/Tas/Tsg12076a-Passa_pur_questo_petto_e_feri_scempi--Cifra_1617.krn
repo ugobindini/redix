@@ -1,0 +1,559 @@
+!!!CDT:
+!!!PTL: Li diversi scherzi a due, a tre et quattro voci. Libro quinto
+!!!PPP: Rome
+!!!PPR: Giovanni Battista Robletti
+!!!PDT: 1617
+!!!RISM: C 2221
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg12076a
+!!!SCA: Tsg12076a
+!!!voices:
+!!!COM: Cifra, Antonio
+!!!OTL: Passa pur questo petto, e feri scempi
+**kern	**fb	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Basso continuo	*	*I"Canto	*
+*I'Bc	*	*I'C	*
+*oclefF4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*
+*M4/4	*	*M4/4	*
+=1	=1	=1	=1
+!	!	!LO:TX:a:t=Aria di Romanesca. [Prima stanza.]	!
+1B-y	.	4r	.
+.	.	8ff	Pas-
+.	.	8ff	-sa
+.	.	[2ff	pur
+=2	=2	=2	=2
+2A	.	4ff]	.
+.	.	8cc	que-
+.	.	8cc	-sto
+2G	.	2ee-X	pet-
+=3	=3	=3	=3
+2F	.	1cc	-to,
+4F	.	.	.
+[4F	.	.	.
+=4	=4	=4	=4
+4F]	.	4r	.
+4F	.	4dd	e
+2G	.	8dd	fe-
+.	.	8ee-X	-ri
+.	.	[4dd	scem-
+=5	=5	=5	=5
+2D	.	8dd]L	.
+.	.	16cc	.
+.	.	16b-yJ	.
+.	.	16aL	.
+.	.	16g	.
+.	.	8f#XJ	.
+2E-X	.	2g	.
+=6	=6	=6	=6
+2.D	.	2a	-pi
+.	.	4r	.
+4D	.	4b-y	Co'l
+=7	=7	=7	=7
+4D	.	4.b-y	fer-
+4C	.	.	.
+.	.	8a	-ro
+[2BB-y	.	4f	tuo,
+.	.	8r	.
+.	.	8dd	cru-
+=8	=8	=8	=8
+4BB-]	.	1ff	-del,
+4C	.	.	.
+4D	.	.	.
+4E	.	.	.
+=9	=9	=9	=9
+[1F	.	4r	.
+.	.	4a	cru-
+.	.	[2cc	-del,
+=10	=10	=10	=10
+2F]	.	8cc]L	.
+.	.	16dd	.
+.	.	16ee-XJ	.
+.	.	2dd	.
+2E-X	.	.	.
+.	.	[4a	fà
+=11	=11	=11	=11
+2C	.	4a]	.
+.	.	8a	del
+.	.	8a	mio
+2D	.	2a	co-
+=12	=12	=12	=12
+4GG	.	2g	-re,
+2G	.	.	.
+.	.	4r	.
+4F#X	.	4dd	Co'l
+=13	=13	=13	=13
+4G	.	4.dd	fer-
+4A	.	.	.
+.	.	8cc	-ro
+[2B-y	.	8ddL	tuo,
+.	.	8ccJ	.
+.	.	8ccL	.
+.	.	16b-y	.
+.	.	16ccJ	.
+=14	=14	=14	=14
+4B-]	.	8ddL	.
+.	.	8ccJ	.
+4A	.	8ccL	.
+.	.	16b-y	.
+.	.	16ccJ	.
+2G	.	8ddL	.
+.	.	8ccJ	.
+.	.	8ccL	.
+.	.	8b-yJ	.
+=15	=15	=15	=15
+1F	5:6	8ccL	.
+.	.	8b-yJ	.
+.	.	8b-yL	.
+.	.	16a	.
+.	.	16b-yJ	.
+.	.	4cc	.
+.	.	[4ff	cru-
+=16	=16	=16	=16
+2F	6:5	4ff]	.
+.	.	2ee-X	-del,
+2E-X	6:5	.	.
+.	.	[4dd	fà
+=17	=17	=17	=17
+2C	6:5	4dd]	.
+.	.	8a	del
+.	.	8a	mio
+2D	4:3	2a	co-
+=18	=18	=18	=18
+!	!	!LO:TX:a:t=Seconda stanza.	!
+1GG	.	1g	-re.
+=19||	=19||	=19||	=19||
+1B-y	.	2r	.
+.	.	2dd	Ma
+=20	=20	=20	=20
+2A	.	2.ff	for-
+2G	.	.	.
+.	.	4b-y	-se, u-
+=21	=21	=21	=21
+2F	.	2.cc	-sa-
+4F	.	.	.
+[4F	.	4b-y	-ta a
+=22	=22	=22	=22
+4F]	.	4.b-y	fat-
+4F	.	.	.
+.	.	8a	-ti a-
+2G	.	[2a	-tro-
+=23	=23	=23	=23
+2D	.	4a]	.
+.	.	4a	-ci,
+2E-X	.	4.a	ed
+.	.	8g	em-
+=24	=24	=24	=24
+2.D	.	2a	-pi,
+.	.	4r	.
+4D	.	[4ff	Sti-
+=25	=25	=25	=25
+4D	.	4ff]	.
+4C	.	8.ee-X	-mi
+.	.	16dd	pie-
+[2BB-y	.	2dd	-tà,
+=26	=26	=26	=26
+4BB-]	.	4r	.
+4C	.	2ee-X	<Sti-
+4D	.	.	.
+4E	.	8.dd	-mi
+.	.	16cc	pie-
+=27	=27	=27	=27
+[1F	.	2cc	-tà>
+.	.	4dd	dar
+.	.	[4dd	mor-
+=28	=28	=28	=28
+2F]	.	4dd]	.
+.	.	4cc	-te al
+2E-X	.	4.cc	mio
+.	.	8b-y	do-
+=29	=29	=29	=29
+2C	.	1a	-lo-
+2D	.	.	.
+=30	=30	=30	=30
+4GG	.	2g	-re,
+2G	.	.	.
+.	.	4r	.
+4F#X	.	[4a	Sti-
+=31	=31	=31	=31
+4G	.	4a]	.
+4A	.	8.g	-mi
+.	.	16f	pie-
+2B-y	.	4f	-tà,
+.	.	[4dd	<Sti-
+=32	=32	=32	=32
+4B-y	.	4dd]	.
+4A	.	8.cc	-mi
+.	.	16b-y	pie-
+2G	.	[2b-y	-tà
+=33	=33	=33	=33
+[1F	.	4b-]	.
+.	.	4a	dar
+.	.	2a	mor-
+=34	=34	=34	=34
+2F]	.	16fL	-te al
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+.	.	16ccL	.
+.	.	16dd	.
+.	.	16ee-X	.
+.	.	16ddJ	.
+2E-X	.	[2ee-X	.
+=35	=35	=35	=35
+2C	.	4ee-]	.
+.	.	8a	mio
+.	.	8a	do-
+2D	.	2a	-lo-
+=36	=36	=36	=36
+1GG	.	1g	-re.
+=37||	=37||	=37||	=37||
+!	!	!LO:TX:a:t=Terza stanza.	!
+2BB-y	.	4r	.
+.	.	2f	Dun-
+[2BB-y	.	.	.
+.	.	8g	-qu'i'
+.	.	8a	vi-
+=38	=38	=38	=38
+4BB-]	.	1b-y	-vrò
+4C	.	.	.
+4D	.	.	.
+4E	.	.	.
+=39	=39	=39	=39
+2F	.	4r	.
+.	.	4a	tra
+4F	.	4.a	me-
+[4F	.	.	.
+.	.	8b-y	-mo-
+=40	=40	=40	=40
+4F]	.	4cc	-ran-
+4F	.	4dd	-di es-
+2G	.	8ddL	-sem-
+.	.	8ee-XJ	.
+.	.	4dd	.
+=41	=41	=41	=41
+2D	.	8ddL	.
+.	.	16cc	.
+.	.	16b-yJ	.
+.	.	16aL	.
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+2E-X	.	8gL	.
+.	.	16a	.
+.	.	16b-yJ	.
+.	.	16ccL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+=42	=42	=42	=42
+2.D	.	1a	-pi
+4D	.	.	.
+=43	=43	=43	=43
+4D	.	2r	.
+4C	.	.	.
+[2BB-y	.	4r	.
+.	.	[4ff	Mi-
+=44	=44	=44	=44
+4BB-]	.	8ff]	.
+.	.	8ee-X	-se-
+4C	.	4ee-X	-ro
+4D	.	2ee-X	mo-
+4E	.	.	.
+=45	=45	=45	=45
+[1F	.	2.cc	-stri
+.	.	[4cc	d'in-
+=46	=46	=46	=46
+2F]	.	4cc]	.
+.	.	16ddL	-fe-
+.	.	16cc	.
+.	.	16b-y	.
+.	.	16aJ	.
+2E-X	.	[2a	-li-
+=47	=47	=47	=47
+2C	.	4a]	.
+.	.	16aL	-ce a-
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16b-yJ	.
+2D	.	2a	-mo-
+=48	=48	=48	=48
+4GG	.	2g	-re,
+2G	.	.	.
+.	.	2r	.
+4F#X	.	.	.
+=49	=49	=49	=49
+4G	.	2r	.
+4A	.	.	.
+2B-y	.	4r	.
+.	.	[4ff	Mi-
+=50	=50	=50	=50
+2A	.	8ff]	.
+.	.	8ee-X	-se-
+.	.	4ee-X	-ro
+2G	.	2ee-X	mo-
+=51	=51	=51	=51
+[1F	.	2cc	-stro
+.	.	4a	d'in-
+.	.	4a	-fe-
+=52	=52	=52	=52
+2F]	.	8aL	-li-
+.	.	16b-y	.
+.	.	16ccJ	.
+.	.	[4dd	-ce a-
+2E-X	.	8dd]L	.
+.	.	16ee-i	.
+.	.	16ddJ	.
+.	.	16ccL	.
+.	.	16b-y	.
+.	.	16a	.
+.	.	16gJ	.
+=53	=53	=53	=53
+2C	.	1a	-mo-
+2D	.	.	.
+=54	=54	=54	=54
+1GG	.	1g	-re.
+=55||	=55||	=55||	=55||
+!	!	!LO:TX:a:t=Quarta, & ultima stanza.	!
+1B-y	.	2r	.
+.	.	[2b-y	Mi-
+=56	=56	=56	=56
+2A	.	4b-]	.
+.	.	8b-y	-se-
+.	.	8b-y	-ro
+2G	.	2b-y	mo-
+=57	=57	=57	=57
+2F	.	2a	-stro,
+4F	.	4r	.
+[4F	.	4ff	a
+=58	=58	=58	=58
+4F]	.	4dd	cui
+4F	.	2cc	sol
+2G	.	.	.
+.	.	[4b-y	pe-
+=59	=59	=59	=59
+2C	.	4b-]	.
+.	.	4a	-na è
+2E-X	.	4.a	de-
+.	.	16b-yL	.
+.	.	16ccJ	.
+=60	=60	=60	=60
+2.D	.	2a	-gna
+.	.	4r	.
+4D	.	8.a	De
+.	.	16b-y	l'im-
+=61	=61	=61	=61
+4D	.	4b-y	-men-
+4C	.	8.b-y	-sa
+.	.	16a	pie-
+[2BB-y	.	8b-yL	-tà
+.	.	8ccJ	.
+.	.	8b-yL	.
+.	.	8ccJ	.
+=62	=62	=62	=62
+4BB-]	.	8ddL	.
+.	.	8eeJ	.
+4C	.	8ddL	.
+.	.	8eeJ	.
+4D	.	[2ff	.
+4E	.	.	.
+=63	=63	=63	=63
+[1F	.	8ff]L	.
+.	.	16ee	.
+.	.	16ddJ	.
+.	.	16ccL	.
+.	.	16b-y	.
+.	.	16a	.
+.	.	16gJ	.
+.	.	16fL	.
+.	.	16e	.
+.	.	16d	.
+.	.	16eJ	.
+.	.	16fL	.
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+=64	=64	=64	=64
+2F]	.	8ccL	.
+.	.	16f	.
+.	.	16gJ	.
+.	.	16aL	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16ddJ	.
+2E-X	.	16ee-XL	.
+.	.	16ff	.
+.	.	8ggJ	.
+.	.	4a	la
+=65	=65	=65	=65
+2C	.	4.a	vi-
+.	.	8a	-ta in-
+2D	.	2a	-de-
+=66	=66	=66	=66
+4GG	.	4g	-gna,
+2G	.	8.dd	De
+.	.	16ee-X	l'im-
+.	.	4ee-X	-men-
+4F#X	.	8.ee-X	-sa
+.	.	16dd	pie-
+=67	=67	=67	=67
+4G	.	8ee-XL	-tà
+.	.	8ddJ	.
+4A	.	8ddL	.
+.	.	8ccJ	.
+2B-y	.	8ddL	.
+.	.	8ccJ	.
+.	.	8ccL	.
+.	.	8b-yJ	.
+=68	=68	=68	=68
+2A	.	8ccL	.
+.	.	8b-yJ	.
+.	.	8b-yL	.
+.	.	8aJ	.
+2G	.	8b-yL	.
+.	.	8aJ	.
+.	.	8aL	.
+.	.	8gJ	.
+=69	=69	=69	=69
+1F	.	8aL	la
+.	.	16cc	.
+.	.	16b-yJ	.
+.	.	16aL	.
+.	.	16g	.
+.	.	16f	.
+.	.	16eJ	.
+.	.	16fL	.
+.	.	16c	.
+.	.	16d	.
+.	.	16eJ	.
+.	.	16fL	.
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+=70	=70	=70	=70
+2F	.	16ccL	.
+.	.	16f	.
+.	.	16g	.
+.	.	16aJ	.
+.	.	16b-yL	.
+.	.	16ccJ	.
+.	.	4dd	.
+2E-X	.	.	.
+.	.	16ccL	.
+.	.	16b-yJ	.
+.	.	16aL	.
+.	.	16b-y	.
+.	.	[8gJ	.
+=71	=71	=71	=71
+2C	.	16g]L	.
+.	.	32a	.
+.	.	32b-y	.
+.	.	32cc	.
+.	.	32dd	.
+.	.	32ee-X	.
+.	.	32ffJ	.
+.	.	8gg	.
+.	.	16a	vi-
+.	.	16a	-ta in-
+2D	.	2a	-de-
+=72	=72	=72	=72
+1GGl	.	1gl	-gna.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/02
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/02
+!!@@BEGIN:	VERSEDATA
+!!@CATALOGNUM:	Tsg12076
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Passa pur questo petto, e feri scempi
+!!@CANTO:		XII
+!!@OTTAVA:	76
+!!@MANUSRC:	G-Al, G-Am, G-Au, G-Br<sub>1</sub>, G-Br<sub>2</sub>, G-Cv, G-Es<sub>1</sub>, G-Es<sub>2</sub>, G-Es<sub>3</sub>, G-F, G-Fr, G-Fr<sub>1</sub>, G-Fr<sub>2</sub>, G-Mc, G-Mc<sub>1</sub>, G-Mg, G-Mr, G-Mt, G-N, G-Ol
+!!@PRINTSRC:	G-1580CM, G-1581B, G-1581CV, G-1581R, G-1581MR, G-1581P, G-1581V, G-1581V<sub>bis</sub>, G-1582C, G-1582M, G-1582MC, G-1582P, G-1582SC, G-1582SC<sub>bis</sub>, G-1583S, G-1584O, G-1584S, G-1585C, G-1585S, G-1588S, G-1589S, G-1590B, G-1590S, G-1592S, G-1593S, G-1594C, G-1595C, G-1597C, G-1598C, G-1599C, G-1600C, G-1600S, G-1601C, G-1601R, G-1602C, G-1604C, G-1604Cl, G-1604F, G-1604P, G-1606B, G-1606B<sub>bis</sub>, G-1606L, G-1607ZR, G-1608DP, G-1609GC, G-1610M, G-1611S, G-1611V, G-1612P, G-1613M, G-1613P, G-1613V, G-1615P, G-1616M, G-1617P, G-1619B, G-1619V, G-1620M, G-1620S, G-1621R, G-1624I, G-1624MT, G-1625C, G-1625S, G-1625SS, G-1626C, G-1626Co, G-1627M, G-1628T, G-1628Tu, G-1630L, G-1630T, G-1632FT, G-1639CF, G-1642M, G-1643I, G-1644P, G-1644S
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Angelo Solerti
+!!@EDITION_TITLE: Gerusalemme liberata. Poema eroico di Torquato Tasso. Edizione critica sui manoscritti e le prime stampe.
+!!@EDITION_LOC:	Florence
+!!@EDITION_PUB:	G. Barbera
+!!@EDITION_DATE:  1895
+!!@EDITION_VOL:
+!!@EDITION_PAGE:
+!!@TRANSLATOR:	Emiliano Ricciardi
+!!@VERSE:
+!!	Passa pur questo petto, e fieri scempi
+!!	Col ferro tuo crudel fà del mio core.
+!!	Ma forse, usata a’ fatti atroci ed empi,
+!!	Stimi pietà dar morte al mio dolore.
+!!	Dunque i’ vivrò tra memorandi esempi
+!!	Misero mostro d’infelice amore:
+!!	Misero mostro, a cui sol pena è degna
+!!	Dell’immensa empietà la vita indegna.
+!!@MVERSE_DATE: 20230824
+!!@MVERSE:
+!!	Pas||sa pur que||sto pet||to,_e fe||ri scem||pi		=a
+!!	Col fer||ro tuo cru|del|| fà del mio co||re.		=b
+!!	Ma for||se,_u|sa||ta_a’ fat||ti_a|tro||ci_ed em||pi,	=a
+!!	Sti||mi pie|tà|| dar mor||te_al mio do|lo||re.		=b
+!!	Dun||que_i’ vi|vrò|| tra me|mo|ran||di_e|sem||pi	=a
+!!	Mi||se|ro mo||stro d’in|fe|li||ce_a|mo||re:		=b
+!!	Mi||se|ro mo||stro,_a cui sol pe||na_è de||gna		=c
+!!	Dell’im|men||sa_em|pie|tà|| la vi||ta_in|de||gna.	=c
+!!@TVERSE:
+!!	Pass through this chest, and fierce slaughter
+!!	With your cruel iron make of my heart.
+!!	But perhaps, used to deeds atrocious and wicked,
+!!	You deem it pity to give death to my sorrow.
+!!	Therefore I will live among memorable examples
+!!	A miserable monster of unhappy love:
+!!	A miserable monster, for whom the only punishment worthy
+!!	Of his immense wickedness is an unworthy life.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:  Torquato Tasso, <i>Gerusalemme liberata</i>, ed. Lanfranco Caretti, 2 vols. (Bari: Laterza, 1967).
+!!@ATTRIBUTION_ABOUT:
+!!@DATING:	mid-1560s through 1570s
+!!@DEDICATEE:	Duke Alfonso II d'Este
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN: SETTING
+!!@CATALOGNUM:	Tsg12076a
+!!@CANTO:		XII
+!!@OTTAVA:	76
+!!@TITLE:	Passa pur questo petto, e feri scempi
+!!@COMPOSER:	Cifra, Antonio
+!!@PARTS:		4 (verses 1-2; 3-4; 5-6; 7-8)
+!!@PRINCEPSTITLE:	Li diversi scherzi a due, a tre et quattro voci. Libro quinto
+!!@PRINCEPSLOC:	Rome
+!!@NORMLOC:	Rome
+!!@NORMPUB:	Giovanni Battista Robletti
+!!@NORMPUBSHORT:	Robletti
+!!@PRINCEPSPUB:	Giovanni Battista Robletti
+!!@PRINCEPSYEAR:	1617
+!!@PRINCEPSRISM:	C 2221
+!!@OVOICES:	1+bc
+!!@EXTANTVOICES:	1+bc
+!!@OMENSURATION:	C
+!!@OCLEFS:	C1,F4
+!!@OTIME:		
+!!@OKEYSIG:	b-
+!!@FINAL:		(G)(G)(G)G
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@REPRINTS:	
+!!@YOUTUBE:	Re_f82e0aFA
+!!@YOUTUBESTART:	239
+!!@YOUTUBEEND:	520
+!!@@END: SETTING

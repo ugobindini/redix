@@ -1,0 +1,318 @@
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a sei voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1590
+!!!PUB-format:
+!!!RISM: M 1503
+!!!rime: 333
+!!!AGN: Madrigal
+!!!SCT: Trm0333h
+!!!SCA: Trm0333h
+!!!original-voices: 6
+!!!extant-voices: 2
+!!!complete: N
+!!!final: G
+!!!COM: Mazza, Francesco
+!!!OTL: Gelo ha Madonna il seno
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Quinto	*	*I"Tenore	*
+*I'V	*	*I'T	*
+*oclefC3	*	*oclefC3	*
+*clefGv2	*	*clefGv2	*
+*k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*
+=1	=1	=1	=1
+2G	Ge-	2G	Ge-
+4B	-lo ha	4G	-lo ha
+4c	ma-	4A	ma-
+2d	-don-	4B	-don-
+.	.	4B	-na il
+2e	-na il	2c	se-
+=2	=2	=2	=2
+2d	se-	2G	-no,
+2c	-no,	2r	.
+1r	.	1r	.
+=3	=3	=3	=3
+4r	.	4r	.
+4g	Ge-	4G	Ge-
+4e	-lo ha	4A	-lo ha
+4c	ma-	4A	ma-
+4g	-don-	2.G	-don-
+4e	-na il	.	.
+2d	se-	.	.
+.	.	4G	-na il
+=4	=4	=4	=4
+4c	-no,	1c	se-
+4e	e	.	.
+8eL	fiam-	.	.
+8d	.	.	.
+8c	.	.	.
+8BJ	.	.	.
+2.A	.	2c	-no,
+.	.	4r	.
+4A	-ma il	4A	e
+=5	=5	=5	=5
+2d	vol-	8BL	fiam-
+.	.	8A	.
+.	.	8B	.
+.	.	8cJ	.
+4G	-to,	4d	.
+4g	e	4A	-ma il
+4e	fiam-	4e	vol-
+4f	-ma il	4.a	.
+2e	vol-	.	.
+.	.	8g	.
+.	.	4e	.
+=6	=6	=6	=6
+2d	-to;	2f#X	-to;
+4r	.	2r	.
+4d	Io	.	.
+4G	son	1r	.
+4.c	ghiac-	.	.
+8c	-cio	.	.
+4e	di	.	.
+=7	=7	=7	=7
+1d	fuo-	2r	.
+.	.	4r	.
+.	.	4d	E'l
+2d	-re	4G	fo-
+.	.	4A	-c'ho
+2G	E'l	4B	den-
+.	.	4c	-tr'ac-
+=8	=8	=8	=8
+4G	fo-	4.d	-col-
+4A	-c'ho	.	.
+.	.	8c	.
+4B	den-	4d	.
+4c	-tr'ac-	4e	.
+1d	-col-	4f#X	.
+.	.	2g	.
+.	.	4f#X	.
+=9	=9	=9	=9
+2G	-to.	4g	-to.
+.	.	2d	Que-
+2r	.	.	.
+.	.	4g	-st'a
+1r	.	4e	vien
+.	.	2c	per-
+.	.	4A	-ch'a-
+=10	=10	=10	=10
+1r	.	2e	-mo-
+.	.	2e	-re
+4e	Nel-	1r	.
+8e	-la	.	.
+8e	sua	.	.
+4e	fron-	.	.
+4g	-t'al-	.	.
+=11	=11	=11	=11
+4.g	-ber-	0r	.
+8d	-ga e	.	.
+4e	nel	.	.
+4g	mio	.	.
+2f#X	pet-	.	.
+2f#i	-to,	.	.
+=12	=12	=12	=12
+0r	.	4r	.
+.	.	4d	Né
+.	.	2d	mai
+.	.	4.e	can-
+.	.	8e	-gia
+.	.	2r	ri-
+=13	=13	=13	=13
+2r	.	2e	-cet-
+4r	.	2d	-to
+4G	Sì	.	.
+4A	ch'io	1r	.
+4B	l'hab-	.	.
+4c	-bia	.	.
+4d	ne	.	.
+=14	=14	=14	=14
+2e	gl'och-	1r	.
+2d	-chi,	.	.
+1r	.	2c	Sì
+.	.	4c	ch'io
+.	.	4d	l'hab-
+=15	=15	=15	=15
+0r	.	4e	-bia
+.	.	4f	ne
+.	.	2.g	gl'oc-
+.	.	8fL	.
+.	.	8eJ	.
+.	.	4f	.
+.	.	8eL	.
+.	.	8dJ	.
+=16	=16	=16	=16
+0r	.	2e	.
+.	.	2d	-chi,
+.	.	4r	.
+.	.	4.c	el-
+.	.	8c	-la
+.	.	4c	nel-
+=17	=17	=17	=17
+0r	.	4.G	-co-
+.	.	8A	.
+.	.	8BL	.
+.	.	8c	.
+.	.	8d	.
+.	.	8eJ	.
+.	.	4f#X	.
+.	.	2g	.
+.	.	4f#X	.
+=18	=18	=18	=18
+4r	.	1g	-re,
+2d	Que-	.	.
+4g	-st'a-	.	.
+2g	-vien	1r	.
+4g	per-	.	.
+4f	-ch'a-	.	.
+=19	=19	=19	=19
+2e	-mo-	0r	.
+2e	-re	.	.
+4e	Nel-	.	.
+8e	-la	.	.
+8e	sua	.	.
+4e	fron-	.	.
+4g	-t'al-	.	.
+=20	=20	=20	=20
+4.g	-ber-	0r	.
+8d	-ga e	.	.
+4e	nel	.	.
+4g	mio	.	.
+2f#X	pet-	.	.
+2f#i	-to,	.	.
+=21	=21	=21	=21
+0r	.	4r	.
+.	.	4d	Né
+.	.	2d	mai
+.	.	4.e	can-
+.	.	8e	-gia
+.	.	2f	ri-
+=22	=22	=22	=22
+4r	.	2e	-cet-
+2g	Sì	.	.
+.	.	2d	-to
+4f	ch'io	.	.
+2e	l'hab-	2.c	Sì
+4e	-bia	.	.
+4d	ne	4d	ch'io
+=23	=23	=23	=23
+2c	gl'och-	2e	l'hab-
+2c	-chi,	4e	-bia
+.	.	4f	ne-
+2.e	Sì	2g	-gl'oc-
+.	.	2c	-chi,
+4f	ch'io	.	.
+=24	=24	=24	=24
+2e	l'hab-	0r	.
+4f	-bia	.	.
+4c	ne	.	.
+4.c	gl'oc-	.	.
+8d	.	.	.
+2e	.	.	.
+=25	=25	=25	=25
+2d	-chi,	2r	.
+2.e	el-	1c	el-
+4f	.	.	.
+2g	.	2e	-la
+=26	=26	=26	=26
+2g	-la	2e	nel
+2G	nel	2.g	co-
+1A	co-	.	.
+.	.	8f#XL	.
+.	.	8eJ	.
+.	.	2f#X	.
+=27	=27	=27	=27
+0Gl	-re.	0gl	-re.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2018
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2018/09/18
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/09/18 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	333
+!!@CATALOGNUM:	Trm0333
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Gelo ha Madonna il seno, e fiamma il volto
+!!@GENRE:		madrigale
+!!@MANUSRC:	A<sub>3</sub>, Amz, C, E<sub>1</sub>, E<sub>7</sub>, Flc<sub>2</sub>, I<sub>4</sub>, I<sub>5</sub>, M<sub>7</sub>, P<sub>4</sub>, V<sub>2</sub>, V<sub>8</sub>, V<sub>13/E1</sub>, W
+!!@PRINTSRC:	8, 9, 11, 12, 13, 15, 20, 24, 29, 33, 67, 93, 141, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	Rende la ragione perché la sua donna sia amata ed egli amante.
+!!@ABOUTEN:	He explains the reason why his lady is the beloved and he is the lover.
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  381
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Gelo ha Madonna il seno, e fiamma il volto;
+!!	Io son ghiaccio di fuore
+!!	E 'l foco ho dentro accolto.
+!!	Questo avvien, perch'Amore
+!!	Ne la sua fronte alberga e nel mio petto,
+!!	Né mai cangia ricetto
+!!	Sì ch'io l'abbia ne gli occhi, ella nel core.
+!!@TVERSE:
+!!	Ice has my lady [in] her breast, and flame [in] her face;
+!!	I am ice on the outside
+!!	And fire I have embraced within.
+!!	This happens because Love
+!!	In her forehead dwells and in my heart,
+!!	Nor ever does it change refuge
+!!	So that I have it in my eyes, she in her heart.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   Torquato Tasso, <i>Rime d’amore (secondo il codice
+!!		Chigiano L VIII 302)</i>, eds. Franco Gavazzeni and
+!!		Vercingetorige Martignone, vol. 4 of <i>Edizione
+!!		Nazionale delle opere di Torquato Tasso</i>
+!!		(Alessandria: Edizioni Dell’Orso, 2004), 170.
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		Among other authoritative sources (see Literary
+!!		Sources), this poem appears in the autograph Chigiano
+!!		L.VIII.302 (Biblioteca Vaticana, Rome), compiled
+!!		around 1584&ndash;85.
+!!@DATING:	In or before 1578
+!!	<br>
+!!	The earliest datable appearance of this poem is in a musical setting by the Veronese composer Paolo Bellasio, published in 1578 (see Musical Settings).
+!!@DEDICATEE:
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0333h
+!!@RIMETITLE:	Gelo ha Madonna il seno
+!!@SOLERTI:	333
+!!@COMPOSER:	Mazza, Francesco
+!!@PRINCEPSTITLE:	Il primo libro de madrigali a sei voci
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Angelo Gardano
+!!@NORMPUBSHORT:	Gardano
+!!@PRINCEPSPUB:	Gardano
+!!@PRINCEPSYEAR:	1590
+!!@PRINCEPSRISM:	M 1503
+!!@REPRINTS:	
+!!@OVOICES:	6
+!!@EXTANTVOICES:	2
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C3,C3
+!!@OMENSURATION:	C
+!!@OKEYSIG:	-
+!!@FINAL:	G
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@NOTE:		
+!!@@END:		SETTING

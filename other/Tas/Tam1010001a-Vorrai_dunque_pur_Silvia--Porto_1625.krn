@@ -1,0 +1,612 @@
+!!!COM: Porto, Allegro
+!!!CDT:
+!!!PTL: Madrigali à cinque voci co'l basso continuo
+!!!PPP: Venice
+!!!PPR: Gardano
+!!!PDT: 1625
+!!!PUB-format:
+!!!RISM: P 5240
+!!!OTL:	Vorrai dunque pur Silvia
+!!!act: I
+!!!scene: 1
+!!!verse: 1
+!!!AGN: 
+!!!SCT: Tam1010001a
+!!!SCA: Tam1010001a
+!!!original-voices: 5
+!!!extant-voices: 2
+!!!complete: N
+!!!final: G
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Tenore	*	*I"Alto	*
+*I'T	*	*I'A	*
+*oclefC4	*	*oclefC3	*
+*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*
+=1	=1	=1	=1
+1r	.	0r	.
+4r	.	.	.
+4D	Vor-	.	.
+8F	-rai	.	.
+16DL	dun-	.	.
+16E	.	.	.
+16F	.	.	.
+16G	.	.	.
+16A	.	.	.
+16B-yJ	.	.	.
+=2	=2	=2	=2
+4c	.	1r	.
+8B-y	-que	.	.
+8B-y	pur	.	.
+2B-y	Sil-	.	.
+4A	-via,	4r	.
+4r	.	4B-y	Vor-
+2r	.	8d	-rai
+.	.	16B-yL	dun-
+.	.	16c	.
+.	.	16d	.
+.	.	16e	.
+.	.	16f	.
+.	.	16gJ	.
+=3	=3	=3	=3
+1r	.	2.a	.
+.	.	8.g	-que
+.	.	16f	pur
+2r	.	2e	Sil-
+4r	.	2e	-via
+4C	Vor-	.	.
+=4	=4	=4	=4
+8E	-rai	1r	.
+16CL	dun-	.	.
+16D	.	.	.
+16E	.	.	.
+16F	.	.	.
+16G	.	.	.
+16AJ	.	.	.
+2.B-y	.	.	.
+.	.	2r	.
+8A	-que	.	.
+8G	pur	.	.
+4F	Sil-	4r	.
+4F	-via	8c	da'
+.	.	8c	pia-
+=5	=5	=5	=5
+4r	.	8cL	-ce-
+.	.	16d	.
+.	.	16e	.
+8F	da'	8fJ	.
+8F	pia-	8fJL	-ri,
+8FL	-ce-	8d	da'
+16G	.	8d	pia-
+16A	.	.	.
+8B-yJ	.	8dL	-ce-
+8B-yJL	-ri,	16e	.
+.	.	16fJ	.
+8B-y	da'	2g	.
+8B-y	pia-	.	.
+8B-yL	-ce-	.	.
+16c	.	.	.
+16dJ	.	.	.
+8e-X	.	2c	-ri,
+8e-i	-ri,	.	.
+8c	da'	.	.
+8c	pia-	.	.
+=6	=6	=6	=6
+8cL	-ce-	4r	.
+16d	.	.	.
+16e	.	.	.
+8fJ	.	8d	da'
+8fJL	-ri,	8d	pia-
+8B-y	da'	8dL	-ce-
+8B-y	pia-	16e	.
+.	.	16f	.
+8B-yL	-ce-	8gJ	.
+16c	.	8gJL	-ri,
+16dJ	.	.	.
+8e-X	.	2r	.
+8e-i	-ri,	.	.
+4r	.	.	.
+4r	.	8c	da'
+.	.	8c	pia-
+8A	da'	8cL	-ce-
+8A	pia-	16d	.
+.	.	16eJ	.
+=7	=7	=7	=7
+8AL	-ce-	8f	.
+16B-y	.	8f	-ri,
+16c	.	.	.
+8dJ	.	8d	da'
+8dJL	-ri,	8d	pia-
+8B-y	da'	8dL	-ce-
+8B-y	pia-	16e	.
+.	.	16f	.
+8B-yL	-ce-	8gJ	.
+16c	.	8gJL	-ri,
+16dJ	.	.	.
+4e-X	.	8B-y	da'
+.	.	8B-y	pia-
+8e-i	-ri	8B-yL	-ce-
+8e-i	di	16c	.
+.	.	16dJ	.
+8e-i	Ve-	4e-X	.
+8e-i	-ne-	.	.
+8d	-re	8f	-ri
+8d	lon-	8f	di
+=8	=8	=8	=8
+1c	-ta-	8f	Ve-
+.	.	8f	-ne-
+.	.	8f	-re
+.	.	8f	lon-
+.	.	2f	-ta-
+8B-y	-na	8f	-na
+8D	Me-	8f	Me-
+8D	-nar-	8f	-nar-
+8D	-ne	8f	-ne
+8E	tu	8g	tu
+16E	que-	16g	que-
+16E	-sta	16g	-sta
+8E	tua	8g	tua
+16E	gio-	16g	gio-
+16E	-vi-	16g	-vi-
+=9	=9	=9	=9
+2F	-nez-	4a	-nez-
+.	.	4a	-za,
+2G	-za,	2r	.
+2r	.	1r	.
+8r	.	.	.
+8B-y	Me-	.	.
+8B-y	-nar-	.	.
+8B-y	-ne	.	.
+=10	=10	=10	=10
+8c	tu	2r	.
+16c	ques-	.	.
+16c	-ta	.	.
+8c	tua	.	.
+16c	gio-	.	.
+16c	-vi-	.	.
+2d	-nez-	8r	.
+.	.	8d	Me-
+.	.	8d	-nar-
+.	.	8d	-ne
+1c	.	8e	tu
+.	.	16e	ques-
+.	.	16e	-ta
+.	.	8e	tua
+.	.	16e	gio-
+.	.	16e	-vi-
+.	.	2f	-nez-
+=11	=11	=11	=11
+2B-y	-za,	2f	-za,
+2r	.	8r	.
+.	.	8e-X	Me-
+.	.	8e-i	-nar-
+.	.	8e-i	-ne
+8r	.	8f	tu
+8d	Me-	16f	ques-
+.	.	16f	-ta
+8d	-nar-	8f	tua
+8d	-ne	16f	gio-
+.	.	16f	-vi-
+8e	tu	4g	-nez-
+16e	ques-	.	.
+16e	-ta	.	.
+8e	tua	4g	-za,
+16e	gio-	.	.
+16e	-vi-	.	.
+=12	=12	=12	=12
+4.f	-nez-	8r	.
+.	.	8c	me-
+.	.	8c	-nar-
+16eL	.	8c	-ne
+16dJ	.	.	.
+2.c	.	8f	tu
+.	.	16f	ques-
+.	.	16f	-ta
+.	.	8f	tua
+.	.	16f	gio-
+.	.	16f	-vi-
+.	.	2d	-nez-
+4BnX	.	.	.
+4c	-za	4e	-za
+4C	Nel	4e	Nel
+=13	=13	=13	=13
+4C#X	dol-	4e	dol-
+4C#i	-ce	4e	-ce
+4D	no-	4f	no-
+8D	-me	8f	-me
+8D	di	8f	di
+4D	Mad-	4f#X	Mad-
+8D	-re u-	8f#i	-re u-
+8D	-di-	8f#i	-di-
+4E	-rai	4g	-rai
+4E	ne in-	4g	ne in-
+=14	=14	=14	=14
+8E	-tor-	8g	-tor-
+8E	-no	8g	-no
+8E	ti	8g	ti
+8E	ved-	8g	ved-
+4.F	-rai	4.a	-rai
+8F	Vez-	8a	Vez-
+4F#X	-zo-	4a	-zo-
+4F#i	-sa-	4a	-sa-
+4G	-men-	4e	-men-
+4G	-te	8e	-te,
+.	.	8e	nel
+=15	=15	=15	=15
+2r	.	4e	dol-
+.	.	4e	-ce
+4r	.	4f	no-
+8r	.	8f	-me
+8f	scher-	8f	di
+8.dL	-zar,	4f	Mad-
+16e	.	.	.
+16f	.	8f	-re u-
+16e	.	.	.
+16d	.	8f	-di-
+16cJ	.	.	.
+2B-y	.	4g	-rai
+.	.	4g	ne in-
+=16	=16	=16	=16
+2r	.	8g	-tor-
+.	.	8g	-no
+.	.	8g	ti
+.	.	8g	ved-
+4r	.	4.a	-rai
+8r	.	.	.
+8A	scher-	8a	Vez-
+8.FL	-zar,	4a	-zo-
+16G	.	.	.
+16A	.	4a	-sa-
+16G	.	.	.
+16F	.	.	.
+16EJ	.	.	.
+4D	.	4g	-men-
+4G	nel	8B-y	-te,
+.	.	8B-y	nel
+=17	=17	=17	=17
+4G	dol-	4BnX	dol-
+4G	-ce	4Bni	-ce
+4A	no-	4c	no-
+8A	-me	8c	-me
+8A	di	8c	di
+4A	Mad-	4d	Mad-
+8A	-re u-	8c	-re u-
+8A	-di-	8c	-di-
+4B-y	-rai	4d	-rai
+4B-y	ne in-	4d	ne in-
+=18	=18	=18	=18
+8B-y	-tor-	8d	-tor-
+8B-y	-no	8d	-no
+8B-y	ti	8d	ti
+8B-y	ved-	8d	ved-
+4.c	-rai	4.e-X	-rai,
+8c	Vez-	8e-i	Vez-
+4c	-zo-	4e-i	-zo-
+4c	-sa-	4e-i	-sa-
+2d	-men-	2f	-men-
+=19	=19	=19	=19
+2d	-te	4.f	-te
+.	.	8f	scher-
+4r	.	8.e-XL	-zar,
+.	.	16f	.
+8r	.	16g	.
+.	.	16f	.
+8c	scher-	16e-i	.
+.	.	16dJ	.
+8.cL	-zar,	4.c	.
+16d	.	.	.
+16e	.	.	.
+16d	.	.	.
+16c	.	8a	scher-
+16B-yJ	.	.	.
+2A	.	8.fL	-zar,
+.	.	16g	.
+.	.	16a	.
+.	.	16g	.
+.	.	16f	.
+.	.	16e-iJ	.
+=20	=20	=20	=20
+4r	.	2d	.
+4B-y	nel	.	.
+4B-y	dol-	4r	.
+4B-y	-ce	8r	.
+.	.	8g	<scher-
+4c	no-	8.e-XL	-zar,
+.	.	16f	.
+8c	-me	16g	.
+.	.	16f	.
+8c	di	16e-i	.
+.	.	16dJ	.
+4c	Mad-	4c	>
+8d	-re u-	4f	nel
+8d	-di-	.	.
+=21	=21	=21	=21
+4A	-rai	4d	dol-
+4A	ne in-	4d	-ce
+8B-y	-tor-	4d	no-
+8B-y	-no	.	.
+8B-y	ti	8d	-me
+8B-y	ved-	8d	di
+2B-y	-rai	4d	Mad-
+.	.	8d	-re u-
+.	.	8d	-di-
+2r	.	4e-X	-rai
+.	.	4e-i	ne in-
+=22	=22	=22	=22
+1r	.	8e-i	-tor-
+.	.	8e-i	-no
+.	.	8e-i	ti
+.	.	8e-i	ve-
+.	.	4.f	-drai
+.	.	8f	Vez-
+2r	.	8e-X	-zo-
+.	.	8e-i	-sa-
+.	.	8f	-men-
+.	.	8f	-te
+4r	.	4r	.
+8r	.	8r	.
+8e-X	scher-	8g	scher-
+=23	=23	=23	=23
+8.cL	-zar,	8.e-XL	-zar,
+16d	.	16f	.
+16e-i	.	16g	.
+16d	.	16f	.
+16c	.	16e-i	.
+16B-yJ	.	16dJ	.
+4.A	.	4.c	.
+8c	scher-	8e-X	scher-
+8.AL	-zar,	8.cL	-zar,
+16B-y	.	16d	.
+16c	.	16e-i	.
+16B-y	.	16d	.
+16A	.	16c	.
+16GJ	.	16B-yJ	.
+2F	.	2A	.
+=24	=24	=24	=24
+2r	.	1r	.
+4r	.	.	.
+8r	.	.	.
+8B-y	scher-	.	.
+8.GL	-zar,	4r	.
+16A	.	.	.
+16B-y	.	8r	.
+16A	.	.	.
+16G	.	8d	scher-
+16FJ	.	.	.
+2E-X	.	8.e-XL	-zar,
+.	.	16f	.
+.	.	16g	.
+.	.	16f	.
+.	.	16e-i	.
+.	.	16dJ	.
+=25	=25	=25	=25
+0r	.	8c	.
+.	.	8c	i
+.	.	8d	Fi-
+.	.	8e	-gli
+.	.	8f	Par-
+.	.	8f	-go-
+.	.	8e	-let-
+.	.	8f	-ti,
+.	.	8g	Par-
+.	.	8g	-go-
+.	.	4.f	-let-
+.	.	8f	-ti,
+.	.	8g	Par-
+.	.	8g	-go-
+=26	=26	=26	=26
+1r	.	2a	-let-
+.	.	2d	-ti?
+4r	.	4r	.
+2B-y	ah,	2f	ah,
+8c	can-	8f	can-
+8c	-gia,	8f	-gia,
+=27	=27	=27	=27
+8c	can-	8f	can-
+8c	-gia,	8f	-gia,
+2c	ah,	2g	ah,
+8d	can-	8g	can-
+8d	-gia,	8g	-gia
+8d	can-	8g	can-
+8B-y	-gia,	8g	-gia,
+2A	pre-	2f	pre-
+8BnX	-go,	8g	-go,
+8Bni	con-	8g	con-
+=28	=28	=28	=28
+2A	-si-	2e	-si-
+4A	-glio,	4f#X	-glio,
+4r	.	4r	.
+8B-y	paz-	2r	.
+8c	-za-	.	.
+16dL	-rel-	.	.
+16e	.	.	.
+16d	.	.	.
+16eJ	.	.	.
+4f	.	4r	.
+4f	-la,	4a	che
+=29	=29	=29	=29
+8A	paz-	4a	se-
+8B-y	-za-	.	.
+16cL	-rel-	4g	-i,
+16d	.	.	.
+16c	.	.	.
+16dJ	.	.	.
+4e-X	.	4r	.
+4e-i	-la,	4g	che
+8G	paz-	2g	se-
+8A	-za-	.	.
+2B-y	-rel-	.	.
+.	.	4f	-i,
+8c	-la	4g	che
+8c	che	.	.
+=30	=30	=30	=30
+2c	se-	2f	se-
+2B-y	-i,	2f	-i,
+2r	.	4r	.
+.	.	8B-y	paz-
+.	.	8c	-za-
+4.f	paz-	16dL	-rel-
+.	.	16e	.
+.	.	16d	.
+.	.	16eJ	.
+.	.	4f	.
+8f	-za-	.	.
+=31	=31	=31	=31
+2c	-rel-	4f	-la,
+.	.	8e-X	paz-
+.	.	8d	-za-
+2g	-la,	16cL	-rel-
+.	.	16d	.
+.	.	16c	.
+.	.	16dJ	.
+.	.	4e-X	.
+4.g	paz-	4e-i	-la,
+.	.	8G	paz-
+8g	-za-	8A	-za-
+8g	-rel-	4B-y	-rel-
+8g	-la	.	.
+16gL	che	8e-i	-la
+16f	.	.	.
+16e-X	.	8g	che
+16dJ	.	.	.
+=32	=32	=32	=32
+2c	se-	2f	se-
+2d	-i,	4B-y	-i,
+.	.	8d	paz-
+.	.	8e-i	-za-
+4r	.	2f	-rel-
+8F	paz-	.	.
+8G	-za-	.	.
+16AL	-rel-	4c	-la,
+16B-y	.	.	.
+16A	.	.	.
+16B-yJ	.	.	.
+4c	.	8c	paz-
+.	.	8d	-za-
+=33	=33	=33	=33
+4c	-la,	2e-X	-rel-
+8E-X	paz-	.	.
+8F	-za-	.	.
+16GL	-rel-	2B-y	-la,
+16A	.	.	.
+16G	.	.	.
+16AJ	.	.	.
+4B-y	.	.	.
+4B-y	-la,	4r	.
+4r	.	8d	paz-
+.	.	8e-i	-za-
+4r	.	16fL	-rel-
+.	.	16g	.
+.	.	16f	.
+.	.	16g	.
+8A	<paz-	8aJ	.
+8B-y	-za-	8aJL	-la,
+=34	=34	=34	=34
+16cL	-rel-	2r	.
+16B-y	.	.	.
+16c	.	.	.
+16d	.	.	.
+8e-XJ	.	.	.
+8e-iJL	-la,>	.	.
+2r	.	8f	paz-
+.	.	8e	-za-
+.	.	16dL	-rel-
+.	.	16e	.
+.	.	16d	.
+.	.	16eJ	.
+4r	.	4f	.
+8c	paz-	2f	-a
+8B-y	-za-	.	.
+4A	-rel-	.	.
+8G	-la	4g	che
+8c	che	.	.
+=35	=35	=35	=35
+1A	se-	2.g	se-
+.	.	4f#X	.
+1Gl	-i.	1gl	-i.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2017/10/04
+!!!EED: Coluzzi, Seth
+!!!EEV: 2018/07/13
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/13 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@CATALOGNUM:	Tam1010001
+!!@LAST_MODIFIED: 2020/07/12
+!!@ACT:    I
+!!@SCENE:  1
+!!@VERSE:  1
+!!@TITLE:        Vorrai dunque pur, Silvia
+!!@MANUSRC:	A-Am, A-Au, A-Br, A-CM, A-F, A-Ub
+!!@PRINTSRC:	A-1580D, A-1580M, A-1581B, A-1581B<sub>bis</sub>, A-1581M, A-1581M<sub>bis</sub>, A-1581O, A-1581V, A-1582B, A-1583M, A-1583V, A-1584A, A-1585C, A-1585V, A-1585V<sub>bis</sub>, A-1588B, A-1589M, A-1589V, A-1590Mb, A-1590Mv, A-1591M, A-1591W, A-1592B, A-1596B, A-1596M, A-1599Bf, A-1599Bp, A-1600R, A-1601Bf, A-1601Bp, A-1602B, A-1603Bf, A-1603Bv, A-1603Z, A-1605R, A-1606Z, A-1608D, A-1608DP, A-1609Bf, A-1609Bv, A-1609Z, A-1611D, A-1614GT, A-1617D, A-1618B, A-1619D, A-1619I, A-1620V, A-1622D, A-1623A, A-1624M, A-1624S, A-1624T, A-1625U, A-1628U, A-1632D, A-1634R
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	
+!!@ABOUTEN:	
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Opere minori in versi di Torquato Tasso. Edizione critica sugli autografi e sulle antiche stampe.
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Zanichelli
+!!@EDITION_DATE:  1895
+!!@EDITION_VOL:	3
+!!@EDITION_PAGE:
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:	
+!!	Vorrai dunque pur, Silvia,
+!!	Da i piaceri di Venere lontana
+!!	Menarne tu questa tua giovinezza?
+!!	Né i1 dolce nome di madre udirai,
+!!	Né intorno ti vedrai vezzosamente
+!!	Scherzare i figli pargoletti? Ah, cangia,
+!!	Cangia, prego, consiglio,
+!!	Pazzarella che sei.
+!!@TVERSE:
+!!	Will you thus wish even, Silvia,
+!!	Far from the pleasures of Venus
+!!	To lead this, your youth?
+!!	Nor the sweet name of mother will you hear,
+!!	Nor around you will you see, charmingly
+!!	Playing, your little children? Ah, change,
+!!	Change, I pray, I advise,
+!!	Crazy little woman that you are.
+!!@@END:		VERSES
+!!@NEW_CRIT_ED:  Torquato Tasso, <i>Aminta. "Princeps."</i>, ed. Matteo Navone, vol. 9 of Commissione Nazionale per l'Edizione delle opere del Tasso. Studi e Testi (Alessandria: Edizioni dell'Orso, 2014).
+!!@ATTRIBUTION_ABOUT:	
+!!@DATING:	1573
+!!@DEDICATEE:	
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN: SETTING
+!!@CATALOGNUM:	Tam1010001a
+!!@ACT:		I
+!!@SCENE:		1
+!!@VERSE:		1
+!!@TITLE:		Vorrai dunque pur Silvia
+!!@COMPOSER:	Porto, Allegro
+!!@PRINCEPSTITLE:	Madrigali à cinque voci co'l basso continuo
+!!@PRINCEPSLOC:	Venice
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Gardano
+!!@NORMPUBSHORT:	Gardano
+!!@PRINCEPSPUB:	Stampa del Gardano
+!!@PRINCEPSYEAR:	1625
+!!@PRINCEPSRISM:	P 5240
+!!@OVOICES:	5
+!!@EXTANTVOICES:	2
+!!@OMENSURATION:	C
+!!@OCLEFS:	C3,C4
+!!@OTIME:		
+!!@OKEYSIG:	b-
+!!@FINAL:		G
+!!@TIMPEDITOR:	Coluzzi, Seth
+!!@PARTS:		1 of 1
+!!@REPRINTS:	
+!!@@END: SETTING

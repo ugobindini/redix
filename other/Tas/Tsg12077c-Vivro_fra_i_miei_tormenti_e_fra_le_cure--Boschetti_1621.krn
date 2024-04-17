@@ -1,0 +1,368 @@
+!!!CDT:
+!!!PTL: Giardino musicale di varii eccellenti autori
+!!!PPP: Rome
+!!!PPR: Giovanni Battista Robletti
+!!!PDT: 1621
+!!!RISM: 1621/15
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg12077c
+!!!SCA: Tsg12077c
+!!!voices:
+!!!COM: Boschetti, Giovanni Boschetto
+!!!OTL: Vivrò fra i miei tormenti e fra le cure
+**kern	**kern	**text
+*part2	*part1	*part1
+*staff2	*staff1	*staff1
+*I"[Basso continuo]	*I"[Canto]	*
+*I'Bc	*I'C	*
+*oclefF4	*oclefC1	*
+*clefF4	*clefG2	*
+*k[b-]	*k[b-]	*
+*F:	*F:	*
+*omet(C)	*omet(C)	*
+*M4/4	*M4/4	*
+=1	=1	=1
+!!LO:TX:a:t=PRIMA Parte.
+4G	4r	.
+4F	4b-y	Vi-
+4E-X	4.b-y	-vrò
+4D	.	.
+.	8b-y	fra
+=2	=2	=2
+4C	4cc	miei
+4F	4cc	tor-
+4BB-y	8.ddL	-men-
+.	16eeJ	.
+4C	8.ddL	.
+.	16eeJ	.
+=3	=3	=3
+4D	2ff	.
+4E	.	.
+4F	4cc	-ti e
+4G	8cc	le
+.	8b-y	mie
+=4	=4	=4
+4F	2cc	pe-
+4FF	.	.
+4BB-y	2b-y	-ne,
+4C	.	.
+=5	=5	=5
+4D	2r	.
+4E	.	.
+2F	4r	.
+.	4cc	Mie
+=6	=6	=6
+4E-X	4cc	giu-
+4D	4b-y	-ste
+4C	2cc	fu-
+4D	.	.
+=7	=7	=7
+4E-X	2b-y	-rie,
+4C	.	.
+4D	4.a	for-
+4BB-y	.	.
+.	8b-y	-sen-
+=8	=8	=8
+4C	4g	-na-
+4D	4f	-to A-
+2C	2g	-man-
+=9	=9	=9
+4FF	2f	-te.
+4GG	.	.
+4AA	2r	.
+4BB-y	.	.
+=10	=10	=10
+2C	4r	.
+.	4ee	Pa-
+2D	4.dd	-ven-
+.	8cc	-ta-
+=11	=11	=11
+4GG	16b-yL	-rò
+.	8.aJ	.
+4AA	16b-yL	.
+.	8.ccJ	.
+4BB-y	8ddL	.
+.	8ccJ	.
+4C	8ccL	.
+.	8b-yJ	.
+=12	=12	=12
+4D	2a	l'om-
+4E	.	.
+4F	4a	-bre
+4G	8gL	so-
+.	8fJ	.
+=13	=13	=13
+4A	4e	-lin-
+4B-y	4d	-gh'e
+4G	2e	scu-
+4A	.	.
+=14	=14	=14
+4D	2d	-re
+4E	.	.
+4F	2r	.
+4G	.	.
+=15	=15	=15
+4A	4r	.
+4AA	4cc	Ch'il
+4BB-y	4.b-y	pri-
+4C	.	.
+.	8a	-mo er-
+=16	=16	=16
+4FF	16aL	-ror
+.	16b-y	.
+.	16cc	.
+.	16ddJ	.
+4GG	16b-yL	.
+.	16cc	.
+.	16dd	.
+.	16eeJ	.
+4AA	16ccL	.
+.	16b-y	.
+.	16cc	.
+.	16aJ	.
+4BB-y	16ddL	.
+.	16cc	.
+.	16b-y	.
+.	16aJ	.
+=17	=17	=17
+4C	4g	.
+4D	4g	mi
+4E-X	4g	ri-
+4C	4a	-che-
+=18	=18	=18
+4.D	4a	-ran-
+.	4a	-no a-
+8C	.	.
+4D	2a	-van-
+4DD	.	.
+=19	=19	=19
+1GG	1g	-te.
+=20||	=20||	=20||
+!!LO:TX:a:t=SECONDA Parte.
+4G	2r	.
+4F	.	.
+4E-X	4r	.
+4D	8a	E
+.	8b-y	del
+=21	=21	=21
+4C	4cc	sol,
+4F	8b-y	che
+.	8cc	sco-
+4BB-y	8ddL	-prì
+.	16ee	.
+.	16ffJ	.
+4C	8ee-XL	.
+.	8ddJ	.
+=22	=22	=22
+4D	8ccL	.
+.	8ddJ	.
+4E	16ee-XL	.
+.	16dd	.
+.	16cc	.
+.	16b-yJ	.
+4F	8a	.
+.	8a	le
+4G	8b-y	mie
+.	8b-y	sven-
+=23	=23	=23
+4F	4.b-y	-tu-
+4FF	.	.
+.	8a	.
+4BB-y	2b-y	-re,
+4C	.	.
+=24	=24	=24
+4D	2r	.
+4E	.	.
+2F	4r	.
+.	4a	A
+=25	=25	=25
+4E-X	4.cc	schi-
+4D	.	.
+.	8b-y	-vo ed
+4C	4.b-y	in
+4D	.	.
+.	8a	or-
+=26	=26	=26
+4E-X	8.gL	-ror
+.	16aJ	.
+4C	8.gL	.
+.	16aJ	.
+4D	4.f	.
+4BB-y	.	.
+.	8g	ha-
+=27	=27	=27
+4C	4e	-vrò il
+4D	4f	sem-
+2C	4.f	-bian-
+.	8e	.
+=28	=28	=28
+4FF	2f	-te.
+4GG	.	.
+4AA	2r	.
+4BB-y	.	.
+=29	=29	=29
+2C	4r	.
+.	8g	Te-
+.	8g	-me-
+2D	4g	-rò
+.	8g	me
+.	8f#X	me-
+=30	=30	=30
+4GG	8g	-de-
+.	8g	-smo,
+4AA	8b-y	<Te-
+.	8b-y	-me-
+4BB-y	4b-y	-rò
+4C	8b-y	me
+.	8a	me-
+=31	=31	=31
+4D	16aL	-de-
+.	16g	.
+.	16a	.
+.	16fJ	.
+4E	16gL	.
+.	16e	.
+.	16f	.
+.	16gJ	.
+4F	16aL	.
+.	16g	.
+.	16f	.
+.	16eJ	.
+4G	8d	-smo,>
+.	8g	e
+=32	=32	=32
+4A	4.f	da
+4B-y	.	.
+.	8g	me
+4G	2e	stes-
+4A	.	.
+=33	=33	=33
+4D	2d	-so
+4E	.	.
+4F	2r	.
+4G	.	.
+=34	=34	=34
+4A	4r	.
+4AA	8r	.
+.	8cc	Sem-
+4BB-y	8b-y	-pre
+.	8a	fug-
+4C	8g	-gen-
+.	8cc	-d'ha-
+=35	=35	=35
+4FF	8a	-vrò,
+.	8a	<Sem-
+4GG	8g	-pre
+.	8f	fug-
+4AA	8e	-gen-
+.	8a	-d'ha-
+4BB-y	8f	-vrò,>
+.	8dd	<Sem-
+=36	=36	=36
+4C	8cc	-pre
+.	8b-y	fug-
+4D	8a	-gen-
+.	8dd	-d'ha-
+4E-X	4.b-y	-vrò>
+4C	.	.
+.	8cc	me
+=37	=37	=37
+4.D	4a	sem-
+.	4a	-pre ap-
+8C	.	.
+4D	2a	-pres-
+4DD	.	.
+=38	=38	=38
+1GGl	1gl	-so.
+==	==	==
+*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23
+!!@@BEGIN:	VERSEDATA
+!!@CATALOGNUM:	Tsg12077
+!!@LAST_MODIFIED: 2020/07/18
+!!@TITLE:		Vivrò fra i miei tormenti e fra le cure
+!!@CANTO:		XII
+!!@OTTAVA:	77
+!!@MANUSRC:	G-Al, G-Am, G-Au, G-Br<sub>1</sub>, G-Br<sub>2</sub>, G-Cv, G-Es<sub>1</sub>, G-Es<sub>2</sub>, G-Es<sub>3</sub>, G-F, G-Fr, G-Fr<sub>1</sub>, G-Fr<sub>2</sub>, G-Mc, G-Mc<sub>1</sub>, G-Mg, G-Mr, G-Mt, G-N, G-Ol
+!!@PRINTSRC:	G-1580CM, G-1581B, G-1581CV, G-1581R, G-1581MR, G-1581P, G-1581V, G-1581V<sub>bis</sub>, G-1582C, G-1582M, G-1582MC, G-1582P, G-1582SC, G-1582SC<sub>bis</sub>, G-1583S, G-1584O, G-1584S, G-1585C, G-1585S, G-1588S, G-1589S, G-1590B, G-1590S, G-1592S, G-1593S, G-1594C, G-1595C, G-1597C, G-1598C, G-1599C, G-1600C, G-1600S, G-1601C, G-1601R, G-1602C, G-1604C, G-1604Cl, G-1604F, G-1604P, G-1606B, G-1606B<sub>bis</sub>, G-1606L, G-1607ZR, G-1608DP, G-1609GC, G-1610M, G-1611S, G-1611V, G-1612P, G-1613M, G-1613P, G-1613V, G-1615P, G-1616M, G-1617P, G-1619B, G-1619V, G-1620M, G-1620S, G-1621R, G-1624I, G-1624MT, G-1625C, G-1625S, G-1625SS, G-1626C, G-1626Co, G-1627M, G-1628T, G-1628Tu, G-1630L, G-1630T, G-1632FT, G-1639CF, G-1642M, G-1643I, G-1644P, G-1644S
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Angelo Solerti
+!!@EDITION_TITLE: Gerusalemme liberata. Poema eroico di Torquato Tasso. Edizione critica sui manoscritti e le prime stampe.
+!!@EDITION_LOC:	Florence
+!!@EDITION_PUB:	G. Barbera
+!!@EDITION_DATE:  1895
+!!@EDITION_VOL:
+!!@EDITION_PAGE:
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Vivrò fra i miei tormenti e fra le cure,
+!!	Mie giuste furie, forsennato errante.
+!!	Paventerò l’ombre solinghe e scure
+!!	Che ’l primo error mi recheranno innante;
+!!	E del Sol, che scoprì le mie sventure,
+!!	A schivo ed in orrore avrò il sembiante.
+!!	Temerò me medesmo, e da me stesso
+!!	Sempre fuggendo, avrò me sempre appresso.
+!!@MVERSE_DATE: 20230824
+!!@MVERSE:
+!!	Viv|rò|| fra_i miei tor|men||ti_e fra le cu||re,	=a*
+!!	Mie giu||ste fu||rie, for|sen|na||to_er|ran||te.	=b
+!!	Pa|ven|te|rò|| l’om||bre so|lin||ghe_e scu||re		=a
+!!	Che_’l pri||mo_er|ror|| mi re|che|ran||no_in|nan||te;	=b
+!!	E del Sol, che sco|prì|| le mie sven|tu||re,		=a
+!!	A schi||vo_ed in or|ro||re_a|vrò||_il sem|bian||te.	=b
+!!	Te|me|rò|| me me|de||smo,_e da me stes||so		=c*
+!!	Sem||pre fug|gen||do,_a|vrò|| me sem||pre_ap|pres||so.	=c
+!!@TVERSE:
+!!	I will live among my torments, and among the cares
+!!	My righteous furies, raving, wandering.
+!!	I will dread the shadows, solitary and dim,
+!!	Which my earlier error will cast before me;
+!!	And in the Sun, which revealed my misfortunes,
+!!	Shying away from and in horror of my [own] likeness will I [be].
+!!	I will fear me, myself, and from myself
+!!	Always fleeing, will have me always near.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:  Torquato Tasso, <i>Gerusalemme liberata</i>, ed. Lanfranco Caretti, 2 vols. (Bari: Laterza, 1967).
+!!@ATTRIBUTION_ABOUT:
+!!@DATING:	mid-1560s through 1570s
+!!@DEDICATEE:	Duke Alfonso II d'Este
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN: SETTING
+!!@CATALOGNUM:	Tsg12077c
+!!@CANTO:		XII
+!!@OTTAVA:	77
+!!@TITLE:	Vivrò fra i miei tormenti e fra le cure
+!!@SETTINGTITLE: Vivrò fra miei tormenti e le mie pene
+!!@COMPOSER:	Boschetti, Giovanni Boschetto
+!!@PARTS:		1 of 1
+!!@PRINCEPSTITLE:	Giardino musicale di varii eccellenti autori
+!!@PRINCEPSLOC:	Rome
+!!@NORMLOC:	Rome
+!!@NORMPUB:	Giovanni Battista Robletti
+!!@NORMPUBSHORT:	Robletti
+!!@PRINCEPSPUB:	Giovanni Battista Robletti
+!!@PRINCEPSYEAR:	1621
+!!@PRINCEPSRISM:	1621/15
+!!@OVOICES:	1+bc
+!!@EXTANTVOICES:	1+bc
+!!@OMENSURATION:	C
+!!@OCLEFS:	C1,F4
+!!@OTIME:		
+!!@OKEYSIG:	b-
+!!@FINAL:		(G)G
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@REPRINTS:	
+!!@@END: SETTING

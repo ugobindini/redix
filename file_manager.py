@@ -22,13 +22,13 @@ def string_to_html_string(s):
 		return res
 
 
-def load_cint_lines(filename):
-	# given a filename which ends with ".krn", returns the list of lists of strings in cint format
-	cint_filename = CINT_DIR + "/" + filename.split("/")[-1][:-4] + ".txt"
+def load_cint_lines(path):
+	# given a path of the form Jos/filename.krn", returns the list of lists of strings in cint format
+	cint_filename = CINT_DIR + "/" + path.split("/")[-1][:-4] + ".txt"
 	if not os.path.isfile(cint_filename):
 		# create the file with a bash command
 		out_file = open(cint_filename, "w")
-		shell_command = "cint " + filename + " --pitch -r"
+		shell_command = f"cint {KRN_DIR}/{path} --pitch -r"
 		output = subprocess.check_output(shell_command, shell=True, universal_newlines=True)
 		out_file.write(output)
 
@@ -59,7 +59,10 @@ def piece_from_path(path):
 	com = ""
 	coa = ""
 	opr = ""
+	omd = ""
 	otl = ""
+	atr = ""
+	test_print = True
 	for line in lines:
 		if not len(coa) and line.startswith("!!!COA"):
 			coa = line.split(':')[1][1:-1]
@@ -69,8 +72,12 @@ def piece_from_path(path):
 			com_check = True
 		if not len(opr) and line.startswith("!!!OPR"):
 			opr = line.split(':')[1][1:-1]
+		if not len(omd) and line.startswith("!!!OMD"):
+			omd = line.split(':')[1][1:-1]
 		if not len(otl) and line.startswith("!!!OTL"):
 			otl = line.split(':')[1][1:-1]
+		if not len(atr) and line.startswith("!!attribution-level@Jos"):
+			atr = line.split(':')[1][1:-1]
 
 	# Cleaning of composer names
 	if len(coa):
@@ -81,11 +88,17 @@ def piece_from_path(path):
 	# Set capital first letter
 	composer = composer[0].upper() + composer[1:]
 
-	if path.startswith("Jos") and not composer.startswith("Des Prez"):
-		composer = "Des Prez, Josquin*"
+	# In JRP, dubious pieces are included in the Jos folder, with various attribution levels
+	if path.startswith("Jos"):
+		if atr.startswith("1") or atr.startswith("2"):
+			composer = "Des Prez, Josquin"
+		else:
+			composer = "Des Prez, Josquin*"
 
 	if len(opr):
 		title = opr
+		if len(omd):
+			title += " / " + omd
 		if len(otl):
 			title += " / " + otl
 	else:
@@ -95,14 +108,12 @@ def piece_from_path(path):
 
 
 def points_from_path(path):
-	# collect points from file to a list
-	res = []
+	# collect points from file to a list. Note: path is of the form Xxx/file
 	lines = load_cint_lines(path)
 	for line in lines:
 		point = line_to_point(path, line)
 		if point is not None:
-			res.append(point)
-	return res
+			yield point
 
 
 def load_pieces():
@@ -129,7 +140,7 @@ def load_points():
 	print(f"Loaded {n} points.")
 
 
-def load_composers():
+def load_composers(verbose=False):
 	# starting from the pieces in the database, list the composers
 	name_to_n = {}
 	for piece in Piece.objects.all():
@@ -151,3 +162,18 @@ def load_composers():
 
 	# sort alphabetically
 	COMPOSERS.sort(key=lambda x: x.name)
+	if verbose:
+		for composer in COMPOSERS:
+			print(composer)
+
+
+def out_tex_table(filename):
+	out_file = open(filename, 'w')
+	for composer in COMPOSERS:
+		if composer.name.startswith("Palestrina"):
+			piece_titles = [piece.title for piece in Piece.objects.filter(composer__exact=composer.name)]
+			piece_titles.sort()
+			for title in piece_titles:
+				out_file.write(f"{title} & \\\\\n")
+			out_file.write(f"\\hline\n")
+	out_file.close()

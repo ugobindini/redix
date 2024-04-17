@@ -1,0 +1,243 @@
+!!!COM: Marini, Biagio
+!!!CDT:
+!!!PTL: Madrigaletti a una, due, tre e quatro voci, con alcune villanelle. Libro quinto. Opera nona
+!!!PPP: Venice
+!!!PPR: Bartholomeo Magni
+!!!PDT: 1635
+!!!PUB-format:
+!!!RISM: M 664
+!!!rime: 399
+!!!OTL: O vaga tortorella
+!!!AGN: Madrigal
+!!!SCT: Trm0399b
+!!!SCA: Trm0399b
+!!!original-voices: 1+bc+alfabeto
+!!!extant-voices: 1+bc+alfabeto
+!!!complete: Y
+!!!final: F
+**kern	**fb	**kern	**text	**cdata
+*part2	*	*part1	*part1	*
+*staff2	*	*staff1	*staff1	*
+*I"B.C.	*	*I" 	*	*
+*I'B.C.	*	*I' 	*	*
+*oclefF4	*	*oclefF4	*	*
+*clefF4	*	*clefF4	*	*
+*k[b-]	*	*k[b-]	*	*
+*F:	*	*F:	*	*
+*omet(C3)	*	*omet(C3)	*	*
+*M3/2	*	*M3/2	*	*
+=1	=1	=1	=1	=1
+!!LO:TX:a:t=Per cantare nella Chitariglia Basso solo
+1F	.	2r	.	.
+.	.	2r	.	.
+2F	.	2F	O	G
+=2	=2	=2	=2	=2
+1BB-y	.	4B-y	va-	H
+.	.	4A	.	.
+.	.	4B-y	.	.
+.	.	4c	.	.
+2B-y	.	2B-y	.	.
+=3	=3	=3	=3	=3
+2A	.	2A	-gha	G
+2G	.	2G	Tor-	A
+2C	.	2C	-to-	B
+=4	=4	=4	=4	=4
+1FF	.	1F	-rel-	G
+2FF	.	2F	-la,	.
+=5	=5	=5	=5	=5
+2C	.	2C	Tu	B
+2D	.	2D	la	E
+2E	.	2E	tua	+
+=6	=6	=6	=6	=6
+1F	.	1F	com-	G
+2G	.	4G	-pa-	A
+.	.	4GG	.	.
+=7	=7	=7	=7	=7
+1C	.	1C	-gni-	B
+2C	.	2C	-a	.
+=8	=8	=8	=8	=8
+2r	.	2r	.	.
+2AA	.	2AA	Ed	D
+2AA	.	2AA	io	.
+=9	=9	=9	=9	=9
+1.BBnX	.	2.BBnX	pian-	A
+.	.	4AA	-go	.
+.	.	2BBnX	co-	.
+=10	=10	=10	=10	=10
+2.C	.	2.C	-lei	B
+4BB-y	.	4BB-y	che	.
+2AA	.	2AA	non	D
+=11	=11	=11	=11	=11
+2FF	.	4FF	fu	G
+.	.	4C	mi-	B
+1C	.	1FF	-a.	G
+=12:|!|:	=12:|!|:	=12:|!|:	=12:|!|:	=12:|!|:
+2.B-y	.	2.B-y	Mi-	H
+4B-y	.	4B-y	-se-	.
+2F#X	.	2F#X	-ra	C
+=13	=13	=13	=13	=13
+2G	.	2.G	ve-	O
+2C	.	.	.	.
+.	.	4C	-do-	B
+2D	.	2D	-vel-	C
+=14	=14	=14	=14	=14
+1.GG	.	1.GG	-la,	A
+=15	=15	=15	=15	=15
+2B-y	.	2.B-y	Tu	H
+2A	.	.	.	.
+.	.	4A	sov-	E
+2B-y	.	2B-y	-ra_il	H
+=16	=16	=16	=16	=16
+1G	.	1G	nu-	A
+2C	.	2C	-do	B
+=17	=17	=17	=17	=17
+1F	.	2F	ra-	G
+.	.	2F	-mo,	.
+2E	.	2E	A	+
+=18	=18	=18	=18	=18
+1D	.	1D	pié	E
+2C	.	2C	del	B
+=19	=19	=19	=19	=19
+1BB-y	.	1BB-y	sec-	H
+2AA	.	2AA	-co	D
+=20	=20	=20	=20	=20
+2.GG	.	2.GG	tron-	O
+4AA	.	4AA	-co_io	.
+2BB-y	.	2BB-y	la	H
+=21	=21	=21	=21	=21
+2FF	.	2FF	ric-	G
+2GG	.	(<2GG	-chia-	A
+2AA	.	2AA)	.	I
+=22	=22	=22	=22	=22
+1D	.	1D	-mo:	D
+2D	.	2D	Ma	.
+=23	=23	=23	=23	=23
+1.D	#	4D	l'au-	C
+.	.	4E	.	.
+.	.	4F#X	.	.
+.	.	4G	.	.
+.	.	4A	.	.
+.	.	4F#X	.	.
+=24	=24	=24	=24	=24
+2.G	.	2.G	.	A
+4F	.	4FnXi	-ra	.
+2E	.	2E	so-	+
+=25	=25	=25	=25	=25
+2C	.	2C	-lo_e'l	B
+1GG	.	4G	ven-	A
+.	.	4F	.	.
+.	.	4G	.	.
+.	.	4GG	.	.
+=26	=26	=26	=26	=26
+1C	.	1C	-to	B
+2C	.	2C	Ri-	.
+=27	=27	=27	=27	=27
+2BB-y	.	2BB-y	-spon-	H
+4AA	.	4AA	-de	.
+2BB-y	.	2BB-y	mor-	.
+4GG	.	4GG	-mo-	.
+=28	=28	=28	=28	=28
+1FF	.	2FF	-ran-	G
+.	.	2FF	-do,	.
+2F	.	2F	Ri-	.
+=29	=29	=29	=29	=29
+2E-X	.	2E-X	-spon-	M
+4D	.	4D	-de	.
+2E-i	.	2E-i	mor-	.
+4C	.	4C	-mo-	.
+=30	=30	=30	=30	=30
+2BB-y	.	2BB-y	-ran-	H
+2D	.	2D	-do_al	E
+2AA	.	2AA	mio	C
+=31	=31	=31	=31	=31
+*col	*	*col	*	*
+2FF	.	2FF	la-	G
+1C	.	1C	-men-	B
+*Xcol	*	*Xcol	*	*
+=32	=32	=32	=32	=32
+1.FFl	.	1.FFl	-to.	G
+=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: < = below
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019/01/30
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/01/30
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/01/30 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	399
+!!@CATALOGNUM:	Trm0399
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		O vaga tortorella
+!!@GENRE:		madrigale
+!!@MANUSRC:	none
+!!@PRINTSRC:	27, 70, 93, 141, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	Nel medesimo argomento. (i.e., "In morte de la signora Flaminia...ad istanza del sig. Giulio Mosti." Rime 398)
+!!@ABOUTEN:	On the same subject. (i.e., "On the death of lady Flaminia...on behalf of sir Giulio Mosto." Rime 398)
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  439
+!!@TRANSLATOR:	Maria Pastore Passaro; adapted by Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	O vaga tortorella,
+!!	Tu la tua compagnia
+!!	Ed io piango colei che non fu mia.
+!!	Misera vedovella,
+!!	Tu sovra il nudo ramo,
+!!	A pié del secco tronco io la richiamo:
+!!	Ma l'aura solo e 'l vento
+!!	Risponde mormorando al mio lamento.
+!!@TVERSE:
+!!	O lovely little turtle-dove,
+!!	You [for] your companion
+!!	And I weep [for] she who was not mine.
+!!	Wretched little widow,
+!!	You upon the bare branch,
+!!	At the foot of the dry trunk, I call her:
+!!	But the breeze alone and the wind
+!!	Respond murmuring to my lament.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   None
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		Although this poem is attributed to Tasso only in a print that he did not supervise, in this source the poem is placed next to a sonnet (<i>Rime</i> 398) addressed to Tasso's friend Giulio Mosti on occasion of the death of his beloved Flaminia. The subject matter of this poem is consistent with this dedication and supports Tassian attribution.
+!!@DATING:	In or before 1586
+!!		<br>
+!!		The earlies appearance of this poem is in a literary print published by Giulio Vasalini in 1586 (see Literary Sources).
+!!@DEDICATEE:	Mosti, Giulio
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0399b
+!!@RIMETITLE:	O vaga tortorella
+!!@SOLERTI:	399
+!!@COMPOSER:	Marini, Biagio
+!!@PRINCEPSTITLE:	Madrigaletti a una, due, tre e quatro voci, con alcune villanelle. Libro quinto. Opera nona
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Bartholomeo Magni
+!!@NORMPUBSHORT:	Magni
+!!@PRINCEPSPUB:	Magni
+!!@PRINCEPSYEAR:	1635
+!!@PRINCEPSRISM:	M 664
+!!@REPRINTS:	
+!!@OVOICES:	1+bc+alfabeto
+!!@EXTANTVOICES:	1+bc+alfabeto
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	F4,F4
+!!@OMENSURATION:	C3
+!!@OKEYSIG:	b-
+!!@FINAL:	F
+!!@TIMPEDITOR:	Schleuse, Paul
+!!@NOTE:		
+!!@@END:		SETTING

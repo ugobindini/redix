@@ -1,0 +1,202 @@
+!!!COM: Lambardi, Francesco
+!!!CDT:
+!!!PTL: Canzonette a tre, quattro e cinque voci. Libro terzo
+!!!PPP: Naples
+!!!PPR: Vitale
+!!!PDT: 1616
+!!!PUB-format:
+!!!RISM: 1616-15
+!!!rime: 354
+!!!OTL: Occhi miei mal accorti
+!!!AGN: Madrigal
+!!!SCT: Trm0354a
+!!!SCA: Trm0354a
+!!!original-voices: 3
+!!!extant-voices: 2
+!!!complete: N
+!!!final: G
+!!!OMD: Aria &agrave; 3. [Alto or Tenore missing]
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]	*>[A,B,B1,B,B2]
+*>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]
+*>A	*>A	*>A	*>A
+*I"Basso	*	*I"Canto	*
+*I'B	*	*I'C	*
+*oclefF4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*omet(C)	*	*omet(C)	*
+*M2/2	*	*M2/2	*
+=1	=1	=1	=1
+4G	Oc-	4b	Oc-
+4BB	-chi	4dd	-chi
+2C	miei	2g	miei
+=2	=2	=2	=2
+4c	ma-	4e	ma-
+4A	-li ac-	4cc	-li ac-
+2G	-cor-	2b	-cor-
+=3	=3	=3	=3
+8G	-ti,	4b	-ti,
+8G	A	.	.
+8F	gran	8r	.
+8G	ra-	8dd	A
+4.A	-gio-	8cc	gran
+.	.	8dd	ra-
+.	.	[4ee	-gio-
+8E	-n'o-	.	.
+=4!|:	=4!|:	=4!|:	=4!|:
+*>B	*>B	*>B	*>B
+4.F	-gn'or	8ee]	.
+.	.	8a	-n'o-
+.	.	2cc	-gn'or
+8C	di	.	.
+4E	voi	.	.
+4F	mi	4dd	di
+=5	=5	=5	=5
+1E	do-	4g#X	voi
+.	.	4a	mi
+.	.	2b	do-
+=6	=6	=6	=6
+2AA	-glio,	4a	-glio,
+.	.	2cc	Voi,
+2A	Voi,	.	.
+.	.	4e	che
+=7	=7	=7	=7
+4A	che	2f	se-
+4.B-X	se-	.	.
+.	.	4f	-te
+8B-i	-te	.	.
+4G	ca-	4g	ca-
+=8	=8	=8	=8
+2.A	-gion,	2e	-gion,
+.	.	2cc#X	Voi,
+4A	Voi,	.	.
+=9	=9	=9	=9
+4F#X	che	4dd	che
+4.G	se-	4.b	se-
+8E	-te	8b	-te
+4BB	ca-	4dd	ca-
+=10	=10	=10	=10
+2.D	-gion	2a	-gion
+.	.	2r	.
+4D	del	.	.
+=11	=11	=11	=11
+2C#X	mio	2a	del
+2CnX	cor-	4b-X	mio
+.	.	4cc	cor-
+=12	=12	=12	=12
+1D	-do-	1a	-do-
+=13	=13	=13	=13
+*>B1	*>B1	*>B1	*>B1
+8GG	-glio.	4g	-glio.
+8G	A	.	.
+8F	gran	8r	.
+8G	ra-	8dd	A
+4.A	-gio-	8cc	gran
+.	.	8dd	ra-
+.	.	(>4ee)	-gio
+8E	-n'o	.	.
+=14:|!	=14:|!	=14:|!	=14:|!
+*>B2	*>B2	*>B2	*>B2
+1GGl	glio.	1gl	glio.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: > = above
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019
+!!!EED: Schleuse, Paul
+!!!EEV: 2019/02/06
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/02/06 and edited by Craig Stuart Sapp
+!!
+!! Second verse:
+!!	Per voi sol, che mirate,
+!!	I' son ferito da lo stral d'amore,
+!!	E per voi se ne va veloce al core.
+!!
+!! Third verse:
+!!	Dunque voi nel mirare
+!!	Siate pi&ugrave; accorti, per che non conviene,
+!!	Ch'io di vostro gioir porti le pene.
+!!
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	354
+!!@CATALOGNUM:	Trm0354
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Occhi miei mal accorti
+!!@GENRE:		canzonetta
+!!@MANUSRC:	Flc<sub>2</sub>
+!!@PRINTSRC:	none
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  392
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Occhi miei mal accorti,
+!!	A gran ragione di voi sol mi doglio,
+!!	Ché voi sete cagion del mio cordoglio.
+!!	Per voi, sol che mirate,
+!!	Io son ferito da lo stral d'Amore,
+!!	E per voi se ne va veloce al core:
+!!	Dunque voi nel mirare
+!!	Siate più accorti, perché non conviene
+!!	Ch'io di vostro gioir porti le pene.
+!!@TVERSE:
+!!	Imprudent eyes of mine,
+!!	For great reason of you alone I am in pain,
+!!	Since you are the cause of my grief.
+!!	Because of you, when you but glance,
+!!	I am wounded by the arrow of Love,
+!!	And because of you it goes speedily to my heart:
+!!	Therefore may you, in glancing,
+!!	Be more prudent, for it is not fitting
+!!	That I bear the punishments of your enjoyment.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   None
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		This poem appears in the partly autograph manuscript Tassiana N.6.5, Civica Biblioteca Angelo Mai, Bergamo. According to [Massimo Castellozzi] {footnote: Massimo Castellozzi, "Aspetti della tradizione delle <i>Rime disperse</i> di Torquato Tasso," <i>L'ellisse. Studi storici di letteratura italian</i> VIII, vol. 2 (2013): 78}, the folios 164r-172v, which include <i>Rime</i> 353, 354, 356, 358, 359, 361, and NSM1, are in Tasso's hand.
+!!@DATING:	Early 1590s
+!!		<br>
+!!		Before being incorporated into the manscript Tassiana N.6.5, Civica Biblioteca Angelo Mai, Bergamo, this poem used to belong to the Torella codex (MA 462, Pierpont Morgan Library, New York City, NY), a manuscript assembled in Naples and containing for the most part poems and letters that Tasso wrote during his stay in the city in the early 1590s.
+!!@DEDICATEE:
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0354a
+!!@RIMETITLE:	Occhi miei mal accorti
+!!@SOLERTI:	354
+!!@COMPOSER:	Lambardi, Francesco
+!!@PRINCEPSTITLE:	Canzonette a tre, quattro e cinque voci. Libro terzo
+!!@PRINCEPSLOC:	Napoli
+!!@NORMLOC:	Naples
+!!@NORMPUB:	Vitale
+!!@NORMPUBSHORT:	Vitale
+!!@PRINCEPSPUB:	Vitale
+!!@PRINCEPSYEAR:	1616
+!!@PRINCEPSRISM:	1616-15
+!!@REPRINTS:	
+!!@OVOICES:	3
+!!@EXTANTVOICES:	2
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C1,F4
+!!@OMENSURATION:	C
+!!@OKEYSIG:	-
+!!@FINAL:	G
+!!@TIMPEDITOR:	Schleuse, Paul
+!!@NOTE:		
+!!@@END:		SETTING

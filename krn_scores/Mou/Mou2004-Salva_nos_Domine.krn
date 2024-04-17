@@ -1,7 +1,9 @@
+!!!!SEGMENT: Mou2004-Salva_nos_Domine.krn
+!!!id: Mou2004
 !!!AGN: Motet
 !!!SCT: Zenck (1952)
 !!!voices: 6
-!!!COM: Mouton, Jean
+!!!COM: Jean Mouton
 !!!OTL: Salva nos, Domine
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
@@ -15,6 +17,7 @@
 *met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*	*met(C|)	*
 !!section: Prima pars: Salva nos, Domine
 !!!OMD: Prima pars: Salva nos, Domine
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
 !	!	!	!	!	!	!LO:TX:a:t=Canon&colon; tenor I/tenor II at the lower fourth	!	!	!	!	!
 0GG	Sal-	1D	Sal-	0r	.	0r	.	0r	.	0r	.
 .	.	2E	-va	.	.	.	.	.	.	.	.

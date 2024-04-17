@@ -32,6 +32,9 @@ class Piece(models.Model):
 	# genre = models.CharField(max_length=128)
 	# piece_voices = models.IntegerField()
 
+	def __str__(self):
+		return f"{self.composer} - {self.title}"
+
 	def point_list(self):
 		return Point.objects.filter(piece__path__exact=self.path)
 
@@ -50,7 +53,7 @@ class Point(models.Model):
 	# len_segment = models.IntegerField() # distance to the next root chord
 
 	def __str__(self):
-		return f"{self.piece.composer} - {self.piece.title}, bar {self.bar}, beat {self.beat}"
+		return f"{self.piece}, bar {self.bar}, beat {self.beat}"
 
 	def key(self, no_reduce):
 		# takes as argument a list of integers: these intervals should not be reduced within an octave

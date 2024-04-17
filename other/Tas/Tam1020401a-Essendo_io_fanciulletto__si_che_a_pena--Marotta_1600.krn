@@ -1,0 +1,464 @@
+!!!COM: Marotta, Erasmo
+!!!CDT:
+!!!PTL: Aminta musicale. Il primo libro de madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Angelo Gardano
+!!!PDT: 1600
+!!!PUB-format:
+!!!RISM: M 714
+!!!OTL: Essendo io fanciulletto sì che a pena
+!!!act: I
+!!!scene: 2
+!!!verse: 401
+!!!AGN: 
+!!!SCT: Tam1020401a
+!!!SCA: Tam1020401a
+!!!original-voices: 5
+!!!extant-voices: 3
+!!!complete: N
+!!!final: (A)D
+**kern	**text	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Quinto	*	*I"Canto	*
+*I'B	*	*I'V	*	*I'C	*
+*oclefC4	*	*oclefC3	*	*oclefG2	*
+*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/2	*	*M4/2	*	*M4/2	*
+=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=[Prima parte]
+0r	.	1r	.	2dd	Es-
+.	.	.	.	4dd	-sen-
+.	.	.	.	4dd	-d'io
+.	.	2d	Es-	4ff	fan-
+.	.	.	.	4dd	-ciu-
+.	.	4d	-sen-	2ff	-let-
+.	.	4d	-d'io	.	.
+=2	=2	=2	=2	=2	=2
+2A	Es-	4a	fan-	1ee	-to,
+.	.	4e	-ciu-	.	.
+4A	-sen-	[2a	-let-	.	.
+4A	-d'io	.	.	.	.
+2d	fan-	2a]	.	4r	.
+.	.	.	.	4dd	<Es-
+2d	-ciu-	2d	-to,	4dd	-sen-
+.	.	.	.	4dd	-d'io
+=3	=3	=3	=3	=3	=3
+1c	-let-	4r	.	4ee	fan-
+.	.	4e	<Es-	4cc	-ciu-
+.	.	4e	-sen-	2gg	-let-
+.	.	4e	-d'io	.	.
+1F	-to,	4f	fan-	2ff	-to,>
+.	.	4c	-ciu-	.	.
+.	.	2f	-let-	[2dd	sì
+=4	=4	=4	=4	=4	=4
+2G	sì	1e	.	4dd]	.
+.	.	.	.	4b	ch'a
+2A	ch'a	.	.	2cc#X	pe-
+2.D	pe-	2d	-to,>	[1dd	-na
+.	.	[2f	sì	.	.
+4E	.	.	.	.	.
+=5	=5	=5	=5	=5	=5
+2F	.	4f]	.	1dd]	.
+.	.	4g	ch'a	.	.
+2D	-na	[2a	pe-	.	.
+2A	Giun-	2a]	.	4r	.
+.	.	.	.	4a	Giun-
+4A	-ger	2e	-na	4a	-ger
+4G	po-	.	.	4b	po-
+=6	=6	=6	=6	=6	=6
+1F	-tea,	4r	.	2cc	-tea
+.	.	4a	Giun-	.	.
+.	.	4a	-ger	4cc	con
+.	.	4g	po-	4cc	la
+4r	.	1f	-tea	2.ff	man,
+4d	Giun-	.	.	.	.
+4d	-ger	.	.	.	.
+4e	po-	.	.	8eeL	.
+.	.	.	.	8ddJ	.
+=7	=7	=7	=7	=7	=7
+2f	-tea	4F	con	2cc	.
+.	.	4F	la	.	.
+4F	con	2f	man,	4.cc	con
+4F	la	.	.	.	.
+.	.	.	.	8dd	la
+2c	man	8eL	par-	2ee	man
+.	.	8d	.	.	.
+.	.	8e	.	.	.
+.	.	8fJ	.	.	.
+4c	par-	4e	.	4gg	par-
+4d	-go-	4d	-go-	4ff	-go-
+=8	=8	=8	=8	=8	=8
+2A	-let-	2c#X	-let-	2ee	-let-
+1A	-ta	1c#X	-ta	2ee	-ta
+.	.	.	.	2r	.
+2r	.	2r	.	2a	A
+=9	=9	=9	=9	=9	=9
+2r	.	1r	.	4a	cor-
+.	.	.	.	4a	-re i
+2D	A	.	.	4dd	frut-
+.	.	.	.	4a	-ti
+4D	cor-	1r	.	4.dd	da i
+4D	-re i	.	.	.	.
+.	.	.	.	8dd	pre-
+4A	frut-	.	.	4ee	-gia-
+4A	-ti	.	.	4cc	-ti
+=10	=10	=10	=10	=10	=10
+4.A	da i	1r	.	1ee	ra-
+8B	pre-	.	.	.	.
+4c	-gia-	.	.	.	.
+4A	-ti	.	.	.	.
+2d	ra-	4r	.	2dd	-mi,
+.	.	4d	A	.	.
+2D	-mi,	4d	cor-	4.dd	da i
+.	.	4d	-re i	.	.
+.	.	.	.	8ee	pre-
+=11	=11	=11	=11	=11	=11
+4.D	da i	4a	frut-	4ff	-gia-
+.	.	4a	-ti	4ff	-ti
+8E	pre-	.	.	.	.
+4F	-gia-	4.A	da i	2ff	ra-
+4D	-ti	.	.	.	.
+.	.	8B	pre-	.	.
+2A	ra-	4c	-gia-	4ee	-mi,
+.	.	4A	-ti	4a	A
+4A	-mi,	2e	ra-	4a	cor-
+4A	A	.	.	4a	-re i
+=12	=12	=12	=12	=12	=12
+4A	cor-	4e	-mi,	4cc	frut-
+4A	-re i	4e	<A	4a	-ti
+4d	frut-	4f	cor-	2.a	da i
+4A	-ti	4e	-re i	.	.
+4.d	da i	4.f	frut-	.	.
+.	.	.	.	4dd	pre-
+8e	pre-	8g	-ti	.	.
+4f	-gia-	4a	da i	4cc	-gia-
+4f	-ti	4a	pre-	4cc	-ti
+=13	=13	=13	=13	=13	=13
+4B	ra-	2f	-gia-	8ddL	ra-
+.	.	.	.	8cc	.
+8AL	.	.	.	8dd	.
+8GJ	.	.	.	8eeJ	.
+4F	.	2f	-ti	2.ff	.
+8EL	.	.	.	.	.
+8DJ	.	.	.	.	.
+4C	.	1g	ra-	.	.
+4BB-X	.	.	.	8eeL	.
+.	.	.	.	8ddJ	.
+2C	.	.	.	2ee	.
+=14	=14	=14	=14	=14	=14
+1F	-mi	1f	-mi>	2ff	-mi
+.	.	.	.	2r	.
+1r	.	1r	.	2cc	De
+.	.	.	.	4b	gl'ar-
+.	.	.	.	4ee	-bo-
+=15	=15	=15	=15	=15	=15
+2r	.	1r	.	4dd	-scel-
+.	.	.	.	4b	-li, in-
+2A	De	.	.	4cc	-trin-
+.	.	.	.	4dd	-se-
+4G	gl'ar-	2e	De	4b	-co
+4c	-bo-	.	.	4cc	di-
+4B	-scel-	4d	gl'ar-	4dd	-ve-
+4G	-li in-	4g	-bo-	4ee	.
+=16	=16	=16	=16	=16	=16
+4A	-trin-	4f	-scel-	4cc	.
+4B	-se-	4d	-li in-	4.dd	.
+4c	-co	4e	-trin-	.	.
+.	.	.	.	8ccL	.
+4A	di-	4f#X	-se-	8cc	.
+.	.	.	.	16b	.
+.	.	.	.	16aJ	.
+1E	-ve-	4g#X	-co	1b	.
+.	.	4a	di-	.	.
+.	.	4a	-ve-	.	.
+.	.	4g#X	.	.	.
+=17	=17	=17	=17	=17	=17
+1A	-ni,	1a	-ni,	2a	-ni,
+.	.	.	.	2cc	De
+1r	.	1r	.	4b	gl'ar-
+.	.	.	.	4ee	-bo-
+.	.	.	.	4dd	-scel-
+.	.	.	.	4b	-li, in-
+=18	=18	=18	=18	=18	=18
+0r	.	2r	.	4cc	-trin-
+.	.	.	.	4dd	-se-
+.	.	2a	De	4ee	-co
+.	.	.	.	4cc	di-
+.	.	4g#X	la	2b	-ve-
+.	.	4g#X	più	.	.
+.	.	4a	va-	2a	-ni,
+.	.	4a	-ga e	.	.
+=19	=19	=19	=19	=19	=19
+1r	.	8A	ca-	1r	.
+.	.	8B	-ra	.	.
+.	.	8c	ver-	.	.
+.	.	8A	-gi-	.	.
+.	.	2e	-nel-	.	.
+2r	.	1A	-la	4r	.
+.	.	.	.	4a	De
+4r	.	.	.	4cc	la
+4A	De	.	.	4cc	più
+=20	=20	=20	=20	=20	=20
+4G#X	la	1r	.	4b	va-
+4G#X	più	.	.	4b	-ga e
+4A	ca-	.	.	8cc#X	ca-
+.	.	.	.	8dd	-ra
+4A	-ra e	.	.	8ee	ver-
+.	.	.	.	8cc#X	-gi-
+8D	va-	2d	Che	2dd	-nel-
+8E	-ga	.	.	.	.
+8F	ver-	.	.	.	.
+8D	-gi-	.	.	.	.
+2A	-nel-	4c#X	mai	2ee	.
+.	.	4c#X	spie-	.	.
+=21	=21	=21	=21	=21	=21
+4D	-la	4d	-gas-	2ff	.
+4d	Che	4d	-se al	.	.
+4c#X	mai	4e	ven-	2ee	-la,
+4c#X	spie-	4e	-to	.	.
+4d	-gas-	4f	chio-	1r	.
+4d	-se al	4f	-ma	.	.
+4e	ven-	2c	d'o-	.	.
+4e	-to	.	.	.	.
+=22	=22	=22	=22	=22	=22
+4f	chio-	2F	-ro,	4r	.
+4f	-ma	.	.	4ff	<De
+2c	d'o-	2r	.	4ee	la
+.	.	.	.	4ee	più
+2F	-ro,	1r	.	4ff	va-
+.	.	.	.	4dd	-ga e
+2A	Che	.	.	8cc#X	ca-
+.	.	.	.	8dd	-ra
+.	.	.	.	8ee	ver-
+.	.	.	.	8cc#X	-gi-
+=23	=23	=23	=23	=23	=23
+4B-X	mai	4r	.	4dd	-nel-
+4B-X	spie-	4d	<Che	4dd	-la
+4A	-gas-	4c#X	mai	4r	.
+4A	-se al	4c#X	spie-	4ee	Che
+2D	ven-	4d	-gas-	4ff	mai
+.	.	4d	-se al	4ff	spie-
+2A	-to	4e	ven-	4ee	-gas-
+.	.	4A	-to	4ee	-se al
+=24	=24	=24	=24	=24	=24
+4D	chio-	4A	chio-	4dd	ven-
+4d	-ma	4f	-ma	4dd	-to,
+8cL	d'o-	8eL	d'o-	4r	.
+8B	.	8d	.	.	.
+8A	.	8c	.	4ee	al
+8GJ	.	8BJ	.	.	.
+2.F	.	2A	.	4ff	ven-
+.	.	.	.	4ee	-to
+.	.	[2A	-ro.	4dd	chio-
+4G	.	.	.	4ee	-ma
+=25	=25	=25	=25	=25	=25
+1A	.	2A]	.	1cc#X	d'o-
+.	.	2r	.	.	.
+1A	-ro.	1r	.	1cc#X	-ro.
+=26	=26	=26	=26	=26	=26
+0r	.	4e	La	2r	.
+.	.	4e	fi-	.	.
+.	.	2e	-glio-	4b	La
+.	.	.	.	4b	fi-
+.	.	4A	-la	4cc	-glio-
+.	.	4A	co-	8cc	-la
+.	.	.	.	8dd	co-
+.	.	[2a	-no-	[2ee	-no-
+=27	=27	=27	=27	=27	=27
+0r	.	4a]	.	4ee]	.
+.	.	4e	-sci	4ee	-sci
+.	.	4f	di	4cc	di
+.	.	4d	Ci-	4dd	Ci-
+.	.	2c	-dip-	2ee	-dip-
+.	.	2c	-pe	2ee	-pe
+=28	=28	=28	=28	=28	=28
+2c	E	0r	.	0r	.
+2d	di	.	.	.	.
+4c	Mon-	.	.	.	.
+2B	-tan	.	.	.	.
+4A	ri-	.	.	.	.
+=29	=29	=29	=29	=29	=29
+2G#X	-chis-	0r	.	0r	.
+4A	-si-	.	.	.	.
+2B	-mi	.	.	.	.
+4A	d'ar-	.	.	.	.
+2G#X	-men-	.	.	.	.
+=30	=30	=30	=30	=30	=30
+1A	-ti,	1r	.	2r	.
+.	.	.	.	1ee	Sil-
+1r	.	2r	.	.	.
+.	.	4r	.	2ee	-via,
+.	.	4A	ho-	.	.
+=31	=31	=31	=31	=31	=31
+1r	.	4a	-nor	1r	.
+.	.	8g#X	de	.	.
+.	.	8f#X	le	.	.
+.	.	4g#X	sel-	.	.
+.	.	4a	-ve,	.	.
+2A	Sil-	1r	.	4r	.
+.	.	.	.	4ee	ho-
+2A	-via,	.	.	4ff	-nor
+.	.	.	.	8ee	de
+.	.	.	.	8dd	le
+=32	=32	=32	=32	=32	=32
+4r	.	4r	.	4ee	sel-
+4D	ho-	4d	<ho-	4dd	-ve,
+4d	-nor	4f	-nor	2r	.
+8c#X	de	8e	de	.	.
+8B	le	8d	le	.	.
+4c#X	sel-	4e	sel-	4r	.
+4d	-ve,	4d	-ve,>	4a	<ho-
+2r	.	2r	.	4dd	-nor
+.	.	.	.	8cc#X	de
+.	.	.	.	8b	le
+=33	=33	=33	=33	=33	=33
+4A	ar-	2r	.	4cc#X	sel-
+2F	-dor	.	.	4dd	-ve, ho-
+.	.	1a	Sil-	4aa	-nor
+4D	de	.	.	8ff	de
+.	.	.	.	8gg	le
+4A	l'al-	.	.	4ee	sel-
+4D	-me,	.	.	4dd	-ve,>
+[2d	Sil-	2a	-via,	2r	.
+=34	=34	=34	=34	=34	=34
+2d]	.	2r	.	2r	.
+2d	-via,	1r	.	1dd	Sil-
+4d	ar-	.	.	.	.
+2B-X	-dor	.	.	.	.
+.	.	[2d	Sil-	2dd	-via,
+4G	de	.	.	.	.
+=35	=35	=35	=35	=35	=35
+4d	l'al-	2d]	.	4r	.
+4G	-me,	.	.	4dd	ho-
+2r	.	2d	-via,	4ff	-nor
+.	.	.	.	8ee	de
+.	.	.	.	8dd	le
+4r	.	4r	.	4cc#X	sel-
+4d	ho-	4d	ho-	4dd	-ve,
+4f	-nor	4d	-nor	2r	.
+8e	de	8c#X	de	.	.
+8d	le	8B	le	.	.
+=36	=36	=36	=36	=36	=36
+4e	sel-	4c#X	sel-	2r	.
+4d	-ve,	4d	-ve,	.	.
+1A	Sil-	2r	.	4ee	ar-
+.	.	.	.	2cc	-dor
+.	.	4e	ar-	.	.
+.	.	2cnX	-dor	4a	de
+2A	-via,	.	.	2ee	l'al-
+.	.	4A	de	.	.
+=37	=37	=37	=37	=37	=37
+4e	ho-	2E	l'al-	2ee	-me,
+8d	-nor	.	.	.	.
+8c	de	.	.	.	.
+4B	le	4E	-me,	4r	.
+4A	sel-	4e	ho-	4cc	ho-
+2E	-ve,	4e	-nor	4cc	-nor
+.	.	8d	de	8b	de
+.	.	8c	le	8a	le
+2E	Sil-	2B	sel-	2g#X	sel-
+=38	=38	=38	=38	=38	=38
+4A	-via, ar-	[2A	-ve,	1a	-ve,
+2F	-dor	.	.	.	.
+.	.	2A]	.	.	.
+4D	de	.	.	.	.
+[1D	l'al-	2r	.	4aa	ar-
+.	.	.	.	2ff	-dor
+.	.	4a	ar-	.	.
+.	.	[4f	-dor	4dd	de
+=39	=39	=39	=39	=39	=39
+1D]	.	4f]	.	1.dd	l'al-
+.	.	4d	de	.	.
+.	.	2f	l'al-	.	.
+[1Al	-me.	[1el	-me.	.	.
+.	.	.	.	4cc#X	.
+.	.	.	.	4b	.
+=40	=40	=40	=40	=40	=40
+0A]	.	0e]	.	0cc#Xl	-me.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2017/10/27
+!!!EED: Coluzzi, Seth
+!!!EEV: 2018/07/13
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/13 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@CATALOGNUM:	Tam1020401
+!!@LAST_MODIFIED: 2020/07/12
+!!@ACT:         I
+!!@SCENE:       2
+!!@VERSE:       401
+!!@TITLE:    Essendo io fanciulletto sì che a pena
+!!@MANUSRC:	A-Am, A-Au, A-Br, A-CM, A-F, A-Ub
+!!@PRINTSRC:	A-1580D, A-1580M, A-1581B, A-1581B<sub>bis</sub>, A-1581M, A-1581M<sub>bis</sub>, A-1581O, A-1581V, A-1582B, A-1583M, A-1583V, A-1584A, A-1585C, A-1585V, A-1585V<sub>bis</sub>, A-1588B, A-1589M, A-1589V, A-1590Mb, A-1590Mv, A-1591M, A-1591W, A-1592B, A-1596B, A-1596M, A-1599Bf, A-1599Bp, A-1600R, A-1601Bf, A-1601Bp, A-1602B, A-1603Bf, A-1603Bv, A-1603Z, A-1605R, A-1606Z, A-1608D, A-1608DP, A-1609Bf, A-1609Bv, A-1609Z, A-1611D, A-1614GT, A-1617D, A-1618B, A-1619D, A-1619I, A-1620V, A-1622D, A-1623A, A-1624M, A-1624S, A-1624T, A-1625U, A-1628U, A-1632D, A-1634R
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	  Aminta
+!!@ABOUTEN:	
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Opere minori in versi di Torquato Tasso. Edizione critica sugli autografi e sulle antiche stampe.
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Zanichelli
+!!@EDITION_DATE:  1895
+!!@EDITION_VOL:	3
+!!@EDITION_PAGE:
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:	
+!!	Essendo io fanciulletto, sì che a pena
+!!	Giunger potea con la man pargoletta
+!!	A côrre i frutti da i piegati rami
+!!	De gli arboscelli, intrinseco divenni
+!!	De la più vaga e cara virginella
+!!	Che mai spiegasse al vento chiome d'oro.
+!!	La figliola conosci di Cidippe
+!!	E di Montan, richissimo d'armenti,
+!!	Silvia, honor de le selve, ardor de l'arme?
+!!@TVERSE:
+!!	Being myself a small boy, such that scarcely
+!!	Was I able with my little child’s hand to reach up
+!!	To gather fruits from the bowed branches
+!!	Of the young trees, intimate I became
+!!	With the most lovely and dear little maiden
+!!	Who ever spread her golden mane in the wind.
+!!	Do you know the daughter of Cidippe
+!!	And of Montan, richest in herds,
+!!	Silvia, glory of the woods, ardor of the arms?
+!!@@END:		VERSES
+!!@NEW_CRIT_ED:   Torquato Tasso, <i>Aminta. "Princeps."</i>, ed. Matteo Navone, vol. 9 of Commissione Nazionale per l'Edizione delle opere del Tasso. Studi e Testi (Alessandria: Edizioni dell'Orso, 2014).
+!!@ATTRIBUTION_ABOUT:	
+!!@DATING:	1573
+!!@DEDICATEE:	
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN: SETTING
+!!@CATALOGNUM:	Tam1020401a
+!!@ACT:		I
+!!@SCENE:		2
+!!@VERSE:		401
+!!@TITLE:		Essendo io fanciulletto sì che a pena
+!!@COMPOSER:	Marotta, Erasmo
+!!@PRINCEPSTITLE:	Aminta musicale. Il primo libro de madrigali a cinque voci
+!!@PRINCEPSLOC:	Venice
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Angelo Gardano
+!!@NORMPUBSHORT:	Gardano
+!!@PRINCEPSPUB:	Angelo Gardano
+!!@PRINCEPSYEAR:	1600
+!!@PRINCEPSRISM:	M 714
+!!@OVOICES:	5
+!!@EXTANTVOICES:	3
+!!@OMENSURATION:	C
+!!@OCLEFS:	G2,C3,C4
+!!@OTIME:		
+!!@OKEYSIG:	-
+!!@FINAL:		(A)D
+!!@TIMPEDITOR:	Coluzzi, Seth
+!!@PARTS:		1 of 4
+!!@REPRINTS:	
+!!@@END: SETTING

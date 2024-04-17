@@ -1,0 +1,390 @@
+!!!CDT:
+!!!PTL: L'ottavo libro de'madrigali a cinque voci
+!!!PPP: Venice
+!!!PPR: Ricciardo Amadino
+!!!PDT: 1603
+!!!PUB-format:
+!!!RISM: I 10
+!!!AGN: Madrigal
+!!!SCT: Tsg06105a
+!!!SCA: Tsg06105a
+!!!original-voices: 5
+!!!extant-voices: 2
+!!!complete: N
+!!!final: (A)(C)A
+!!!COM: Il Verso, Antonio
+!!!OTL: Raccogliete me dunque: e in voi si trove
+**kern	**text	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"Quinto	*	*I"Canto	*
+*I'V	*	*I'C	*
+*oclefC3	*	*oclefG2	*
+*clefGv2	*	*clefG2	*
+*k[]	*	*k[]	*
+*C:	*	*C:	*
+*omet(C|)	*	*omet(C|)	*
+*M2/1	*	*M2/1	*
+=1	=1	=1	=1
+!!LO:TX:a:t=Terza, ed ultima stanza.
+0r	.	2r	.
+.	.	2.cc	Rac-
+.	.	4a	-co-
+.	.	[2dd	-glie-
+=2	=2	=2	=2
+0r	.	4dd]	.
+.	.	8dd	-te
+.	.	8dd	me
+.	.	4ff	dun-
+.	.	4ff	-que: e in
+.	.	4.ee	voi
+.	.	8dd	.
+.	.	4cc	.
+.	.	4a	si
+=3	=3	=3	=3
+2r	.	2g	tro-
+1f	Rac-	2a	-ve,
+.	.	2r	.
+2d	-co-	[2b-X	Rac-
+=4	=4	=4	=4
+2.g	-glie-	4b-]	.
+.	.	4g	-co-
+.	.	2.dd	-glie-
+8g	-te	.	.
+8g	me	.	.
+4f	dun-	.	.
+2e	-que: e in	8cc	-te
+.	.	8cc	me
+.	.	4a	dun-
+[4d	voi	4ff	-que: e in
+=5	=5	=5	=5
+4d]	.	4ee	voi
+4c#X	si	4ee	si
+8dL	tro-	2dd	tro-
+8e	.	.	.
+8f	.	.	.
+8dJ	.	.	.
+4e	.	2cc	-ve
+2f	.	.	.
+.	.	2cc	Quel-
+4e	.	.	.
+=6	=6	=6	=6
+2f	-ve	4cc	-la
+.	.	4cc	pie-
+2A	Quel-	1dd	-tà,
+4d	-la	.	.
+4d	pie-	.	.
+2c#X	-tà	2r	.
+=7	=7	=7	=7
+2f	che	1r	.
+4e	mi	.	.
+4e	pro-	.	.
+8d	-mi-	2r	.
+8e	-se A-	.	.
+2f	-mo-	.	.
+.	.	4r	.
+4e	-re,	4a	Quel-
+=8	=8	=8	=8
+2f	Quel-	4a	-la
+.	.	4a	pie-
+4g	-la	2cc	-tà
+4g	pie-	.	.
+4g	-tà	2b	che
+4d	che	.	.
+4f	mi	4dd	mi
+4f	pro-	4dd	pro-
+=9	=9	=9	=9
+2c	-mi-	2ee	-mi-
+4B	-se A-	2gg	-se A-
+2c	-mo-	.	.
+.	.	1gg	-mo-
+8BL	.	.	.
+8AJ	.	.	.
+2B	.	.	.
+=10	=10	=10	=10
+2c	-re,	2ee	-re,
+2g	E	2ee	E
+8f	ch'io	4ff	ch'io
+8g	già	.	.
+2a	vi-	4dd	già
+.	.	2ee	vi-
+4g	-di	.	.
+=11	=11	=11	=11
+4.f	pri-	4cc	-di
+.	.	2ff	pri-
+8e	-gio-	.	.
+4d	-nie-	.	.
+4e	-ra al-	4ee	-gio-
+1f	-tro-	4dd	-nie-
+.	.	4cc	-ra al-
+.	.	2dd	-tro-
+=12	=12	=12	=12
+4f	-ve,	4cc	-ve,
+4c	E	4ff	E
+4c	ch'io	4.ee	ch'io
+4c	già	.	.
+.	.	8ee	già
+4.g	vi-	2dd	vi-
+8g	-di	.	.
+4e	pri-	4cc	-di
+4e	-gio-	[4cc	pri-
+=13	=13	=13	=13
+4c	-nie-	4cc]	.
+4f	-ra al-	4cc	-gio-
+4e	-tro-	4cc	-nie-
+4.f	.	4b	-ra al-
+.	.	2cc	-tro-
+16eL	.	.	.
+16dJ	.	.	.
+4e	.	.	.
+2f	-ve,	2cc	-ve,
+=14	=14	=14	=14
+4r	.	4r	.
+4f	Nel	4a	Nel
+4c#X	man-	4a	man-
+4d	-su-	4a	-su-
+4e	-e-	4cc	-e-
+4f	-to	4dd	-to
+4d	mio	4dd	mio
+[4f	dol-	4cc	dol-
+=15	=15	=15	=15
+4f]	.	4cc	-ce
+8e	-ce	4cc	Si-
+8d	Si-	.	.
+2e	-gno-	2cc	-gno-
+2f	-re,	2cc	-re:
+2f	Nel	2r	.
+=16	=16	=16	=16
+4f	man-	0r	.
+4g	-su-	.	.
+4.a	-e-	.	.
+8g	-to	.	.
+4f	mio	.	.
+2e	dol-	.	.
+8d	-ce	.	.
+8c	Si-	.	.
+=17	=17	=17	=17
+2d	-gno-	2r	.
+2c	-re:	4r	.
+.	.	4cc	Né
+4r	.	4b	già
+4a	Né	4a	de-
+4e	già	4cc	-sio
+4f	de-	4cc	di
+=18	=18	=18	=18
+4.c	-sio	4.cc	rac-
+8c	di	8cc	-qui-
+4c	rac-	4cc	-star
+4d	-qui-	4b	mi
+4c	-star	2ee	mo-
+4e	mi	.	.
+2f	mo-	2cc	-ve
+=19	=19	=19	=19
+2e	-ve,	0r	.
+2c	di	.	.
+4A	rac-	.	.
+2B	-qui-	.	.
+[4c	-star	.	.
+=20	=20	=20	=20
+8c]	.	1r	.
+8c	mi	.	.
+4.d	mo-	.	.
+16c#XL	.	.	.
+16BJ	.	.	.
+4c#X	.	.	.
+2d	-ve	4r	.
+.	.	4a	Co'l
+2r	.	4a	fa-
+.	.	4b	-vor
+=21	=21	=21	=21
+0r	.	4.cc	vo-
+.	.	8cc	-stro il
+.	.	4dd	mio
+.	.	4cc	re-
+.	.	8eeL	-ga-
+.	.	8dd	.
+.	.	8cc	.
+.	.	8dd	.
+.	.	8ee	.
+.	.	8ffJ	.
+.	.	[4gg	.
+=22	=22	=22	=22
+1r	.	4gg]	.
+.	.	4ee	-le ho-
+.	.	2dd	-no-
+4r	.	2cc	-re,
+4e	il	.	.
+4d	mio	2r	.
+4e	re-	.	.
+=23	=23	=23	=23
+8cL	-gal,	4r	.
+8d	.	.	.
+8e	.	4cc	il
+8fJ	.	.	.
+4g	.	4b	mio
+4e	re-	4cc	re-
+4f	-ga-	8cc	-ga-
+.	.	8cc	-le ho-
+4f	-le ho-	4.ff	-no-
+2g	-no-	.	.
+.	.	16eeL	.
+.	.	16ddJ	.
+.	.	4ee	.
+=24	=24	=24	=24
+2f	-re:	2ff	-re:
+2r	.	2r	.
+2r	.	4r	.
+.	.	4cc	Quan-
+4r	.	4b	-do
+4c	Quan-	4ee	ciò
+=25	=25	=25	=25
+4B	-do	4dd	non
+4e	ciò	4cc	a-
+4d	non	4dd	-ven-
+4c	a-	4ee	-ga, as-
+4d	-ven-	8bL	-sai
+.	.	8ccJ	.
+4d	-ga, as-	2dd	.
+4e	-sai	.	.
+4e	fe-	4cc#X	fe-
+=26	=26	=26	=26
+4d	-li-	2dd	-li-
+4A	-ce	.	.
+2r	.	4ccnXi	-ce,
+.	.	2dd	fe-
+1r	.	.	.
+.	.	4.cc	-li-
+.	.	16bL	.
+.	.	16aJ	.
+.	.	4b	.
+=27	=27	=27	=27
+4r	.	2cc	-ce
+4c	Io	.	.
+4e	mi	2r	.
+4f	ter-	.	.
+4c	-rò,	1r	.
+4A	sen'	.	.
+4B	voi	.	.
+4A	ser-	.	.
+=28	=28	=28	=28
+2e	-vir,	4r	.
+.	.	4gg	Io
+4r	.	4ff	mi
+4c	sen'	4ee	ter-
+4G	voi	4dd	-rò,
+4B-X	ser-	4ff	sen'
+4A	-vir	4ee	voi
+4d	mi	4dd	ser-
+=29	=29	=29	=29
+2e	li-	4cc	-vir
+.	.	4cc	mi
+2e	-ce,	2b	li-
+2c	Io	2a	-ce,
+4d	mi	4r	.
+4e	ter-	4cc	Io
+=30	=30	=30	=30
+2g	-rò,	4dd	mi
+.	.	4gg	ter-
+2r	.	4ff	-rò,
+.	.	4ff	sen'
+2r	.	4.ff	voi
+.	.	8ee	ser-
+2A	sen'	2dd	-vir
+=31	=31	=31	=31
+2d	voi	1dd	mi
+2d	ser-	.	.
+4e	-vir	1cc	li-
+4c	mi	.	.
+2c	li-	.	.
+=32	=32	=32	=32
+0cl	-ce.	0al	-ce.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2019
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2019/05/05
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2019/05/05
+!!@@BEGIN:	VERSEDATA
+!!@CATALOGNUM:	Tsg06105
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Raccogliete me dunque: e in voi si trove
+!!@CANTO:		VI
+!!@OTTAVA:	105
+!!@MANUSRC:	G-Al, G-Au, G-Br<sub>1</sub>, G-Br<sub>2</sub>, G-Cv, G-Es<sub>1</sub>, G-Es<sub>2</sub>, G-Es<sub>3</sub>, G-F, G-Fr, G-Fr<sub>1</sub>, G-Fr<sub>2</sub>, G-Mc, G-Mc<sub>1</sub>, G-Mg, G-Mr, G-Mt, G-N
+!!@PRINTSRC:	G-1580CM, G-1581B, G-1581CV, G-1581R, G-1581MR, G-1581P, G-1581V, G-1581V<sub>bis</sub>, G-1582C, G-1582M, G-1582MC, G-1582P, G-1582SC, G-1582SC<sub>bis</sub>, G-1583S, G-1584O, G-1584S, G-1585C, G-1585S, G-1588S, G-1589S, G-1590B, G-1590S, G-1592S, G-1593S, G-1594C, G-1595C, G-1597C, G-1598C, G-1599C, G-1600C, G-1600S, G-1601C, G-1601R, G-1602C, G-1604C, G-1604Cl, G-1604F, G-1604P, G-1606B, G-1606B<sub>bis</sub>, G-1606L, G-1607ZR, G-1608DP, G-1609GC, G-1610M, G-1611S, G-1611V, G-1612P, G-1613M, G-1613P, G-1613V, G-1615P, G-1616M, G-1617P, G-1619B, G-1619V, G-1620M, G-1620S, G-1621R, G-1624I, G-1624MT, G-1625C, G-1625S, G-1625SS, G-1626C, G-1626Co, G-1627M, G-1628T, G-1628Tu, G-1630L, G-1630T, G-1632FT, G-1639CF, G-1642M, G-1643I, G-1644P, G-1644S
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Angelo Solerti
+!!@EDITION_TITLE: Gerusalemme liberata. Poema eroico di Torquato Tasso. Edizione critica sui manoscritti e le prime stampe.
+!!@EDITION_LOC:	Florence
+!!@EDITION_PUB:	G. Barbera
+!!@EDITION_DATE:  1895
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  247
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Raccogliete me dunque: e in voi si trove
+!!	Quella pietà che mi promise Amore,
+!!	E ch’io già vidi prigioniera altrove,
+!!	Nel mansueto mio dolce signore:
+!!	Né già desìo di racquistar mi move
+!!	Co 'l favor vostro, il mio regale onore:
+!!	Quando ciò non avvenga, assai felice
+!!	Io mi terrò, se in voi servir mi lice.
+!!@MVERSE_DATE: 20230824
+!!@MVERSE:
+!!	Rac|co|glie||te me dun||que:_e_in voi si tro||ve	=a++
+!!	Quel||la pie|tà|| che mi pro|mi||se_A|mo||re,		=b+ (a second che in line 3)
+!!	E ch_’io già vi||di pri|gio|nie||ra_al|tro||ve,		=a++ (line 4 refers to altrove)
+!!	Nel man|sue||to mi||o dol||ce si|gno||re:		=b
+!!	Né già de|sìo|| di rac|qui||star mi mo||ve		=a++
+!!	Co_'l fa|vor vo||stro,_il mio re|ga||le_o|no||re:	=b
+!!	Quan||do ciò non av|ven||ga,_as|sai|| fe|li||ce		=c++
+!!	Io mi ter|rò||, se_in voi ser|vir|| mi li||ce.		=c
+!!@TVERSE:
+!!	Receive me therefore: and in you is found
+!!	That compassion which Love promised me,
+!!	And that I, a prisoner, already saw elsewhere
+!!	In the gentleness [of] my sweet lord:
+!!	Nor does desire already move me to reacquire,
+!!	With your favor, my regal honor:
+!!	When, should that not come to pass, very happy
+!!	I will abide, if among you it is permitted me to serve.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:  Torquato Tasso, <i>Gerusalemme liberata</i>, ed. Lanfranco Caretti, 2 vols. (Bari: Laterza, 1967).
+!!@ATTRIBUTION_ABOUT:
+!!@DATING:	mid-1560s through 1570s
+!!@DEDICATEE:	Duke Alfonso II d'Este
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN: SETTING
+!!@CATALOGNUM:	Tsg06105a
+!!@CANTO:		VI
+!!@OTTAVA:	105
+!!@TITLE:	Raccogliete me dunque: e in voi si trove
+!!@COMPOSER:	Il Verso, Antonio
+!!@PARTS:		3 of 3
+!!@PRINCEPSTITLE:	L'ottavo libro de'madrigali a cinque voci
+!!@PRINCEPSLOC:	Venice
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Ricciardo Amadino
+!!@NORMPUBSHORT:	Amadino
+!!@PRINCEPSPUB:	Ricciardo Amadino
+!!@PRINCEPSYEAR:	1603
+!!@PRINCEPSRISM:	I 10
+!!@OVOICES:	5
+!!@EXTANTVOICES:	2
+!!@OMENSURATION:	Cut-C
+!!@OCLEFS:	G2,C3
+!!@OTIME:		
+!!@OKEYSIG:	-
+!!@FINAL:	(A)(C)A
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@REPRINTS:	
+!!@@END: SETTING

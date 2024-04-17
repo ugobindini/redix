@@ -1,0 +1,895 @@
+!!!CDT:
+!!!PTL: Arie a voce sola
+!!!PPP: Venice
+!!!PPR: Alessandro Vincenzi
+!!!PDT: 1649
+!!!RISM: V 2186
+!!!rime: 99
+!!!AGN: Madrigal
+!!!SCT: Trm0099c
+!!!SCA: Trm0099c
+!!!voices:
+!!!COM: Vittori, Loreto
+!!!OTL: Geloso amante apro mill'occhi e giro 
+**kern	**fb	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"[Basso continuo]	*	*I"[Canto]	*
+*I'Bc	*	*I'C	*
+*oclefF4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*
+*M4/4	*	*M4/4	*
+=1	=1	=1	=1
+!!LO:TX:a:t=Sonetto. [Prima parte.]
+[1GG	.	4r	.
+.	.	4g	Ge-
+.	.	4.g	-lo-
+.	.	8f#X	-so a-
+=2	=2	=2	=2
+1GG]	.	2g	-man-
+.	.	2g	-te
+=3	=3	=3	=3
+1G	.	4g	a-
+.	.	8a	-pro
+.	.	8b-y	mil-
+.	.	4b-y	-l'oc-
+.	.	8b-y	-chi
+.	.	8cc	e
+=4	=4	=4	=4
+1D	n	2dd	gi-
+.	.	2dd	-ro
+=5	=5	=5	=5
+2D	.	8r	.
+.	.	8ff	E
+.	.	8ee	mil-
+.	.	8dd	-l'o-
+[2A	#	4cc#X	-rec-
+.	.	4a	-chi
+=6	=6	=6	=6
+2A]	.	8r	.
+.	.	8ee	ad
+.	.	8ee	o-
+.	.	8ff	-gni
+2B-y	6	4gg	suo-
+.	.	4gg	-no in-
+=7	=7	=7	=7
+2G	#6:5	4cc#X	-ten-
+.	.	2dd	.
+2A	4:3	.	.
+.	.	4cc#X	.
+=8	=8	=8	=8
+1D	#	1dd	-ti,
+=9	=9	=9	=9
+2D	#	4r	.
+.	.	4dd	E
+[2BBnX	6	2dd	sol
+=10	=10	=10	=10
+2BB]	.	8dd	di
+.	.	8g	cie-
+.	.	8g	-co ho-
+.	.	8g	-ror
+2C	-	4g	lar-
+.	.	[4ee-X	-ve
+=11	=11	=11	=11
+2A-X	6	4ee-]	.
+.	.	8ff	e
+.	.	8cc	spa-
+2G	#	4dd	-ven-
+.	.	4dd	-ti,
+=12	=12	=12	=12
+1G	.	2r	.
+.	.	2b-y	Qua-
+=13	=13	=13	=13
+2B-y	.	2dd	-si a-
+2c	.	2ee	-ni-
+=14	=14	=14	=14
+2d	.	2.ff	-mal
+2e	.	.	.
+.	.	4dd	ch'a-
+=15	=15	=15	=15
+2f	.	2cc	-dom-
+2F	.	2cc	-bra,
+=16	=16	=16	=16
+2F#X	.	4r	.
+.	.	2dd	o-
+2G	.	.	.
+.	.	[4b-y	-do e
+=17	=17	=17	=17
+2C	.	4b-]	.
+.	.	8aL	ri-
+.	.	16b-y	.
+.	.	16ccJ	.
+2D	43	2a	-mi-
+=18	=18	=18	=18
+1GG	.	1g	-ro,
+=19	=19	=19	=19
+2G	.	16b-yL	E
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+.	.	4.dd	sol
+2BnX	6	.	.
+.	.	8dd	di
+.	.	8dd	cie-
+.	.	8ee-X	-co
+=20	=20	=20	=20
+1c	-	2ee-X	ho-
+.	.	16ggL	-ror
+.	.	16ff	.
+.	.	16ee-i	.
+.	.	16ddJ	.
+.	.	16ccL	.
+.	.	16b-y	.
+.	.	16a	.
+.	.	16gJ	.
+=21	=21	=21	=21
+[1C	-	16ccL	lar-
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+.	.	16ccL	.
+.	.	16g	.
+.	.	16a-X	.
+.	.	16b-yJ	.
+.	.	16e-XL	.
+.	.	16g	.
+.	.	16e-i	.
+.	.	16fJ	.
+.	.	16gL	.
+.	.	16e-i	.
+.	.	16f	.
+.	.	16gJ	.
+=22	=22	=22	=22
+1C]	.	16cL	.
+.	.	16d	.
+.	.	16e-X	.
+.	.	16cJ	.
+.	.	16e-iL	.
+.	.	16f	.
+.	.	16g	.
+.	.	16e-iJ	.
+.	.	16gL	.
+.	.	16anXi	.
+.	.	16b-y	.
+.	.	16gJ	.
+.	.	[4cc	.
+=23	=23	=23	=23
+1C	.	16cc]L	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16ddJ	.
+.	.	16ee-XL	.
+.	.	16dd	.
+.	.	16dd	.
+.	.	32cc	.
+.	.	32ddJ	.
+.	.	16ee-iL	.
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+.	.	16ccL	.
+.	.	16b-y	.
+.	.	16b-y	.
+.	.	32a	.
+.	.	32b-yJ	.
+=24	=24	=24	=24
+2A-X	6	4cc	.
+.	.	8dd	-ve e
+.	.	8ff	spa-
+2G	n	4bnX	-ven-
+.	.	4bni	-ti,
+=25	=25	=25	=25
+2G	.	8r	.
+.	.	16gL	Qua-
+.	.	16aJ	.
+.	.	16b-iL	.
+.	.	16cc	.
+.	.	16b-y	.
+.	.	16ccJ	.
+2B-y	.	8ddL	-si a-
+.	.	16b-y	.
+.	.	16ccJ	.
+.	.	16ddL	.
+.	.	16ee-X	.
+.	.	16ff	.
+.	.	16ddJ	.
+=26	=26	=26	=26
+2c	.	8ee-X	.
+.	.	16ccL	-ni-
+.	.	16b-yJ	.
+.	.	16aL	.
+.	.	16g	.
+.	.	16f	.
+.	.	16enXiJ	.
+2d	.	8f	-mal
+.	.	16dL	ch'a-
+.	.	16eJ	.
+.	.	16fL	.
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+=27	=27	=27	=27
+2e	.	8gL	-d'om-
+.	.	16e	.
+.	.	16fJ	.
+.	.	16gL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+2f	.	4a	.
+.	.	4a	-bra,
+=28	=28	=28	=28
+2F	.	[4ff	o-
+.	.	16ff]L	.
+.	.	16ee-X	.
+.	.	16ff	.
+.	.	16ccJ	.
+2F#X	.	[4dd	.
+.	.	16dd]L	.
+.	.	16cc	.
+.	.	16b-y	.
+.	.	16aJ	.
+=29	=29	=29	=29
+2G	.	[4b-y	.
+.	.	16b-]L	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16f#XJ	.
+2C	.	4g	-do
+.	.	8a	e
+.	.	8b-y	ri-
+=30	=30	=30	=30
+1D	4:3	2.a	-mi-
+.	.	4g	.
+=31	=31	=31	=31
+1GG	.	1g	-ro.
+=32||	=32||	=32||	=32||
+!!LO:TX:a:t=[Seconda parte.]
+[1GG	.	16ddL	S'a-
+.	.	16cc	.
+.	.	16b-y	.
+.	.	16aJ	.
+.	.	16gL	.
+.	.	16f	.
+.	.	16e	.
+.	.	16dJ	.
+.	.	16gL	.
+.	.	16d	.
+.	.	16e	.
+.	.	16fJ	.
+.	.	16gL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16aJ	.
+=33	=33	=33	=33
+1GG]	.	16b-yL	.
+.	.	16f	.
+.	.	16g	.
+.	.	16aJ	.
+.	.	16b-yL	.
+.	.	16cc	.
+.	.	16dd	.
+.	.	16ccJ	.
+.	.	[4dd	.
+.	.	16dd]L	.
+.	.	16ee	.
+.	.	16ff	.
+.	.	16ddJ	.
+=34	=34	=34	=34
+[1G	.	4.gg	.
+.	.	8dd	-pre un
+.	.	4.b-y	ri-
+.	.	16a	-so
+.	.	16b-y	co-
+=35	=35	=35	=35
+1G]	.	2g	-stei,
+.	.	8r	.
+.	.	8dd	s'in
+.	.	8dd	dol-
+.	.	8ee	-ce
+=36	=36	=36	=36
+[1D	n	4ff	gi-
+.	.	4ff	-ro
+.	.	4r	.
+.	.	16ffL	Lie-
+.	.	16ee	.
+.	.	16ff	.
+.	.	16ggJ	.
+=37	=37	=37	=37
+2D]	.	4.ff	-ta
+.	.	16eeL	ri-
+.	.	16ddJ	.
+2A	#	4cc#X	-vol-
+.	.	4a	-ge
+=38	=38	=38	=38
+2A	#	8r	.
+.	.	8ee	i
+.	.	8ee	suoi
+.	.	8ff	bei
+2B-y	6	16ggL	ra-
+.	.	16dd	.
+.	.	16ee	.
+.	.	16ffJ	.
+.	.	16ggL	.
+.	.	16ff	.
+.	.	16gg	.
+.	.	16ffJ	.
+=39	=39	=39	=39
+2G	6	16eeL	.
+.	.	16bnX	.
+.	.	16cc	.
+.	.	16ddJ	.
+.	.	16eeL	.
+.	.	16dd	.
+.	.	16ee	.
+.	.	16ddJ	.
+[2A	#	16cc#XL	.
+.	.	16a	.
+.	.	16bnX	.
+.	.	16cc#XJ	.
+.	.	16ddL	.
+.	.	16a	.
+.	.	16b-i	.
+.	.	16aJ	.
+=40	=40	=40	=40
+2A]	7:6	4.g	-i
+.	.	8f	lu-
+2A	4:3	2e	-cen-
+=41	=41	=41	=41
+1D	#	1d	-ti,
+=42	=42	=42	=42
+2D	.	4r	.
+.	.	4a	Se
+2BBnX	6	4bnX	tin-
+.	.	8g	-ta
+.	.	16g	di
+.	.	16g	pie-
+=43	=43	=43	=43
+1C	-	2g	-tà
+.	.	8r	.
+.	.	8ee-X	gl'al-
+.	.	8ee-i	-tru-
+.	.	8dd	-i
+=44	=44	=44	=44
+2A-X	6	16ddL	la-
+.	.	16ee-i	.
+.	.	8ffJ	.
+.	.	8.dd	-men-
+.	.	16cc	-ti Ac-
+2G	natural	4dd	-co-
+.	.	4dd	-glie
+=45	=45	=45	=45
+2G	.	4r	.
+.	.	2b-y	o
+2B-y	.	.	.
+.	.	[4dd	mo-
+=46	=46	=46	=46
+2c	.	4dd]	.
+.	.	2ee	-v'un
+2d	.	.	.
+.	.	[4ff	guar-
+=47	=47	=47	=47
+2e	.	8ff]L	.
+.	.	16ee-X	.
+.	.	16ddJ	.
+.	.	16ccL	.
+.	.	16b-y	.
+.	.	16a	.
+.	.	16gJ	.
+2f	.	4a	.
+.	.	4a	-do
+=48	=48	=48	=48
+2F	.	8r	.
+.	.	8a	od
+.	.	16b-yL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+2F#X	.	[2dd	.
+=49	=49	=49	=49
+2G	.	8dd]L	.
+.	.	8b-yJ	.
+.	.	16ccL	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16ddJ	.
+2C	-	4ee-X	.
+.	.	8cc	un
+.	.	8b-y	so-
+=50	=50	=50	=50
+1D	4:3	1a	-spi-
+=51	=51	=51	=51
+[1GG	.	2g	-ro,
+.	.	8r	.
+.	.	8dd	Se
+.	.	8.ccL	.
+.	.	16ddJ	.
+=52	=52	=52	=52
+1GG_	.	8.aL	.
+.	.	16b-yJ	.
+.	.	8.f#XL	.
+.	.	16b-yJ	.
+.	.	8.aL	.
+.	.	16b-yJ	.
+.	.	8.f#iL	.
+.	.	16gJ	.
+=53	=53	=53	=53
+2GG]	.	4d	.
+.	.	[4g	tin-
+2G	.	16g]L	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+.	.	[4dd	.
+=54	=54	=54	=54
+2BnX	6	8dd]	.
+.	.	8dd	-ta
+.	.	8dd	di
+.	.	8ee-X	pie-
+2c	-	2ee-i	-tà
+=55	=55	=55	=55
+2c	#	8eenX	.
+.	.	8ee	gl'al-
+.	.	8ee	-tru-
+.	.	8ff	-i
+[2A-X	6	[4ff	la-
+.	.	16ff]L	.
+.	.	16ee-X	.
+.	.	16dd	.
+.	.	16ee-iJ	.
+=56	=56	=56	=56
+1A-X]	.	(4bnX	-men-
+.	.	2cc)	.
+.	.	8cc	-ti
+.	.	8dd	Ac-
+=57	=57	=57	=57
+1G	#	2dd	-co-
+.	.	2dd	-glie
+=58	=58	=58	=58
+2G	.	8r	.
+.	.	8gg	o
+.	.	8ffL	muo-
+.	.	8ee-XJ	.
+2B-y	.	8ddL	.
+.	.	8ffJ	.
+.	.	8ee-iL	.
+.	.	8ddJ	.
+=59	=59	=59	=59
+2c	.	8ccL	.
+.	.	8b-yJ	.
+.	.	8aL	.
+.	.	8gJ	.
+2d	.	8f	.
+.	.	8ff	-ve
+.	.	8ee-XL	un
+.	.	8ddJ	.
+=60	=60	=60	=60
+2e	6	8ccL	guar-
+.	.	8b-yJ	.
+.	.	8aL	.
+.	.	8gJ	.
+2f	.	4a	.
+.	.	4a	-do
+=61	=61	=61	=61
+2F	.	16fL	od
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+.	.	16ccL	.
+.	.	16dd	.
+.	.	16ee-X	.
+.	.	16ffJ	.
+2F#X	.	8.ddL	.
+.	.	16ccJ	.
+.	.	16b-yL	.
+.	.	16cc	.
+.	.	16a	.
+.	.	16b-yJ	.
+=62	=62	=62	=62
+2G	.	16gL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+.	.	16ddL	.
+.	.	16ee-X	.
+.	.	16ff	.
+.	.	16ggJ	.
+2C	-	8ee-XL	.
+.	.	8ffJ	.
+.	.	[4gg	.
+=63	=63	=63	=63
+1D	4:3	4gg]	.
+.	.	8b-y	un
+.	.	8a	so-
+.	.	2a	-spi-
+=64	=64	=64	=64
+1GG	.	1g	-ro.
+=65||	=65||	=65||	=65||
+!!LO:TX:a:t=Terza parte.
+1GG	.	4r	.
+.	.	2b-y	Te-
+.	.	4f#X	-mo
+=66	=66	=66	=66
+1GG	9	4f#i	ch'al-
+.	.	8f#i	-tri
+.	.	8g	ne
+.	.	4g	go-
+.	.	4g	-da
+=67	=67	=67	=67
+2G	.	8r	.
+.	.	8dd	e
+.	.	8b-y	che
+.	.	8a	m'in-
+[2D	.	4a	-vo-
+.	.	4a	-le
+=68	=68	=68	=68
+2D]	.	4f	L'au-
+.	.	8f	-ra
+.	.	16e	e
+.	.	16d	la
+2AA	#	4e	lu-
+.	.	4e	-ce,
+=69	=69	=69	=69
+2A	.	8r	.
+.	.	8cc#X	e
+.	.	8cc#i	sol
+.	.	8dd	mi
+2B-y	.	2dd	duol
+=70	=70	=70	=70
+2G	.	4dd	che
+.	.	[2dd	spie-
+2A	4:3	.	.
+.	.	8dd]	.
+.	.	(8cc#X	-ghi
+=71	=71	=71	=71
+2D	#	8dd)	.
+.	.	16ddL	Rag-
+.	.	16ccnXiJ	.
+.	.	16b-yL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16f#XJ	.
+2G	.	16gL	.
+.	.	16d	.
+.	.	16e	.
+.	.	16f#iJ	.
+.	.	16gL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16gJ	.
+=72	=72	=72	=72
+2B-y	.	16ddL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+.	.	16ddL	.
+.	.	16ee	.
+.	.	16ffnXi	.
+.	.	16eeJ	.
+2c	.	4gg	.
+.	.	[4cc	-gio
+=73	=73	=73	=73
+2d	.	4cc]	.
+.	.	4b-y	di
+2e	.	4.b-y	sua
+.	.	8a	bel-
+=74	=74	=74	=74
+2f	.	2a	-lez-
+2F	.	2a	-za
+=75	=75	=75	=75
+2F#X	.	4r	.
+.	.	2dd	in
+2G	.	.	.
+.	.	[4b-y	al-
+=76	=76	=76	=76
+2C	-	4b-]	.
+.	.	4a	-cun
+2D	4:3	2a	la-
+=77	=77	=77	=77
+2GG	.	2g	-to,
+2G	.	8r	.
+.	.	16gL	Rag-
+.	.	16aJ	.
+.	.	16b-yL	.
+.	.	16cc	.
+.	.	16b-y	.
+.	.	16ccJ	.
+=78	=78	=78	=78
+2B-y	.	16ddL	.
+.	.	16ee	.
+.	.	16dd	.
+.	.	16eeJ	.
+.	.	16ffL	.
+.	.	16dd	.
+.	.	16ee-X	.
+.	.	16ddJ	.
+2c	.	16ccL	.
+.	.	16dd	.
+.	.	16cc	.
+.	.	16b-yJ	.
+.	.	16aL	.
+.	.	16b-y	.
+.	.	16a	.
+.	.	16gJ	.
+=79	=79	=79	=79
+2d	.	16fL	.
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+.	.	16ccL	.
+.	.	16dd	.
+.	.	16ee-X	.
+.	.	16ffJ	.
+2e	6	8cc	.
+.	.	16cc	-gio
+.	.	16b-y	di
+.	.	16b-y	su-
+.	.	16a	-a
+.	.	8a	bel-
+=80	=80	=80	=80
+2f	.	2a	-lez-
+2F	.	2a	-za
+=81	=81	=81	=81
+2F#X	.	4r	.
+.	.	2a	in
+2G	.	.	.
+.	.	[4a	al-
+=82	=82	=82	=82
+2C	6	4a]	.
+.	.	4a	-cun
+2D	4:3	2a	la-
+=83	=83	=83	=83
+1GG	.	1g	-to.
+=84||	=84||	=84||	=84||
+!!LO:TX:a:t=[Quarta parte.]
+[1GG	.	8r	.
+.	.	8dd	Si
+.	.	2b-y	nie-
+.	.	8a	-ghi
+.	.	8b-y	a
+=85	=85	=85	=85
+1GG]	.	4.g	me
+.	.	8d	pur
+.	.	8g	ch'a
+.	.	8a	cia-
+.	.	8.b-y	-scun
+.	.	16g	si
+=86	=86	=86	=86
+[1D	n	2a	nie-
+.	.	8a	-ghi;
+.	.	8f	Ché,
+.	.	[4f	quan-
+=87	=87	=87	=87
+2D]	.	8f]	.
+.	.	8f	-do al-
+.	.	8f	-trui
+.	.	8e	non
+2AA	#	4e	splen-
+.	.	4e	-da
+=88	=88	=88	=88
+2A	#	4.a	il
+.	.	16b-yL	.
+.	.	16ccJ	.
+2B-y	.	8dd	.
+.	.	4f	mio
+.	.	16gL	.
+.	.	16aJ	.
+=89	=89	=89	=89
+2G	.	8b-yL	.
+.	.	8dJ	.
+.	.	16eL	bel
+.	.	16f	.
+.	.	16g	.
+.	.	16fJ	.
+2A	4:3	2e	so-
+=90	=90	=90	=90
+1D	.	1d	-le,
+=91	=91	=91	=91
+2G	.	4r	.
+.	.	2b-y	Nel-
+2B-y	.	.	.
+.	.	[4b-y	-le
+=92	=92	=92	=92
+2c	.	4b-]	.
+.	.	2b-y	te-
+2d	.	.	.
+.	.	[4b-y	-ne-
+=93	=93	=93	=93
+2e	.	4b-]	.
+.	.	4a	-bre an-
+2f	.	2a	-cor
+=94	=94	=94	=94
+2F#X	.	4r	.
+.	.	2a	vi-
+2G	.	.	.
+.	.	[4a	-vrò
+=95	=95	=95	=95
+2C	.	4a]	.
+.	.	4a	be-
+2D	.	2a	-a-
+=96	=96	=96	=96
+1GG	.	1g	-to,
+=97	=97	=97	=97
+2G	.	16r	.
+.	.	16dL	Nel-
+.	.	16e	.
+.	.	16fJ	.
+.	.	16gL	.
+.	.	16b-y	.
+.	.	16a	.
+.	.	16gJ	.
+2B-y	.	16fL	-le
+.	.	16a	.
+.	.	16b-y	.
+.	.	16ccJ	.
+.	.	16ddL	.
+.	.	16ff	.
+.	.	16ee-X	.
+.	.	16ddJ	.
+=98	=98	=98	=98
+2c	.	16ccL	te-
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+.	.	16ccL	.
+.	.	16g	.
+.	.	16a	.
+.	.	16gJ	.
+2d	.	16fL	.
+.	.	16cc	.
+.	.	16dd	.
+.	.	16eenXiJ	.
+.	.	16ffL	.
+.	.	16cc	.
+.	.	16dd	.
+.	.	16ccJ	.
+=99	=99	=99	=99
+2e	.	4.b-y	-ne-
+.	.	16b-y	-bre
+.	.	16a	an-
+2f	.	2a	-cor
+=100	=100	=100	=100
+2F	.	8r	.
+.	.	16fL	vi-
+.	.	16gJ	.
+.	.	16aL	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16aJ	.
+2F#X	.	16ddL	-vrò
+.	.	16cc	.
+.	.	16cc	.
+.	.	32b-y	.
+.	.	32aJ	.
+.	.	16ddL	.
+.	.	16cc	.
+.	.	16cc	.
+.	.	32b-y	.
+.	.	32aJ	.
+=101	=101	=101	=101
+2G	.	16b-yL	.
+.	.	16g	.
+.	.	16a	.
+.	.	16b-yJ	.
+.	.	16ccL	.
+.	.	16dd	.
+.	.	16ee-X	.
+.	.	16ffJ	.
+2C	-:6	4.gg	.
+.	.	8a	be-
+=102	=102	=102	=102
+1D	4:3	1a	-a-
+=103	=103	=103	=103
+1GGl	.	1gl	-to.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	99
+!!@CATALOGNUM:	Trm0099
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Geloso amante apro mill'occhi e giro
+!!@GENRE:		sonetto
+!!@MANUSRC:	A<sub>3</sub>, Amz, Ber, Brn, C, I<sub>4</sub>, I<sub>5</sub>, Mi, N<sub>11</sub>, P<sub>4</sub>, Ts<sub>1</sub>, V<sub>8</sub>, V<sub>13/TS1</sub>, VE<sub>1</sub>, W, Y, Z<sub>1</sub>
+!!@PRINTSRC:	7, 8, 9, 11, 12, 13, 15, 20, 24, 29, 33, 67, 85, 87, 141, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	Descrive in sé medesimo la natura e la sollecitudine de' gelosi.
+!!@ABOUTEN:	[Referring to himself], he describes the nature and alertness of jealous [lovers].
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  144-45
+!!@TRANSLATOR:	Anthony Newcomb; adapted by Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Geloso amante apro mill'occhi e giro
+!!	E mille orecchi ad ogni suono intenti,
+!!	E sol di cieco orror larve e spaventi,
+!!	Quasi animal ch'adombre, odo e rimiro.
+!!@VERSE:
+!!	S'apre un riso costei, se 'n dolce giro
+!!	Lieta rivolge i begli occhi lucenti,
+!!	Se tinta di pietà gli altrui lamenti
+!!	Accoglie o move un detto od un sospiro,
+!!@VERSE:
+!!	Temo ch'altri ne goda e che m'invole
+!!	L'aura e la luce, e ben mi duol che spieghi
+!!	Raggio di sua bellezza in alcun lato.
+!!@VERSE:
+!!	Si neghi a me pur ch'a ciascun si neghi;
+!!	Ché, quando altrui non splenda il mio bel sole,
+!!	Ne le tenebre ancor vivrò beato.
+!!@TVERSE:
+!!	Jealous lover, I open a thousand eyes and turn [to look],
+!!	And a thousand ears upon every sound intent,
+!!	And, with blind horror alone, specters and terrors,
+!!	Like an animal that hides, I hear and stare.
+!!@TVERSE:
+!!	If she unveils a smile, if in a sweet glance
+!!	Happily she turns her beautiful, shining eyes,
+!!	If, touched by pity, the laments of others,
+!!	She receives, or utters a word or a sigh,
+!!@TVERSE:
+!!	I fear that others may enjoy it and steal from me
+!!	The air and the light, and it greatly pains me that she should display
+!!	A ray of her beauty in any direction.
+!!@TVERSE:
+!!	Let it be denied me, as long as it is denied everyone,
+!!	Because when for others my beautiful sun does not shine
+!!	Even in the darkness I will live blessed.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   Torquato Tasso, <i>Rime d’amore (secondo il codice
+!!		Chigiano L VIII 302)</i>, eds. Franco Gavazzeni and
+!!		Vercingetorige Martignone, vol. 4 of <i>Edizione
+!!		Nazionale delle opere di Torquato Tasso</i>
+!!		(Alessandria: Edizioni Dell’Orso, 2004), 137; and Torquato Tasso, <i>Rime d’amore con l'esposizione dello stesso Autore (secondo la stampa di Mantova, Osanna, 1591)</i>, ed. Vania De Maldé, vol. 4 of <i>Edizione
+!!		Nazionale delle opere di Torquato Tasso</i>
+!!		(Alessandria: Edizioni Dell’Orso, 2016), 173.
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		Among other authoritative sources (see Literary
+!!		Sources), this poem appears in the autograph Chigiano
+!!		L.VIII.302 (Biblioteca Vaticana, Rome), compiled
+!!		around 1584&ndash;85, and in the print supervised by Tasso himself, <i> Delle rime del Sig. Torquato Tasso. Parte prima. Di nuovo dal medesimo in questa nuova impressione ordinate, corrette, accresciute, et date in luce. Con l'esposizione dello stesso autore</i> (Mantua: Osanna, 1591).
+!!@DATING:
+!!@DEDICATEE:	Bendidio, Lucrezia ?
+!!		Although Solerti places this sonnet among those for Lucrezia Bendidio, both in the autograph Chigiano L.VIII.302 (Biblioteca Vaticana, Rome) and in the authoritative Osanna print of 1591 the sonnet appears in the second half of these collections, which feature poems addressed to Laura Peperara and other ladies, both named and, as with "Geloso amante," unnamed. In addition, the poem itself does not contain any explicit references to Lucrezia Bendidio.
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0099c
+!!@RIMETITLE:	Geloso amante apro mill'occhi e giro
+!!@SOLERTI:	99
+!!@COMPOSER:	Vittori, Loreto
+!!@PRINCEPSTITLE:	Arie a voce sola
+!!@PRINCEPSLOC:	Venetia
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Alessandro Vincenzi
+!!@NORMPUBSHORT:	A. Vincenzi
+!!@PRINCEPSPUB:	Alessandro Vincenti
+!!@PRINCEPSYEAR:	1649
+!!@PRINCEPSRISM:	V 2186
+!!@REPRINTS:	
+!!@OVOICES:	1 + bc
+!!@EXTANTVOICES:	1 + bc
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	C1,F4
+!!@OMENSURATION:	C
+!!@OKEYSIG:	b-
+!!@FINAL:	(G)(G)(G)G
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@NOTE:		
+!!@@END:		SETTING

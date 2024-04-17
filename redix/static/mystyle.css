@@ -20,8 +20,9 @@
 }
 
 .dropdown-check-list {
-  height: 280px;
-  margin: 10px 10px;
+  height: 420px;
+  width: 420px;
+  margin: 2px 2px;
   padding: 10px 10px;
   overflow: auto;
   background-color: white;

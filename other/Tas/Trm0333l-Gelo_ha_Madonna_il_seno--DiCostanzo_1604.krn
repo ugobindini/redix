@@ -1,0 +1,253 @@
+!!!COM: Di Costanzo, Alessandro
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a quattro voci
+!!!PPP: Naples
+!!!PPR: Sottile
+!!!PDT: 1604
+!!!PUB-format:
+!!!RISM: D 2287
+!!!rime: 333
+!!!OTL:	Gelo ha Madonna il seno
+!!!AGN: Madrigal
+!!!SCT: Trm0333l
+!!!SCA: Trm0333l
+!!!original-voices: 4
+!!!extant-voices: 1
+!!!complete: N
+!!!final: G
+**kern	**text
+*part1	*part1
+*staff1	*staff1
+*I"Basso	*
+*I'B	*
+*oclefF4	*
+*clefF4	*
+*k[]	*
+*omet(C)	*
+*M4/2	*
+=1	=1
+1G	Ge-
+2B	-lo ha
+2E	Ma-
+=2	=2
+2G	-don-
+2BB	-na il
+1D	se-
+=3	=3
+2D	-no
+4r	.
+4G	e
+8AL	fiam-
+8G	.
+8F	.
+8EJ	.
+4D	.
+4D	-ma il
+=4	=4
+4E	vol-
+8DL	.
+8CJ	.
+2G	.
+1C	-to;
+=5	=5
+2r	.
+4B-X	Io
+4B-i	son
+2.B-i	ghiac-
+8A	-cio
+8G	di
+=6	=6
+2A	fo-
+4A	-re
+4D	E 'l
+4.F	fo-
+8C	-c'ho
+4G	den-
+4D	-tr'ac-
+=7	=7
+2E	-col-
+2AA	-to,
+4r	.
+4AA	<E 'l
+4.C	fo-
+8GG	-c'ho
+=8	=8
+4D	den-
+4BB-X	-tr'ac-
+2AA	-col-
+1D	-to.>
+=9	=9
+1r	.
+2r	.
+2G	Que-
+=10	=10
+4E	-st'a-
+2F	-vien
+8E	per-
+8E	-ch'A-
+1D	-mo-
+=11	=11
+2C	-re
+2r	.
+8r	.
+8A	Ne
+8A	la
+8A	sua
+4G	fron-
+4G	-te al-
+=12	=12
+8F	-ber-
+8E	-ga e
+8F	nel
+8G	mio
+2A	pet-
+2D	-to,
+8r	.
+8AA	e
+8C	nel
+8D	mio
+=13	=13
+2E	pet-
+8D	-to,
+8D	<e
+8F	nel
+8G	mio
+2A	pet-
+2D	-to,>
+=14	=14
+4r	.
+4C	Né
+4E	mai
+2BB	can-
+8D	-gia
+8AA	ri-
+2C	-cet-
+=15	=15
+2FF	-to,
+4r	.
+4C	<Né
+4E	mai
+2BB	can-
+8D	-gia
+8AA	ri-
+=16	=16
+2C	-cet-
+2F	-to>
+2r	.
+[2c	Sì
+=17	=17
+4c]	.
+4A	ch'io
+2.G	l'hab-
+4G	-bia
+2F#X	ne
+=18	=18
+2G	gl'oc-
+2E	-chi el-
+2C#X	-la
+2F#X	nel
+=19	=19
+1A	co-
+2D	-re,
+[2F	<Sì
+=20	=20
+4F]	.
+4D	ch'io
+2.C	l'hab-
+4C	-bia
+2BB	ne-
+=21	=21
+2C	-gl'oc-
+2AA	-chi el-
+2FF#X	-la
+2BB	nel
+=22	=22
+1D	co-
+1GGl	-re.>
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2017/11
+!!!EED: Deutsch, Catherine
+!!!EEV: 2018/07/09
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/09 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	333
+!!@CATALOGNUM:	Trm0333
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Gelo ha Madonna il seno, e fiamma il volto
+!!@GENRE:		madrigale
+!!@MANUSRC:	A<sub>3</sub>, Amz, C, E<sub>1</sub>, E<sub>7</sub>, Flc<sub>2</sub>, I<sub>4</sub>, I<sub>5</sub>, M<sub>7</sub>, P<sub>4</sub>, V<sub>2</sub>, V<sub>8</sub>, V<sub>13/E1</sub>, W
+!!@PRINTSRC:	8, 9, 11, 12, 13, 15, 20, 24, 29, 33, 67, 93, 141, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	Rende la ragione perché la sua donna sia amata ed egli amante.
+!!@ABOUTEN:	He explains the reason why his lady is the beloved and he is the lover.
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  381
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Gelo ha Madonna il seno, e fiamma il volto;
+!!	Io son ghiaccio di fuore
+!!	E 'l foco ho dentro accolto.
+!!	Questo avvien, perch'Amore
+!!	Ne la sua fronte alberga e nel mio petto,
+!!	Né mai cangia ricetto
+!!	Sì ch'io l'abbia ne gli occhi, ella nel core.
+!!@TVERSE:
+!!	Ice has my lady [in] her breast, and flame [in] her face;
+!!	I am ice on the outside
+!!	And fire I have embraced within.
+!!	This happens because Love
+!!	In her forehead dwells and in my heart,
+!!	Nor ever does it change refuge
+!!	So that I have it in my eyes, she in her heart.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   Torquato Tasso, <i>Rime d’amore (secondo il codice
+!!		Chigiano L VIII 302)</i>, eds. Franco Gavazzeni and
+!!		Vercingetorige Martignone, vol. 4 of <i>Edizione
+!!		Nazionale delle opere di Torquato Tasso</i>
+!!		(Alessandria: Edizioni Dell’Orso, 2004), 170.
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		Among other authoritative sources (see Literary
+!!		Sources), this poem appears in the autograph Chigiano
+!!		L.VIII.302 (Biblioteca Vaticana, Rome), compiled
+!!		around 1584&ndash;85.
+!!@DATING:	In or before 1578
+!!	<br>
+!!	The earliest datable appearance of this poem is in a musical setting by the Veronese composer Paolo Bellasio, published in 1578 (see Musical Settings).
+!!@DEDICATEE:
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0333l
+!!@RIMETITLE:	Gelo ha Madonna il seno
+!!@SOLERTI:	333
+!!@COMPOSER:	Di Costanzo, Alessandro
+!!@PRINCEPSTITLE:	Il primo libro de madrigali a quattro voci
+!!@PRINCEPSLOC:	Napoli
+!!@NORMLOC:	Naples
+!!@NORMPUB:	Sottile
+!!@NORMPUBSHORT:	Sottile
+!!@PRINCEPSPUB:	Sottile
+!!@PRINCEPSYEAR:	1604
+!!@PRINCEPSRISM:	D 2287
+!!@REPRINTS:	
+!!@OVOICES:	4
+!!@EXTANTVOICES:	1
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	F4
+!!@OMENSURATION:	C
+!!@OKEYSIG:	-
+!!@FINAL:	G
+!!@TIMPEDITOR:	Deutsch, Catherine
+!!@NOTE:		
+!!@@END:		SETTING

@@ -1,0 +1,1192 @@
+!!!CDT:
+!!!PTL: Le musiche a due voci
+!!!PPP: Venice
+!!!PPR: Ricciardo Amadino
+!!!PDT: 1615
+!!!RISM: I 28
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg04029a
+!!!SCA: Tsg04029a
+!!!voices:
+!!!COM: D'India, Sigismondo
+!!!OTL: Argo non mai, non vide Cipro o Delo
+**kern	**fb	**kern	**text	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso continuo	*	*I"Canto II	*	*I"Canto I	*
+*I'Bc	*	*I'C II	*	*I'C I	*
+*oclefF4	*	*oclefC1	*	*oclefC1	*
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*	*omet(C)	*
+*M4/4	*	*M4/4	*	*M4/4	*
+=1	=1	=1	=1	=1	=1
+!!LO:TX:a:t=Ottave Passeggiate. [Prima parte]
+2r	.	1r	.	1r	.
+4G	.	.	.	.	.
+4A	.	.	.	.	.
+=2	=2	=2	=2	=2	=2
+[1B-y	.	[1b-y	Ar-	[1dd	Ar-
+=3	=3	=3	=3	=3	=3
+2B-]	.	1b-_	.	1dd_	.
+2A	.	.	.	.	.
+=4	=4	=4	=4	=4	=4
+1G	.	2b-]	.	2dd]	.
+.	.	4a	-go	4cc	-go
+.	.	4g	non	4b-y	non
+=5	=5	=5	=5	=5	=5
+[1F	.	1a	ma-	1cc	mai,
+=6	=6	=6	=6	=6	=6
+2F]	.	2a	-i,	4r	.
+.	.	.	.	4a	non
+2D	6	4r	.	[2b-y	vi-
+.	.	4f	non	.	.
+=7	=7	=7	=7	=7	=7
+2E	6	2.g	vi-	4b-]	.
+.	.	.	.	4cc	-de
+2F	6	.	.	[2dd	Ci-
+.	.	4a	-de	.	.
+=8	=8	=8	=8	=8	=8
+[1G	.	2.b-y	Ci-	4dd]	.
+.	.	.	.	8ccL	.
+.	.	.	.	8b-yJ	.
+.	.	.	.	8ee-XL	.
+.	.	.	.	8ddJ	.
+.	.	8aL	.	8ddL	.
+.	.	8gJ	.	16cc	.
+.	.	.	.	16b-yJ	.
+=9	=9	=9	=9	=9	=9
+2G]	.	8ccL	.	2a	.
+.	.	8b-yJ	.	.	.
+.	.	8b-yL	.	.	.
+.	.	16a	.	.	.
+.	.	16gJ	.	.	.
+2F	6	[2a	.	2dd	-pro o
+=10	=10	=10	=10	=10	=10
+1E-X	.	4a]	.	8ee-XL	De-
+.	.	.	.	8ddJ	.
+.	.	4g	-pro o	8ddL	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-yJ	.
+.	.	[2g	De-	8ccL	.
+.	.	.	.	8b-yJ	.
+.	.	.	.	8b-yL	.
+.	.	.	.	16a	.
+.	.	.	.	16gJ	.
+=11	=11	=11	=11	=11	=11
+[1D	.	2g]	.	2a	.
+.	.	2f#X	-lo,	2a	-lo,
+=12	=12	=12	=12	=12	=12
+2D]	.	1r	.	1r	.
+2D	.	.	.	.	.
+=13	=13	=13	=13	=13	=13
+2D	.	1r	.	1r	.
+2C	.	.	.	.	.
+=14	=14	=14	=14	=14	=14
+[1BB-y	.	[1ff	D'ha-	[1dd	D'ha-
+=15	=15	=15	=15	=15	=15
+2BB-]	.	2ff]	.	2dd]	.
+2C	.	4ee	-bi-	4cc	-bi-
+.	.	4dd	-to o	4b-y	-to o
+=16	=16	=16	=16	=16	=16
+2D	.	2cc	di	2a	di
+2E	.	2b-y	bel-	2g	bel-
+=17	=17	=17	=17	=17	=17
+1F	.	2b-y	-tà	[1cc	-tà
+.	.	4a	.	.	.
+.	.	4g	.	.	.
+=18	=18	=18	=18	=18	=18
+2F	.	2a	.	2cc]	.
+2D	.	2r	.	[2dd	for-
+=19	=19	=19	=19	=19	=19
+2E	.	[1b-y	for-	2dd]	.
+2F	.	.	.	4cc	-me
+.	.	.	.	4b-y	sì
+=20	=20	=20	=20	=20	=20
+1G	.	2b-]	.	8b-yL	ca-
+.	.	.	.	8fJ	.
+.	.	.	.	8gL	.
+.	.	.	.	8aJ	.
+.	.	4a	-me	8b-yL	.
+.	.	.	.	8ccJ	.
+.	.	4g	sì	(8ddL	.
+.	.	.	.	8dd)J	.
+=21	=21	=21	=21	=21	=21
+2E-X	.	8gL	ca-	8r	.
+.	.	8dJ	.	8g	.
+.	.	8e-iL	.	8aL	.
+.	.	8fJ	.	8b-yJ	.
+2C	.	8gL	.	8ccL	.
+.	.	8aJ	.	8ddJ	.
+.	.	8b-yL	.	(8ee-XL	.
+.	.	8ccJ	.	8ee-i)J	.
+=22	=22	=22	=22	=22	=22
+1D	.	4f#X	.	8r	.
+.	.	.	.	8b-y	.
+.	.	2g	.	8aL	.
+.	.	.	.	8gJ	.
+.	.	.	.	2a	.
+.	.	4f#X	.	.	.
+=23	=23	=23	=23	=23	=23
+1GG	.	1g	-re.	1g	-re.
+=24||	=24||	=24||	=24||	=24||	=24||
+!!LO:TX:a:t= [Seconda parte]
+2r	.	1r	.	1r	.
+4G	.	.	.	.	.
+4A	.	.	.	.	.
+=25	=25	=25	=25	=25	=25
+[1B-y	.	1r	.	2r	.
+.	.	.	.	[2b-y	D'hau-
+=26	=26	=26	=26	=26	=26
+2B-]	.	1r	.	4b-]	.
+.	.	.	.	8dd	-ro ha
+.	.	.	.	8ee	la
+2A	.	.	.	16ffL	chio-
+.	.	.	.	16ee	.
+.	.	.	.	16dd	.
+.	.	.	.	16eeJ	.
+.	.	.	.	16ffL	.
+.	.	.	.	16dd	.
+.	.	.	.	16ee	.
+.	.	.	.	16ffJ	.
+=27	=27	=27	=27	=27	=27
+1G	.	2.b-y	D'hau-	16ddL	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-y	.
+.	.	.	.	16ccJ	.
+.	.	.	.	16ddL	.
+.	.	.	.	16b-y	.
+.	.	.	.	16cc	.
+.	.	.	.	16ddJ	.
+.	.	.	.	[2b-y	.
+.	.	8dd	-ro ha	.	.
+.	.	8ee	la	.	.
+=28	=28	=28	=28	=28	=28
+[1F	.	16ffL	chio-	4b-]	.
+.	.	16ee	.	.	.
+.	.	16dd	.	.	.
+.	.	16eeJ	.	.	.
+.	.	16ffL	.	4a	-ma,
+.	.	16dd	.	.	.
+.	.	16ee	.	.	.
+.	.	16ffJ	.	.	.
+.	.	16ddL	.	4r	.
+.	.	16cc	.	.	.
+.	.	16b-y	.	.	.
+.	.	16ccJ	.	.	.
+.	.	16ddL	.	4a	ed
+.	.	16b-y	.	.	.
+.	.	16cc	.	.	.
+.	.	16ddJ	.	.	.
+=29	=29	=29	=29	=29	=29
+2F]	.	4.b-y	.	4b-y	hor
+.	.	.	.	4cc	dal
+.	.	8a	.	.	.
+2D	.	2b-y	-ma,	[2dd	bian-
+=30	=30	=30	=30	=30	=30
+2E	.	2r	.	4dd]	.
+.	.	.	.	16ccL	.
+.	.	.	.	16b-y	.
+.	.	.	.	16a	.
+.	.	.	.	16gJ	.
+2F	.	4r	.	16aL	.
+.	.	.	.	16e	.
+.	.	.	.	16f	.
+.	.	.	.	16gJ	.
+.	.	4a	ed	16aL	.
+.	.	.	.	16b-y	.
+.	.	.	.	16cc	.
+.	.	.	.	16ddJ	.
+=31	=31	=31	=31	=31	=31
+[1G	.	4b-y	hor	4ee-X	.
+.	.	4cc	dal	16ffL	.
+.	.	.	.	16eenXi	.
+.	.	.	.	16dd	.
+.	.	.	.	16ccJ	.
+.	.	[2dd	bian-	16b-yL	.
+.	.	.	.	16a	.
+.	.	.	.	[8b-yJ	.
+.	.	.	.	4b-_	.
+=32	=32	=32	=32	=32	=32
+2G]	.	4dd]	.	4b-]	.
+.	.	16ccL	.	4a	-co
+.	.	16b-y	.	.	.
+.	.	16a	.	.	.
+.	.	16gJ	.	.	.
+2F	.	16aL	.	[2d	ve-
+.	.	16e	.	.	.
+.	.	16f	.	.	.
+.	.	16gJ	.	.	.
+.	.	16aL	.	.	.
+.	.	16b-y	.	.	.
+.	.	16cc	.	.	.
+.	.	16ddJ	.	.	.
+=33	=33	=33	=33	=33	=33
+1E-X	.	2.ee-X	.	2d]	.
+.	.	.	.	2c	.
+.	.	16e-iL	-co	.	.
+.	.	16d	.	.	.
+.	.	16e-i	.	.	.
+.	.	16fJ	.	.	.
+=34	=34	=34	=34	=34	=34
+[1D	.	4.a	ve-	1d	-lo
+.	.	8g	.	.	.
+.	.	2a	-lo	.	.
+=35	=35	=35	=35	=35	=35
+2D]	.	1r	.	2r	.
+2D	.	.	.	4r	.
+.	.	.	.	4b-y	Tra-
+=36	=36	=36	=36	=36	=36
+2D	.	1r	.	2.b-y	-lu-
+2C	.	.	.	.	.
+.	.	.	.	4a	-ce in-
+=37	=37	=37	=37	=37	=37
+[1BB-y	.	1r	.	16b-yL	-vol-
+.	.	.	.	16f	.
+.	.	.	.	16g	.
+.	.	.	.	16fJ	.
+.	.	.	.	16gL	.
+.	.	.	.	16a	.
+.	.	.	.	16b-y	.
+.	.	.	.	16aJ	.
+.	.	.	.	16b-yL	.
+.	.	.	.	16cc	.
+.	.	.	.	16dd	.
+.	.	.	.	16aJ	.
+.	.	.	.	16b-yL	.
+.	.	.	.	16a	.
+.	.	.	.	16b-y	.
+.	.	.	.	16ccJ	.
+=38	=38	=38	=38	=38	=38
+2BB-]	.	2r	.	16ddL	.
+.	.	.	.	16cc	.
+.	.	.	.	16dd	.
+.	.	.	.	16b-yJ	.
+.	.	.	.	16ccL	.
+.	.	.	.	16b-y	.
+.	.	.	.	16cc	.
+.	.	.	.	16ddJ	.
+2C	.	4r	.	16ee-XL	.
+.	.	.	.	16dd	.
+.	.	.	.	16ee-X	.
+.	.	.	.	16ccJ	.
+.	.	4b-y	Tra-	16ddL	.
+.	.	.	.	16cc	.
+.	.	.	.	16dd	.
+.	.	.	.	16eenXiJ	.
+=39	=39	=39	=39	=39	=39
+2D	.	2.b-y	-lu-	1ff	.
+2E	.	.	.	.	.
+.	.	4a	-ce in-	.	.
+=40	=40	=40	=40	=40	=40
+[1F	.	16aL	-vol-	[1cc	-ta, hor
+.	.	16e	.	.	.
+.	.	16f	.	.	.
+.	.	16eJ	.	.	.
+.	.	16fL	.	.	.
+.	.	16g	.	.	.
+.	.	16a	.	.	.
+.	.	16gJ	.	.	.
+.	.	16aL	.	.	.
+.	.	16b-y	.	.	.
+.	.	16cc	.	.	.
+.	.	16gJ	.	.	.
+.	.	16aL	.	.	.
+.	.	16g	.	.	.
+.	.	16a	.	.	.
+.	.	16b-yJ	.	.	.
+=41	=41	=41	=41	=41	=41
+2F]	.	16ccL	.	2cc]	.
+.	.	16b-y	.	.	.
+.	.	16cc	.	.	.
+.	.	16aJ	.	.	.
+.	.	16b-yL	.	.	.
+.	.	16a	.	.	.
+.	.	16b-y	.	.	.
+.	.	16ccJ	.	.	.
+2D	.	[2dd	-ta,	4b-y	di-
+.	.	.	.	4b-y	-sco-
+=42	=42	=42	=42	=42	=42
+2E	.	2dd]	.	2b-y	-per-
+2F	.	[2cc	hor	2a	-ta ap-
+=43	=43	=43	=43	=43	=43
+1G	.	2cc]	.	[2dd	-pa-
+.	.	4b-y	di-	16dd]L	.
+.	.	.	.	16g	.
+.	.	.	.	16a	.
+.	.	.	.	16b-yJ	.
+.	.	4b-y	-sco-	16ccL	.
+.	.	.	.	16dd	.
+.	.	.	.	16ee	.
+.	.	.	.	16ffJ	.
+=44	=44	=44	=44	=44	=44
+2E-X	.	16b-yL	-per-	2.gg	.
+.	.	16g	.	.	.
+.	.	16a	.	.	.
+.	.	16b-yJ	.	.	.
+.	.	16ccL	.	.	.
+.	.	16dd	.	.	.
+.	.	16ee	.	.	.
+.	.	16ffJ	.	.	.
+2C	.	[2gg	.	.	.
+.	.	.	.	16b-yL	.
+.	.	.	.	16a	.
+.	.	.	.	16b-y	.
+.	.	.	.	16ccJ	.
+=45	=45	=45	=45	=45	=45
+1D	.	4gg]	.	4a	.
+.	.	16b-yL	-ta ap-	2g	.
+.	.	16a	.	.	.
+.	.	16b-y	.	.	.
+.	.	16ccJ	.	.	.
+.	.	2a	-pa-	.	.
+.	.	.	.	4f#X	.
+=46	=46	=46	=46	=46	=46
+[1GG	.	1g	-re,	1g	-re,
+=47	=47	=47	=47	=47	=47
+2GG]	.	1r	.	1r	.
+4G	.	.	.	.	.
+4A	.	.	.	.	.
+=48	=48	=48	=48	=48	=48
+[1B-y	.	1r	.	1r	.
+=49	=49	=49	=49	=49	=49
+2B-]	.	1r	.	2r	.
+2A	.	.	.	2ff	Tra-
+=50	=50	=50	=50	=50	=50
+1G	.	2r	.	2.ff	-lu-
+.	.	2b-y	Tra-	.	.
+.	.	.	.	4ee-X	-ce in-
+=51	=51	=51	=51	=51	=51
+[1F	.	2.b-y	-lu-	8ee-XL	-vol-
+.	.	.	.	8ddJ	.
+.	.	.	.	8ddL	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-yJ	.
+.	.	.	.	8b-yL	.
+.	.	.	.	8aJ	.
+.	.	4a	-ce in-	8b-yL	.
+.	.	.	.	8ccJ	.
+=52	=52	=52	=52	=52	=52
+2F]	.	8aL	-vol-	4dd	.
+.	.	8gJ	.	.	.
+.	.	8gL	.	2dd	-ta, hor
+.	.	16f	.	.	.
+.	.	16eJ	.	.	.
+2D	.	8fL	.	.	.
+.	.	8dJ	.	.	.
+.	.	8eL	.	8cc	di-
+.	.	8fJ	.	8b-y	-sco-
+=53	=53	=53	=53	=53	=53
+2E	.	4g	.	8ccL	-per-
+.	.	.	.	16dd	.
+.	.	.	.	16ccJ	.
+.	.	2cc	-ta, hor	8b-yL	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-yJ	.
+2F	.	.	.	4.a	.
+.	.	8b-y	di-	.	.
+.	.	8a	-sco-	16ffL	.
+.	.	.	.	16eeJ	.
+=54	=54	=54	=54	=54	=54
+1G	.	8b-yL	-per-	8ddL	.
+.	.	16cc	.	16ee-X	.
+.	.	16b-yJ	.	16ddJ	.
+.	.	8aL	.	8ccL	.
+.	.	16b-y	.	16dd	.
+.	.	16aJ	.	16ccJ	.
+.	.	4.g	.	8b-yL	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-yJ	.
+.	.	.	.	8aL	.
+.	.	16ee-XL	-ta ap-	16b-y	.
+.	.	16ddJ	.	16aJ	.
+=55	=55	=55	=55	=55	=55
+2E-X	.	8ccL	.	4.g	.
+.	.	16dd	.	.	.
+.	.	16ccJ	.	.	.
+.	.	8b-yL	.	.	.
+.	.	16cc	.	16ee-XL	-ta ap-
+.	.	16b-yJ	.	16ddJ	.
+2C	.	8a	.	8ccL	.
+.	.	16ddL	-pa-	16b-y	.
+.	.	16ccJ	.	16aJ	.
+.	.	8b-yL	.	8gL	.
+.	.	16cc	.	16a	.
+.	.	16b-yJ	.	16gJ	.
+=56	=56	=56	=56	=56	=56
+1D	.	8aL	.	8f#X	.
+.	.	16b-y	.	16ddL	-pa-
+.	.	16aJ	.	16ccJ	.
+.	.	2g	.	8b-yL	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-yJ	.
+.	.	.	.	2a	.
+.	.	4f#X	.	.	.
+=57	=57	=57	=57	=57	=57
+1GG	.	1g	-re.	1g	-re.
+=58||	=58||	=58||	=58||	=58||	=58||
+!!LO:TX:a:t=[Terza parte]	
+2r	.	1r	.	2r	.
+4G	.	.	.	[2b-y	Co-
+4A	.	.	.	.	.
+=59	=59	=59	=59	=59	=59
+[1B-y	.	2r	.	4b-]	.
+.	.	.	.	2.f	-sì,
+.	.	[2ff	Co-	.	.
+=60	=60	=60	=60	=60	=60
+2B-]	.	4ff]	.	8r	.
+.	.	.	.	8A	qual
+.	.	2.cc	-sì,	8B-yL	.
+.	.	.	.	8cJ	.
+2A	.	.	.	8dL	.
+.	.	.	.	8eJ	.
+.	.	.	.	8fL	.
+.	.	.	.	8eJ	.
+=61	=61	=61	=61	=61	=61
+1G	.	8r	.	1g	hor
+.	.	8e	qual	.	.
+.	.	8fL	.	.	.
+.	.	8gJ	.	.	.
+.	.	8aL	.	.	.
+.	.	8b-yJ	.	.	.
+.	.	8ccL	.	.	.
+.	.	8b-yJ	.	.	.
+=62	=62	=62	=62	=62	=62
+[1F	.	1cc	hor	1r	.
+=63	=63	=63	=63	=63	=63
+2F]	.	1r	.	2.a	si
+2D	.	.	.	.	.
+.	.	.	.	8dd	ras-
+.	.	.	.	8cc	-se-
+=64	=64	=64	=64	=64	=64
+2E	.	2.cc	si	16ccL	-re-
+.	.	.	.	16g	.
+.	.	.	.	16a	.
+.	.	.	.	16bnXiJ	.
+.	.	.	.	16ccL	.
+.	.	.	.	16e	.
+.	.	.	.	16f	.
+.	.	.	.	16gJ	.
+2F	.	.	.	16aL	.
+.	.	.	.	16g	.
+.	.	.	.	16a	.
+.	.	.	.	16b-iJ	.
+.	.	8ff	ras-	16gL	.
+.	.	.	.	16f	.
+.	.	8ee	-se-	16g	.
+.	.	.	.	16aJ	.
+=65	=65	=65	=65	=65	=65
+[1G	.	16ddL	-re-	16b-yL	.
+.	.	16b-y	.	16g	.
+.	.	16cc	.	16a	.
+.	.	16ddJ	.	16b-yJ	.
+.	.	16ee-XL	.	16ccL	.
+.	.	16g	.	16b-y	.
+.	.	16a	.	16cc	.
+.	.	16b-yJ	.	16ddJ	.
+.	.	16ccL	.	[2ee-X	.
+.	.	16a	.	.	.
+.	.	16b-y	.	.	.
+.	.	16aJ	.	.	.
+.	.	16b-yL	.	.	.
+.	.	16cc	.	.	.
+.	.	16dd	.	.	.
+.	.	16aJ	.	.	.
+=66	=66	=66	=66	=66	=66
+2G]	.	2b-y	.	4ee-]	.
+.	.	.	.	16ddL	.
+.	.	.	.	16eenXi	.
+.	.	.	.	16dd	.
+.	.	.	.	16eeJ	.
+2F	.	2a	.	4ff	.
+.	.	.	.	4a	-na il
+=67	=67	=67	=67	=67	=67
+1E-X	.	1g	-na il	8b-yL	Cie-
+.	.	.	.	8ccJ	.
+.	.	.	.	2dd	.
+.	.	.	.	4cc	.
+=68	=68	=68	=68	=68	=68
+[1D	.	1a	Cie-	1dd	-lo,
+=69	=69	=69	=69	=69	=69
+2D]	.	1a	-lo,	1r	.
+2D	.	.	.	.	.
+=70	=70	=70	=70	=70	=70
+2D	.	1r	.	1r	.
+2C	.	.	.	.	.
+=71	=71	=71	=71	=71	=71
+[1BB-y	.	1r	.	4ff	Hor
+.	.	.	.	4cc	da
+.	.	.	.	16ddL	can-
+.	.	.	.	16cc	.
+.	.	.	.	16b-y	.
+.	.	.	.	16ccJ	.
+.	.	.	.	16ddL	.
+.	.	.	.	16b-y	.
+.	.	.	.	16g	.
+.	.	.	.	16aJ	.
+=72	=72	=72	=72	=72	=72
+2BB-]	.	4gg	Hor	4b-y	.
+.	.	4dd	da	8a	-di-
+.	.	.	.	8g	-da
+2C	.	16ee-XL	can-	4g	nu-
+.	.	16dd	.	.	.
+.	.	16cc	.	.	.
+.	.	16ddJ	.	.	.
+.	.	16ee-iL	.	[4cc	-be il
+.	.	16cc	.	.	.
+.	.	16dd	.	.	.
+.	.	16eenXiJ	.	.	.
+=73	=73	=73	=73	=73	=73
+2D	.	4ff	.	8cc]	.
+.	.	.	.	16ddL	Sol
+.	.	.	.	16ccJ	.
+.	.	8.ee	-di-	16b-yL	.
+.	.	.	.	16a	.
+.	.	.	.	16g	.
+.	.	16dd	-da	16fJ	.
+2E	.	4cc	nu-	8gL	.
+.	.	.	.	16gg	.
+.	.	.	.	16ffJ	.
+.	.	4cc	-be il	16eeL	.
+.	.	.	.	16dd	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-yJ	.
+=74	=74	=74	=74	=74	=74
+[1F	.	16ccL	Sol	[1a	.
+.	.	16b-y	.	.	.
+.	.	16a	.	.	.
+.	.	16gJ	.	.	.
+.	.	16fL	.	.	.
+.	.	16e	.	.	.
+.	.	16f	.	.	.
+.	.	16fJ	.	.	.
+.	.	16ffL	.	.	.
+.	.	8ee	.	.	.
+.	.	16ddJ	.	.	.
+.	.	16ccL	.	.	.
+.	.	8b-y	.	.	.
+.	.	16aJ	.	.	.
+=75	=75	=75	=75	=75	=75
+2F]	.	[1b-y	.	2a]	.
+2D	.	.	.	4g	.
+.	.	.	.	4f	.
+=76	=76	=76	=76	=76	=76
+2E	.	2b-]	.	16gL	tra-
+.	.	.	.	16d	.
+.	.	.	.	16e	.
+.	.	.	.	16fJ	.
+.	.	.	.	16gL	.
+.	.	.	.	16a	.
+.	.	.	.	16b-y	.
+.	.	.	.	16ccJ	.
+2F	.	[2a	.	16ddL	.
+.	.	.	.	16ee	.
+.	.	.	.	16ff	.
+.	.	.	.	16ggJ	.
+.	.	.	.	32ccL	.
+.	.	.	.	32b-y	.
+.	.	.	.	32a	.
+.	.	.	.	32b-y	.
+.	.	.	.	32cc	.
+.	.	.	.	32b-y	.
+.	.	.	.	32b-y	.
+.	.	.	.	32aJ	.
+=77	=77	=77	=77	=77	=77
+1G	.	2a]	.	[2b-y	.
+.	.	4g	.	8.b-]L	.
+.	.	.	.	16gJ	.
+.	.	4f	.	16aL	.
+.	.	.	.	16b-y	.
+.	.	.	.	16cc	.
+.	.	.	.	16ddJ	.
+=78	=78	=78	=78	=78	=78
+2E-X	.	16gL	tra-	16ee-XL	.
+.	.	16d	.	16dd	.
+.	.	16e	.	16dd	.
+.	.	16fJ	.	32cc	.
+.	.	.	.	32ddJ	.
+.	.	16gL	.	2ee-i	.
+.	.	16a	.	.	.
+.	.	16b-y	.	.	.
+.	.	16ccJ	.	.	.
+2C	.	16b-yL	.	.	.
+.	.	16b-y	.	.	.
+.	.	16b-y	.	.	.
+.	.	32a	.	.	.
+.	.	32b-yJ	.	.	.
+.	.	[4cc	.	16ddL	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-y	.
+.	.	.	.	[16aJ	.
+=79	=79	=79	=79	=79	=79
+1D	.	4cc]	.	4a]	.
+.	.	16ddL	-spa-	2g	-spa-
+.	.	16cc	.	.	.
+.	.	16b-y	.	.	.
+.	.	16aJ	.	.	.
+.	.	2a	.	.	.
+.	.	.	.	4f#X	.
+=80	=80	=80	=80	=80	=80
+1GG	.	1g	-re.	1g	-re.
+=81||	=81||	=81||	=81||	=81||	=81||
+!!LO:TX:a:t=[Quarta parte]	
+2r	.	1r	.	2r	.
+4G	.	.	.	[2b-y	Hor
+4A	.	.	.	.	.
+=82	=82	=82	=82	=82	=82
+[1B-y	.	[1dd	Hor	2b-]	.
+.	.	.	.	8a	da
+.	.	.	.	8g	la
+.	.	.	.	8f	nu-
+.	.	.	.	8e	-be u-
+=83	=83	=83	=83	=83	=83
+2B-]	.	2dd]	.	2.g	-scen-
+2A	.	8cc	da	.	.
+.	.	8b-y	la	.	.
+.	.	8a	nu-	16f#XL	.
+.	.	.	.	16f#i	.
+.	.	8g	-be u-	16e	.
+.	.	.	.	16f#iJ	.
+=84	=84	=84	=84	=84	=84
+1G	.	2.g	-scen-	16gL	.
+.	.	.	.	16fnXi	.
+.	.	.	.	16e	.
+.	.	.	.	16fJ	.
+.	.	.	.	16gL	.
+.	.	.	.	16a	.
+.	.	.	.	16b-y	.
+.	.	.	.	16ccJ	.
+.	.	.	.	16b-yL	.
+.	.	.	.	16a	.
+.	.	.	.	16g	.
+.	.	.	.	16aJ	.
+.	.	16eL	.	16b-yL	.
+.	.	16e	.	16a	.
+.	.	16d	.	16a	.
+.	.	16eJ	.	16gJ	.
+=85	=85	=85	=85	=85	=85
+[1F	.	16fL	.	[1a	.
+.	.	16e	.	.	.
+.	.	16d	.	.	.
+.	.	16eJ	.	.	.
+.	.	16fL	.	.	.
+.	.	16g	.	.	.
+.	.	16a	.	.	.
+.	.	16b-yJ	.	.	.
+.	.	16ccL	.	.	.
+.	.	16b-y	.	.	.
+.	.	16a	.	.	.
+.	.	16b-yJ	.	.	.
+.	.	16ccL	.	.	.
+.	.	16b-y	.	.	.
+.	.	16b-y	.	.	.
+.	.	16aJ	.	.	.
+=86	=86	=86	=86	=86	=86
+2F]	.	16b-yL	.	2a]	.
+.	.	16cc	.	.	.
+.	.	16dd	.	.	.
+.	.	16eeJ	.	.	.
+.	.	16ffL	.	.	.
+.	.	16ee	.	.	.
+.	.	16dd	.	.	.
+.	.	16eeJ	.	.	.
+2D	.	16ffL	.	2f	-do, i
+.	.	16ee	.	.	.
+.	.	16ee	.	.	.
+.	.	32dd	.	.	.
+.	.	32ccJ	.	.	.
+.	.	16ddL	.	.	.
+.	.	16cc	.	.	.
+.	.	16b-y	.	.	.
+.	.	16aJ	.	.	.
+=87	=87	=87	=87	=87	=87
+2E	.	4g	.	16ccL	rag-
+.	.	.	.	16b-y	.
+.	.	.	.	16a	.
+.	.	.	.	16b-yJ	.
+.	.	4g	-do, i	16ccL	.
+.	.	.	.	16b-y	.
+.	.	.	.	16a	.
+.	.	.	.	16gJ	.
+2F	.	16fL	rag-	16ddL	.
+.	.	16e	.	16cc	.
+.	.	16d	.	16b-y	.
+.	.	16eJ	.	16ccJ	.
+.	.	16fL	.	16ddL	.
+.	.	16e	.	16cc	.
+.	.	16d	.	16b-y	.
+.	.	16cJ	.	16aJ	.
+=88	=88	=88	=88	=88	=88
+[1G	.	16gL	.	16b-yL	.
+.	.	16f	.	16a	.
+.	.	16e	.	16g	.
+.	.	16dJ	.	16fJ	.
+.	.	16e-XL	.	16gL	.
+.	.	16d	.	16f	.
+.	.	16c	.	16e	.
+.	.	16B-yJ	.	16dJ	.
+.	.	4e-X	.	4g	.
+.	.	[4e-i	-gi in-	16cL	.
+.	.	.	.	16d	.
+.	.	.	.	16e-X	.
+.	.	.	.	16dJ	.
+=89	=89	=89	=89	=89	=89
+2G]	.	4e-]	.	16e-XL	.
+.	.	.	.	16f	.
+.	.	.	.	16g	.
+.	.	.	.	16aJ	.
+.	.	16dL	-tor-	16b-yL	.
+.	.	16e-i	.	16cc	.
+.	.	16f	.	16dd	.
+.	.	16e-iJ	.	16ee-XJ	.
+2F	.	16fL	.	[2a	-gi in-
+.	.	16g	.	.	.
+.	.	16a	.	.	.
+.	.	16b-yJ	.	.	.
+.	.	16ccL	.	.	.
+.	.	16dd	.	.	.
+.	.	[8gJ	.	.	.
+=90	=90	=90	=90	=90	=90
+1E-X	.	2g_	.	8.a]	.
+.	.	.	.	16g	-tor-
+.	.	.	.	16aL	.
+.	.	.	.	16b-y	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-yJ	.
+.	.	8.g]L	.	2cc	.
+.	.	16dJ	.	.	.
+.	.	16eL	.	.	.
+.	.	16f	.	.	.
+.	.	16g	.	.	.
+.	.	16fJ	.	.	.
+=91	=91	=91	=91	=91	=91
+[1D	.	2g	.	2.a	-no
+.	.	2f#X	-no	.	.
+.	.	.	.	4a	Più
+=92	=92	=92	=92	=92	=92
+2D]	.	2r	.	2.dd	chia-
+2D	.	4r	.	.	.
+.	.	4dd	Più	4dd	-ri
+=93	=93	=93	=93	=93	=93
+2D	.	2.ff	chia-	16ddL	spie-
+.	.	.	.	16cc	.
+.	.	.	.	16b-y	.
+.	.	.	.	16aJ	.
+.	.	.	.	16gL	.
+.	.	.	.	16a	.
+.	.	.	.	16g	.
+.	.	.	.	16aJ	.
+2C	.	.	.	16b-yL	.
+.	.	.	.	16a	.
+.	.	.	.	16g	.
+.	.	.	.	16fJ	.
+.	.	4ff	-ri	16eL	.
+.	.	.	.	16f	.
+.	.	.	.	16e	.
+.	.	.	.	16fJ	.
+=94	=94	=94	=94	=94	=94
+[1BB-y	.	16ffL	spie-	2g	.
+.	.	16ee	.	.	.
+.	.	16dd	.	.	.
+.	.	16ccJ	.	.	.
+.	.	16b-yL	.	.	.
+.	.	16cc	.	.	.
+.	.	16b-y	.	.	.
+.	.	16ccJ	.	.	.
+.	.	16ddL	.	[2b-y	-ga, e
+.	.	16cc	.	.	.
+.	.	16b-y	.	.	.
+.	.	16aJ	.	.	.
+.	.	16gL	.	.	.
+.	.	16a	.	.	.
+.	.	16g	.	.	.
+.	.	16aJ	.	.	.
+=95	=95	=95	=95	=95	=95
+2BB-]	.	16b-yL	.	4b-]	.
+.	.	16a	.	.	.
+.	.	16f	.	.	.
+.	.	16gJ	.	.	.
+.	.	16aL	.	8a	ne
+.	.	16b-y	.	.	.
+.	.	16cc	.	8g	rad-
+.	.	16ddJ	.	.	.
+2C	.	4ee-X	.	8.gL	-dop-
+.	.	.	.	16cJ	.
+.	.	[4ee-i	-ga, e	16dL	.
+.	.	.	.	16c	.
+.	.	.	.	16d	.
+.	.	.	.	16e-iJ	.
+=96	=96	=96	=96	=96	=96
+2D	.	4ee-]	.	16fL	.
+.	.	.	.	16a	.
+.	.	.	.	16b-y	.
+.	.	.	.	16aJ	.
+.	.	8dd	ne	16b-yL	.
+.	.	.	.	16cc	.
+.	.	8cc	rad-	16dd	.
+.	.	.	.	16fJ	.
+2E	.	16ccL	-dop-	16gL	.
+.	.	16a	.	16e	.
+.	.	16a	.	16f	.
+.	.	16b-yJ	.	16eJ	.
+.	.	16aL	.	16fL	.
+.	.	16b-y	.	16g	.
+.	.	16cc	.	16a	.
+.	.	16gJ	.	16gJ	.
+=97	=97	=97	=97	=97	=97
+[1F	.	16aL	.	16fL	.
+.	.	16g	.	16e	.
+.	.	16a	.	16f	.
+.	.	16b-yJ	.	16gJ	.
+.	.	16ccL	.	16aL	.
+.	.	16enXi	.	16c	.
+.	.	16f	.	16d	.
+.	.	16eJ	.	16cJ	.
+.	.	16fL	.	16dL	.
+.	.	16g	.	16e	.
+.	.	16a	.	[8fJ	.
+.	.	16cJ	.	.	.
+.	.	16dL	.	4f_	.
+.	.	16c	.	.	.
+.	.	16d	.	.	.
+.	.	16eJ	.	.	.
+=98	=98	=98	=98	=98	=98
+2F]	.	16fL	.	2f]	.
+.	.	16a	.	.	.
+.	.	16b-y	.	.	.
+.	.	16aJ	.	.	.
+.	.	32b-yL	.	.	.
+.	.	32cc	.	.	.
+.	.	16dd	.	.	.
+.	.	16f	.	.	.
+.	.	16gJ	.	.	.
+2D	.	16fL	.	2b-y	-pia il
+.	.	16g	.	.	.
+.	.	32a	.	.	.
+.	.	32b-y	.	.	.
+.	.	16dJ	.	.	.
+.	.	16eL	.	.	.
+.	.	16d	.	.	.
+.	.	16e	.	.	.
+.	.	16fJ	.	.	.
+=99	=99	=99	=99	=99	=99
+2E	.	2g	.	16ccL	gior-
+.	.	.	.	16dd	.
+.	.	.	.	16ee	.
+.	.	.	.	16ddJ	.
+.	.	.	.	16ccL	.
+.	.	.	.	16dd	.
+.	.	.	.	16bnX	.
+.	.	.	.	16ccJ	.
+2F	.	2cc	-pia il	16ddL	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-i	.
+.	.	.	.	16ccJ	.
+.	.	.	.	16aL	.
+.	.	.	.	16b-y	.
+.	.	.	.	16cc	.
+.	.	.	.	16aJ	.
+=100	=100	=100	=100	=100	=100
+1G	.	16b-yL	gior-	[1dd	.
+.	.	16cc	.	.	.
+.	.	16dd	.	.	.
+.	.	16ccJ	.	.	.
+.	.	16b-yL	.	.	.
+.	.	16cc	.	.	.
+.	.	16a	.	.	.
+.	.	16b-yJ	.	.	.
+.	.	16ccL	.	.	.
+.	.	16a	.	.	.
+.	.	16b-y	.	.	.
+.	.	16aJ	.	.	.
+.	.	16gL	.	.	.
+.	.	16a	.	.	.
+.	.	32f	.	.	.
+.	.	32g	.	.	.
+.	.	32e	.	.	.
+.	.	32fJ	.	.	.
+=101	=101	=101	=101	=101	=101
+2E-X	.	2.g	.	4dd]	.
+.	.	.	.	16ccL	.
+.	.	.	.	16b-y	.
+.	.	.	.	16a	.
+.	.	.	.	16gJ	.
+2C	.	.	.	16ee-XL	.
+.	.	.	.	16dd	.
+.	.	.	.	16cc	.
+.	.	.	.	16b-yJ	.
+.	.	16fL	.	16aL	.
+.	.	16e	.	16g	.
+.	.	16d	.	16f	.
+.	.	16cJ	.	16enXiJ	.
+=102	=102	=102	=102	=102	=102
+1D	.	16aL	.	4f#X	.
+.	.	16g	.	.	.
+.	.	16f	.	.	.
+.	.	16eJ	.	.	.
+.	.	16dL	.	2g	.
+.	.	16c	.	.	.
+.	.	16B-y	.	.	.
+.	.	16cJ	.	.	.
+.	.	2d	.	.	.
+.	.	.	.	4f#X	.
+=103	=103	=103	=103	=103	=103
+[1GG	.	1d	-no,	1g	-no,
+=104	=104	=104	=104	=104	=104
+2GG]	.	1r	.	4r	.
+.	.	.	.	4dd	Più
+4G	.	.	.	4dd	chia-
+4A	.	.	.	4ff	-ri
+=105	=105	=105	=105	=105	=105
+[1B-y	.	2r	.	16ffL	spie-
+.	.	.	.	16cc	.
+.	.	.	.	16dd	.
+.	.	.	.	16ccJ	.
+.	.	.	.	16ddL	.
+.	.	.	.	16ee-X	.
+.	.	.	.	16dd	.
+.	.	.	.	16aJ	.
+.	.	4r	.	16b-yL	.
+.	.	.	.	16a	.
+.	.	.	.	16b-y	.
+.	.	.	.	16ccJ	.
+.	.	4b-y	Più	16b-yL	.
+.	.	.	.	16f	.
+.	.	.	.	16g	.
+.	.	.	.	16fJ	.
+=106	=106	=106	=106	=106	=106
+2B-]	.	4b-y	chia-	16gL	.
+.	.	.	.	16a	.
+.	.	.	.	16g	.
+.	.	.	.	16dJ	.
+.	.	4dd	-ri	16enXiL	.
+.	.	.	.	16d	.
+.	.	.	.	16e	.
+.	.	.	.	16fJ	.
+2A	.	16ddL	spie-	2c	.
+.	.	16a	.	.	.
+.	.	16b-y	.	.	.
+.	.	16aJ	.	.	.
+.	.	16b-yL	.	.	.
+.	.	16cc	.	.	.
+.	.	16b-y	.	.	.
+.	.	16fJ	.	.	.
+=107	=107	=107	=107	=107	=107
+1G	.	16gL	.	4B-y	-ga, e
+.	.	16f	.	.	.
+.	.	16g	.	.	.
+.	.	16aJ	.	.	.
+.	.	16gL	.	2d	ne
+.	.	16d	.	.	.
+.	.	16e-X	.	.	.
+.	.	16dJ	.	.	.
+.	.	16e-iL	.	.	.
+.	.	16f	.	.	.
+.	.	16e-X	.	.	.
+.	.	16B-yJ	.	.	.
+.	.	16cL	.	4e	rad-
+.	.	16d	.	.	.
+.	.	16c	.	.	.
+.	.	16B-yJ	.	.	.
+=108	=108	=108	=108	=108	=108
+[1F	.	4c	.	16fL	-dop-
+.	.	.	.	16c	.
+.	.	.	.	16d	.
+.	.	.	.	16eJ	.
+.	.	2f	-ga, e	16fL	.
+.	.	.	.	16g	.
+.	.	.	.	16a	.
+.	.	.	.	16eJ	.
+.	.	.	.	16fL	.
+.	.	.	.	16g	.
+.	.	.	.	16a	.
+.	.	.	.	16b-yJ	.
+.	.	8a	ne	16ccL	.
+.	.	.	.	16b-y	.
+.	.	8a	rad-	16cc	.
+.	.	.	.	16gJ	.
+=109	=109	=109	=109	=109	=109
+2F]	.	16ccL	-dop-	[2.a	.
+.	.	16g	.	.	.
+.	.	16a	.	.	.
+.	.	16b-yJ	.	.	.
+.	.	16ccL	.	.	.
+.	.	16dd	.	.	.
+.	.	16b-y	.	.	.
+.	.	16ccJ	.	.	.
+2D	.	16ddL	.	.	.
+.	.	16ee	.	.	.
+.	.	16ff	.	.	.
+.	.	16ggJ	.	.	.
+.	.	16eeL	.	8a]L	.
+.	.	16ff	.	.	.
+.	.	16gg	.	16b-y	.
+.	.	16ffJ	.	16aJ	.
+=110	=110	=110	=110	=110	=110
+2E	.	2.gg	.	16gL	.
+.	.	.	.	16f	.
+.	.	.	.	16e	.
+.	.	.	.	16dJ	.
+.	.	.	.	2c	.
+2F	.	.	.	.	.
+.	.	16ffL	.	4d	-pia il
+.	.	16ee	.	.	.
+.	.	16dd	.	.	.
+.	.	16ccJ	.	.	.
+=111	=111	=111	=111	=111	=111
+1G	.	16b-yL	.	16ddL	gior-
+.	.	16a	.	16cc	.
+.	.	16g	.	16b-y	.
+.	.	16fJ	.	16aJ	.
+.	.	16eL	.	16gL	.
+.	.	16f	.	16a	.
+.	.	16g	.	16b-y	.
+.	.	16fJ	.	16aJ	.
+.	.	16gL	.	16b-yL	.
+.	.	16a	.	16cc	.
+.	.	16g	.	16b-y	.
+.	.	16aJ	.	16ccJ	.
+.	.	16b-yL	.	16ddL	.
+.	.	16cc	.	16ee-X	.
+.	.	16a	.	16cc	.
+.	.	16ccJ	.	16ddJ	.
+=112	=112	=112	=112	=112	=112
+2E-X	.	2cc	.	8.ee-XL	.
+.	.	.	.	16ffJ	.
+.	.	.	.	32ggL	.
+.	.	.	.	32ff	.
+.	.	.	.	32ee-i	.
+.	.	.	.	32dd	.
+.	.	.	.	32ee-X	.
+.	.	.	.	32dd	.
+.	.	.	.	32cc	.
+.	.	.	.	32ddJ	.
+2C	.	2ee-X	-pia il	32ee-XL	.
+.	.	.	.	32dd	.
+.	.	.	.	32cc	.
+.	.	.	.	32b-y	.
+.	.	.	.	32cc	.
+.	.	.	.	32b-y	.
+.	.	.	.	32a	.
+.	.	.	.	32b-yJ	.
+.	.	.	.	32ccL	.
+.	.	.	.	32b-y	.
+.	.	.	.	32a	.
+.	.	.	.	32g	.
+.	.	.	.	32a	.
+.	.	.	.	32g	.
+.	.	.	.	32f	.
+.	.	.	.	32enXiJ	.
+=113	=113	=113	=113	=113	=113
+1D	.	32ddL	gior-	4f#X	.
+.	.	32eenXi	.	.	.
+.	.	32ff	.	.	.
+.	.	32ee	.	.	.
+.	.	32dd	.	.	.
+.	.	32cc	.	.	.
+.	.	32dd	.	.	.
+.	.	32ccJ	.	.	.
+.	.	32b-yL	.	2g	.
+.	.	32cc	.	.	.
+.	.	32dd	.	.	.
+.	.	32cc	.	.	.
+.	.	32b-y	.	.	.
+.	.	32a	.	.	.
+.	.	32b-y	.	.	.
+.	.	32gJ	.	.	.
+.	.	2a	.	.	.
+.	.	.	.	4f#X	.
+=114	=114	=114	=114	=114	=114
+1GGl	.	1gl	-no.	1gl	-no.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/09
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/09
+!!@@BEGIN:	VERSEDATA
+!!@CATALOGNUM:	Tsg04029
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Argo non mai, non vide Cipro o Delo
+!!@CANTO:		IV
+!!@OTTAVA:	29
+!!@MANUSRC:	G-Al, G-Am, G-Au, G-Bm, G-Br<sub>1</sub>, G-Br<sub>2</sub>, G-Cv, G-Es<sub>1</sub>, G-Es<sub>2</sub>, G-Es<sub>3</sub>, G-F, G-Fr, G-Fr<sub>1</sub>, G-Fr<sub>2</sub>, G-Mc<sub>1</sub>, G-Mg, G-Mr, G-Mt, G-N
+!!@PRINTSRC:	G-1580CM, G-1581B, G-1581CV, G-1581R, G-1581MR, G-1581P, G-1581V, G-1581V<sub>bis</sub>, G-1582C, G-1582M, G-1582MC, G-1582P, G-1582SC, G-1582SC<sub>bis</sub>, G-1583S, G-1584O, G-1584S, G-1585C, G-1585S, G-1588S, G-1589S, G-1590B, G-1590S, G-1592S, G-1593S, G-1594C, G-1595C, G-1597C, G-1598C, G-1599C, G-1600C, G-1600S, G-1601C, G-1601R, G-1602C, G-1604C, G-1604Cl, G-1604F, G-1604P, G-1606B, G-1606B<sub>bis</sub>, G-1606L, G-1607ZR, G-1608DP, G-1609GC, G-1610M, G-1611S, G-1611V, G-1612P, G-1613M, G-1613P, G-1613V, G-1615P, G-1616M, G-1617P, G-1619B, G-1619V, G-1620M, G-1620S, G-1621R, G-1624I, G-1624MT, G-1625C, G-1625S, G-1625SS, G-1626C, G-1626Co, G-1627M, G-1628T, G-1628Tu, G-1630L, G-1630T, G-1632FT, G-1639CF, G-1642M, G-1643I, G-1644P, G-1644S
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Angelo Solerti
+!!@EDITION_TITLE: Gerusalemme liberata. Poema eroico di Torquato Tasso. Edizione critica sui manoscritti e le prime stampe.
+!!@EDITION_LOC:	Florence
+!!@EDITION_PUB:	G. Barbera
+!!@EDITION_DATE:  1895
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  141-2
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Argo non mai, non vide Cipro o Delo,
+!!	D’abito o di beltà forme sì care.
+!!	D’auro ha la chioma, ed or dal bianco velo
+!!	Traluce involta, or discoperta appare:
+!!	Così, qualor si rasserena il cielo,
+!!	Or da candida nube il sol traspare,
+!!	Or da la nube uscendo, i raggi intorno
+!!	Più chiari spiega, e ne raddoppia il giorno.
+!!@MVERSE_DATE: 20230824
+!!@MVERSE:
+!!	Ar||go non mai, non vi||de Cip||ro_o De||lo,		=a
+!!	D’a||bi|to_o di bel|tà|| for||me sì ca||re.		=b
+!!	D’au||ro_ha la chio||ma,_ed or dal bian||co ve||lo	=a (+)
+!!	Tra|lu||ce_in|vol||ta,_or di|sco|per||ta_ap|pa||re:	=b
+!!	Co|sì||, qua|lor|| si ras|se|re||na_il cie||lo,		=a
+!!	Or da can||di|da nu||be_il sol tra|spa||re,		=b
+!!	Or da la nu||be_u|scen||do,_i rag||gi_in|tor||no	=c (+)
+!!	Più chia||ri spie||ga,_e ne rad|dop||pia_il gior||no.	=c
+!!@TVERSE:
+!!	Argus never, nor saw Cyprus or Delos,
+!!	Of dress or of beauty shapes so dear.
+!!	She has a mane of gold, and now from [behind] her white veil
+!!	It glimmers shrouded; now appears uncovered:
+!!	Thus, when the sky clears again,
+!!	Now from [behind] a white cloud the sun shines,
+!!	Now from the cloud emerging, the rays around
+!!	More brightly disperse, and the day dawns again.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:  Torquato Tasso, <i>Gerusalemme liberata</i>, ed. Lanfranco Caretti, 2 vols. (Bari: Laterza, 1967).
+!!@ATTRIBUTION_ABOUT:
+!!@DATING:	mid-1560s through 1570s
+!!@DEDICATEE:	Duke Alfonso II d'Este
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN: SETTING
+!!@CATALOGNUM:	Tsg04029a
+!!@CANTO:		IV
+!!@OTTAVA:	29
+!!@TITLE:	Argo non mai, non vide Cipro o Delo
+!!@COMPOSER:	D'India, Sigismondo
+!!@PARTS:		2 (verses 1-2; 3-4)
+!!@PRINCEPSTITLE:	Le musiche a due voci
+!!@PRINCEPSLOC:	Venice
+!!@NORMLOC:	Venice
+!!@NORMPUB:	Ricciardo Amadino
+!!@NORMPUBSHORT:	Amadino
+!!@PRINCEPSPUB:	Ricciardo Amadino
+!!@PRINCEPSYEAR:	1615
+!!@PRINCEPSRISM:	I 28
+!!@OVOICES:	2+bc
+!!@EXTANTVOICES:	2+bc
+!!@OMENSURATION:	C
+!!@OCLEFS:	C1,C1,F4
+!!@OTIME:		
+!!@OKEYSIG:	b-
+!!@FINAL:	(G)(G)(G)G
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@REPRINTS:	
+!!@@END: SETTING

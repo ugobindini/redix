@@ -1,0 +1,211 @@
+!!!COM: Di Costanzo, Alessandro
+!!!CDT:
+!!!PTL: Il primo libro de madrigali a quattro voci
+!!!PPP: Naples
+!!!PPR: Sottile
+!!!PDT: 1604
+!!!PUB-format:
+!!!RISM: D 2287
+!!!rime: 305
+!!!OTL: Ne i vostri dolci baci
+!!!OTL-rime: Ne i vostri dolci baci
+!!!AGN: Madrigal
+!!!SCT: Trm0305k
+!!!SCA: Trm0305k
+!!!original-voices: 4
+!!!extant-voices: 1
+!!!complete: N
+!!!final: G
+**kern	**text
+*part1	*part1
+*staff1	*staff1
+*I"Basso	*
+*I'B	*
+*oclefF3	*
+*clefF4	*
+*k[]	*
+*omet(C)	*
+*M4/2	*
+=1	=1
+4G	Nei
+2G	vo-
+4d	-stri
+2B	dol-
+2E	-ci
+=2	=2
+1A	ba-
+1c	-ci
+=3	=3
+0r	.
+=4	=4
+0r	.
+=5	=5
+1r	.
+2r	.
+4A	Et
+4G	v'è 'l
+=6	=6
+2c	mor-
+4F	-so
+4F	de
+1A	l'A-
+=7	=7
+2.A	-pi an-
+8A	-co
+8A	cru-
+2G#X	-de-
+2A	-le,
+=8	=8
+4D	<Et
+4C	v'è 'l
+2F	mor-
+4BB-X	-so
+4BB-i	de
+2D	l'A-
+=9	=9
+2.D	-pi an-
+8D	-co
+8D	cru-
+2C	-de-
+2D	-le.>
+=10	=10
+4d	Dun-
+8B	-que a-
+8B	-dol-
+4c	-ci-
+4A	-to e
+4B	pun-
+8AL	.
+8GJ	.
+2d	.
+=11	=11
+2G	-to,
+4G	<Dun-
+8E	-que a-
+8E	-dol-
+4F	-ci-
+4D	-to e
+4E	pun-
+8DL	.
+8CJ	.
+=12	=12
+2G	.
+2C	-to>
+4A	Da
+4A	voi
+[2A	par-
+=13	=13
+4A]	.
+8C	-te in
+8D	un
+1E	pun-
+2AA	-to,
+=14	=14
+4r	.
+4E	Dun-
+8C	-que a-
+8C	-dol-
+4D	-ci-
+4BB	-to e
+2E	pun-
+8DL	.
+8CJ	.
+=15	=15
+2G	.
+2C	-to
+1r	.
+=16	=16
+1r	.
+2r	.
+4G	<Da
+4G	voi
+=17	=17
+2.G	par-
+8BB	-te in
+8C	un
+1D	pun-
+=18	=18
+0Gl	-to.>
+==	==
+*-	*-
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END: 2017/11
+!!!EED: Deutsch, Catherine
+!!!EEV: 2018/07/09
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2018/07/09 and edited by Craig Stuart Sapp
+!!@@BEGIN:	VERSEDATA
+!!@SOLERTI:	305
+!!@CATALOGNUM:	Trm0305
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Ne i vostri dolci baci
+!!@GENRE:		madrigale
+!!@MANUSRC:	Amz, Brn, C, Ts<sub>1</sub>, V<sub>8</sub>, V<sub>13/TS1</sub>
+!!@PRINTSRC:	8, 9, 11, 12, 13, 15, 20, 24, 29, 33, 67, 145, 141, 166, 169
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:	Sovra i baci di una bella giovane
+!!@ABOUTEN:	On the kisses of a beautiful young lady
+!!@EDITOR:	Solerti, Angelo
+!!@EDITION_TITLE: Le Rime di Torquato Tasso
+!!@EDITION_LOC:	Bologna
+!!@EDITION_PUB:	Romagnoli-Dall’Acqua
+!!@EDITION_DATE:  1898-1902
+!!@EDITION_VOL:	2
+!!@EDITION_PAGE:  366
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Ne i vostri dolci baci
+!!	De l'Api è il dolce mele,
+!!	E v'è l'ago de l'api aspro crudele.
+!!	Dunque addolcito e punto
+!!	Da voi parto in un punto.
+!!@TVERSE:
+!!	In your sweet kisses
+!!	Is the sweet honey of the bees
+!!	And there [too] is the stinger of the bees, biting and cruel.
+!!	Thus sweetened and stung
+!!	From you I depart at once.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:   Torquato Tasso, <i>Rime d’amore (secondo il codice
+!!		Chigiano L VIII 302)</i>, eds. Franco Gavazzeni and
+!!		Vercingetorige Martignone, vol. 4 of <i>Edizione
+!!		Nazionale delle opere di Torquato Tasso</i>
+!!		(Alessandria: Edizioni Dell’Orso, 2004), 172.
+!!@ATTRIBUTION_ABOUT:	Secure
+!!		<br>
+!!		Among other authoritative sources (see Literary
+!!		Sources), this poem appears in the autograph Chigiano
+!!		L.VIII.302 (Biblioteca Vaticana, Rome), compiled
+!!		around 1584&ndash;85.
+!!@DATING:	In or before 1581
+!!	<br>
+!!	The earliest datable appearance of this poem is in Manuzio's 1581 print of the <i>Rime</i> (see Literary Sources).
+!!@DEDICATEE:
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN:	SETTING
+!!@CATALOGNUM:	Trm0305k
+!!@RIMETITLE:	Ne i vostri dolci baci
+!!@SOLERTI:	305
+!!@COMPOSER:	Di Costanzo, Alessandro
+!!@PRINCEPSTITLE:	Il primo libro de madrigali a quattro voci
+!!@PRINCEPSLOC:	Napoli
+!!@NORMLOC:	Naples
+!!@NORMPUB:	Sottile
+!!@NORMPUBSHORT:	Sottile
+!!@PRINCEPSPUB:	Sottile
+!!@PRINCEPSYEAR:	1604
+!!@PRINCEPSRISM:	D 2287
+!!@REPRINTS:	
+!!@OVOICES:	4
+!!@EXTANTVOICES:	1
+!!@PARTBOOKS:	
+!!@EXTPARTBOOKS:	
+!!@OCLEFS:	F3
+!!@OMENSURATION:	C
+!!@OKEYSIG:	-
+!!@FINAL:	G
+!!@TIMPEDITOR:	Deutsch, Catherine
+!!@NOTE:		
+!!@@END:		SETTING

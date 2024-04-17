@@ -1,0 +1,249 @@
+!!!CDT:
+!!!PTL: Musiche di Sigismondo d' India 
+!!!PPP: Milan
+!!!PPR: Simon Tini & Filippo Lomazzo
+!!!PDT: 1609
+!!!RISM: I 24
+!!!rime:
+!!!AGN: Madrigal
+!!!SCT: Tsg16060e
+!!!SCA: Tsg16060e
+!!!voices:
+!!!COM: D'India, Sigismondo
+!!!OTL: Là tra 'l sangue e le morti egro giacente
+**kern	**fb	**kern	**text
+*part2	*part2	*part1	*part1
+*staff2	*staff2	*staff1	*staff1
+*I"[Basso continuo]	*	*I"[Canto]	*
+*I'Bc	*	*I'C	*
+*oclefF4	*	*oclefC1	*
+*clefF4	*	*clefG2	*
+*k[b-]	*	*k[b-]	*
+*F:	*	*F:	*
+*omet(C)	*	*omet(C)	*
+*M4/4	*	*M4/4	*
+=1	=1	=1	=1
+!	!	!LO:TX:a:t=Ottava in stile recitativo.	!
+1GG	#	2.dd	Là
+.	.	4bnX	tra'l
+=2	=2	=2	=2
+2GG	#	2bnX	san-
+2GG	-	4b-X	-gue e
+.	.	4b-X	le
+=3	=3	=3	=3
+1GG	#:11	4b-X	mor-
+.	.	2a	-ti e-
+.	.	8g	-gro
+.	.	8g	gia-
+=4	=4	=4	=4
+1GG	11:#	2g	-cen-
+.	.	2g	-te
+=5	=5	=5	=5
+1GG	11:#	8r	.
+.	.	8dd	Mi
+.	.	8dd	pa-
+.	.	8dd	-ghe-
+.	.	4dd	-rai
+.	.	4cc	le
+=6	=6	=6	=6
+4C	.	4ee	pe-
+2AA	6#	2ff#X	-ne, em-
+4AA	.	8dd	-pio
+.	.	8cc	guer-
+=7	=7	=7	=7
+1GG	#:11:#	4bnX	-rie-
+.	.	2cc	.
+.	.	4bnX	.
+=8	=8	=8	=8
+2C	.	4cc	-ro.
+.	.	8r	.
+.	.	8cc	Per
+[2FF	.	8cc	no-
+.	.	8cc	-m'Ar-
+.	.	[4ff	-mi-
+=9	=9	=9	=9
+2FF]	.	4ff]	.
+.	.	4dd	-da
+2FF	.	4r	.
+.	.	8cc	chia-
+.	.	8dd	-me-
+=10	=10	=10	=10
+2C	.	4.ee-X	-rai
+.	.	8dd	so-
+2GG	11:#	[2dd	-ven-
+=11	=11	=11	=11
+1GG	.	4dd]	.
+.	.	8cc	-te
+.	.	8bnX	ne
+.	.	[2bnX	gl'ul-
+=12	=12	=12	=12
+1GG	.	8b]	.
+.	.	8f#X	-ti-
+.	.	8f#X	-mi
+.	.	8f#X	sin-
+.	.	[2f#X	-gul-
+=13	=13	=13	=13
+1AA	#:11:#	4f#]	.
+.	.	4e	-ti; u-
+.	.	4.e	-dir
+.	.	8d	ciò
+=14	=14	=14	=14
+1D	.	2d	spe-
+.	.	2d	-ro.
+=15	=15	=15	=15
+2G	.	2r	.
+2C	.	[2cc	Hor
+=16	=16	=16	=16
+1GG	#	4cc]	.
+.	.	8bnX	qui
+.	.	8bnX	man-
+.	.	(2bnX	-cò
+=17	=17	=17	=17
+2.GG	-	2.b-X)	.
+4GG	11	4g	lo
+=18	=18	=18	=18
+1GG	11:#	[2g	spir-
+.	.	8g]	.
+.	.	8e-X	-to al-
+.	.	8e-X	-la
+.	.	8e-X	do-
+=19	=19	=19	=19
+1C	.	2e-X	-len-
+.	.	2e-X	-te;
+=20	=20	=20	=20
+1FF	11:10	4cc	Né
+.	.	4cc	que-
+.	.	4cc	-st'ul-
+.	.	8cc	-ti-
+.	.	8cc	-mo
+=21	=21	=21	=21
+1FF	.	4.cc	suo-
+.	.	8dd	-no e-
+.	.	8b-y	-spres-
+.	.	8f	-s'in-
+.	.	[4a	-te-
+=22	=22	=22	=22
+2C	4:3	4a]	.
+.	.	4g	-ro:
+2C	-	8r	.
+.	.	8ee-X	E
+.	.	8cc	cad-
+.	.	8a	-de
+=23	=23	=23	=23
+2C	-	8f	tra-
+.	.	8enXi	-mor-
+.	.	2d	-ti-
+2D	11:#	.	.
+.	.	[4d	-ta,
+=24	=24	=24	=24
+2DD	#	4d]	.
+.	.	4r	.
+2D	.	4r	.
+.	.	4f	e
+=25	=25	=25	=25
+1D	-	4f	si
+.	.	4f	dif-
+.	.	2f	-fu-
+=26	=26	=26	=26
+1D	-	1f	-se
+=27	=27	=27	=27
+1BBnX	.	4f#X	di
+.	.	4f#X	ge-
+.	.	2f#X	-la-
+=28	=28	=28	=28
+1BBnX	.	2.g	-to
+.	.	4d	su-
+=29	=29	=29	=29
+(1C	-	(1e-X	-dor,
+=30	=30	=30	=30
+1C#X)	.	2.enX)	.
+.	.	4a	e i
+=31	=31	=31	=31
+2C#X	.	2.a	lu-
+2BB-y	7:5	.	.
+.	.	4d	-mi
+=32	=32	=32	=32
+1AA	11:#	2.d	chiu-
+.	.	4c#X	.
+=33	=33	=33	=33
+1DDl	.	1dl	-se.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [*]
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!ENC: Emiliano Ricciardi
+!!!END:
+!!!EED: Ricciardi, Emiliano
+!!!EEV: 2020/02/23
+!!!YEC: Copyright 2018 Emiliano Ricciardi, All Rights Reserved
+!!!ONB: Translated from MusicXML on 2020/02/23
+!!@@BEGIN:	VERSEDATA
+!!@CATALOGNUM:	Tsg16060
+!!@LAST_MODIFIED: 2020/07/12
+!!@TITLE:		Là tra 'l sangue e le morti egro giacente
+!!@CANTO:		XVI
+!!@OTTAVA:	60
+!!@MANUSRC:	G-Al, G-Au, G-Br<sub>1</sub>, G-Br<sub>2</sub>, G-Cv, G-Es<sub>1</sub>, G-Es<sub>2</sub>, G-Es<sub>3</sub>, G-F, G-Fr, G-Fr<sub>1</sub>, G-Fr<sub>2</sub>, G-Mc<sub>1</sub>, G-Mg, G-Mr, G-Mt, G-N, G-Ol
+!!@PRINTSRC:	G-1580CM, G-1581B, G-1581CV, G-1581R, G-1581MR, G-1581P, G-1581V, G-1581V<sub>bis</sub>, G-1582C, G-1582M, G-1582MC, G-1582P, G-1582SC, G-1582SC<sub>bis</sub>, G-1583S, G-1584O, G-1584S, G-1585C, G-1585S, G-1588S, G-1589S, G-1590B, G-1590S, G-1592S, G-1593S, G-1594C, G-1595C, G-1597C, G-1598C, G-1599C, G-1600C, G-1600S, G-1601C, G-1601R, G-1602C, G-1604C, G-1604Cl, G-1604F, G-1604P, G-1606B, G-1606B<sub>bis</sub>, G-1606L, G-1607ZR, G-1608DP, G-1609GC, G-1610M, G-1611S, G-1611V, G-1612P, G-1613M, G-1613P, G-1613V, G-1615P, G-1616M, G-1617P, G-1619B, G-1619V, G-1620M, G-1620S, G-1621R, G-1624I, G-1624MT, G-1625C, G-1625S, G-1625SS, G-1626C, G-1626Co, G-1627M, G-1628T, G-1628Tu, G-1630L, G-1630T, G-1632FT, G-1639CF, G-1642M, G-1643I, G-1644P, G-1644S
+!!@@BEGIN:	VERSES
+!!@ABOUTIT:
+!!@ABOUTEN:
+!!@EDITOR:	Angelo Solerti
+!!@EDITION_TITLE: Gerusalemme liberata. Poema eroico di Torquato Tasso. Edizione critica sui manoscritti e le prime stampe.
+!!@EDITION_LOC:	Florence
+!!@EDITION_PUB:	G. Barbera
+!!@EDITION_DATE:  1895
+!!@EDITION_VOL:
+!!@EDITION_PAGE:
+!!@TRANSLATOR:	Emiliano Ricciardi and Amyrose McCue Gill
+!!@VERSE:
+!!	Là tra ’l sangue e le morti egro giacente
+!!	Mi pagherai le pene, empio guerriero.
+!!	Per nome Armida chiamerai sovente
+!!	Negli ultimi singulti; udir ciò spero...
+!!	Or qui mancò lo spirto alla dolente;
+!!	Né quest’ultimo suono espresse intero:
+!!	E cadde tramortita, e si diffuse
+!!	Di gelato sudore, e i lumi chiuse.
+!!@TVERSE:
+!!	There among the blood and the dead, weak, prostrate,
+!!	You will pay me for my pains, wicked warrior.
+!!	For the name Armida you will call often
+!!	With your last sobs; to hear that I wish…
+!!	Now here breath was lacking from the suffering woman;
+!!	Nor this last sound did she express entire:
+!!	And fell stunned, and was drenched
+!!	In icy sweat, and closed her eyes.
+!!@@END:		VERSES
+!!@OTHER_CRIT_ED:  Torquato Tasso, <i>Gerusalemme liberata</i>, ed. Lanfranco Caretti, 2 vols. (Bari: Laterza, 1967).
+!!@ATTRIBUTION_ABOUT:
+!!@DATING:	mid-1560s through 1570s
+!!@DEDICATEE:	Duke Alfonso II d'Este
+!!@COMMENTARY:
+!!@@END:		VERSEDATA
+!!@@BEGIN: SETTING
+!!@CATALOGNUM:	Tsg16060e
+!!@CANTO:		XVI
+!!@OTTAVA:	60
+!!@TITLE:	Là tra 'l sangue e le morti egro giacente
+!!@COMPOSER:	D'India, Sigismondo
+!!@PARTS:		2 of 2 (1 at XVI, 40, row 91)
+!!@PRINCEPSTITLE:	Musiche di Sigismondo d' India 
+!!@PRINCEPSLOC:	Milan
+!!@NORMLOC:	Milan
+!!@NORMPUB:	Simon Tini & Filippo Lomazzo
+!!@NORMPUBSHORT:	Tini & Lomazzo
+!!@PRINCEPSPUB:	Tini & Lomazzo
+!!@PRINCEPSYEAR:	1609
+!!@PRINCEPSRISM:	I 24
+!!@OVOICES:	1+bc
+!!@EXTANTVOICES:	1+bc
+!!@OMENSURATION:	C
+!!@OCLEFS:	C1,F4
+!!@OTIME:		
+!!@OKEYSIG:	b-
+!!@FINAL:		D
+!!@TIMPEDITOR:	Ricciardi, Emiliano
+!!@REPRINTS:	
+!!@@END: SETTING
