@@ -20,7 +20,7 @@ Launch the server
 
 `python3 manage.py runserver`
 
-Go to the webpage http://127.0.0.1:8000/fb.
+Go to the webpage http://127.0.0.1:8000.
 
 # Known bugs
 The musical snippets of Du Fay's Missa L'homme armé cannot be displayed on the webpage, due to an error of the humdrum-tool command myank (trying to fix it with the developer).
